@@ -49,16 +49,22 @@
   /* Brightness explicitly dropped to 70%, Saturation to 100%, and tint darkened to remove overexposure */
   .liquid-glass,
   .premium-card {
-    /* Restore Transparency */
-    background-color: rgba(255, 255, 255, 0.03);
+    /* Restore the 24px curved borders */
+    border-radius: 24px !important;
 
-    /* Standard Blur - Removed !important and transform hacks */
-    backdrop-filter: blur(12px) saturate(180%);
-    -webkit-backdrop-filter: blur(12px) saturate(180%);
+    /* Increased visibility - backdrop-filter needs a slightly higher alpha to "catch" the light */
+    background-color: rgba(255, 255, 255, 0.08) !important;
 
-    /* Ensure the card has a subtle border to define the glass edges */
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    /* The Blur - bumped to 20px for high visibility */
+    backdrop-filter: blur(20px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+
+    /* Defining the glass edges */
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3) !important;
+
+    /* Force the browser to treat this as a transparent overlay */
+    isolation: auto !important;
   }
 
   .btn-primary {
