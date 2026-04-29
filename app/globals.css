@@ -34,9 +34,15 @@
 @layer components {
   /* Brightness explicitly dropped to 70%, Saturation to 100%, and tint darkened to remove overexposure */
   .liquid-glass, .premium-card {
-    background: rgba(0, 0, 0, 0.2) !important;
-    backdrop-filter: blur(20px) saturate(100%) brightness(70%) !important;
-    -webkit-backdrop-filter: blur(20px) saturate(100%) brightness(70%) !important;
+    /* High-performance blur */
+    backdrop-filter: blur(12px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(12px) saturate(180%) !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    
+    /* CRITICAL: Force GPU acceleration to prevent scroll lag */
+    will-change: backdrop-filter;
+    transform: translateZ(0); 
+    
     border: 1px solid rgba(255, 255, 255, 0.15) !important;
     border-radius: 2.5rem !important;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5) !important;
