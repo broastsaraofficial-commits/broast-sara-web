@@ -1,6 +1,11 @@
-export async function generateMetadata({ params }) {
-  const { slug } = params;
+// File: app/locations/[slug]/layout.jsx
 
+export async function generateMetadata({ params }) {
+  // 1. Await the params object (CRITICAL Next.js 15 requirement)
+  const resolvedParams = await params;
+  const slug = resolvedParams.slug;
+
+  // 2. Branch Data Dictionary
   const branches = {
     "al-aziziyyah": { ar: "العزيزية", en: "Al Aziziyyah" },
     "al-hijrah": { ar: "الهجرة", en: "Al Hijrah" },
@@ -12,17 +17,30 @@ export async function generateMetadata({ params }) {
     "abiar-al-mashi": { ar: "أبيار الماشي", en: "Abiar Al Mashi" }
   };
 
-  const branch = branches[slug] || { ar: "المدينة المنورة", en: "Madinah" };
+  const branch = branches[slug];
 
+  // 3. Failsafe for invalid slugs to prevent 500 errors
+  if (!branch) {
+    return {
+      title: 'فرع غير موجود | بروست سارة',
+      alternates: { canonical: 'https://broastsara.com/locations' }
+    };
+  }
+
+  // 4. Exact mapping to the SEO Strategy Document requirements
   return {
-    title: `فرع ${branch.ar} | بروست سارة`,
-    description: `اطلب الآن من بروست سارة فرع ${branch.ar}. نقدم أفضل بروست طازج 100%، مسحب دجاج، وشاورما الصاروخ في ${branch.ar}، المدينة المنورة. خدمة سريعة وتوصيل متاح.`,
+    title: `بروست سارة فرع ${branch.ar} | رقم الهاتف، العنوان، أوقات العمل — Broast Sara ${branch.en}`,
+    description: `بروست سارة فرع ${branch.ar} في المدينة المنورة — أفضل برست وشاورما قريباً منك. عنوان الفرع، رقم الهاتف، أوقات العمل وخدمة التوصيل المتاحة. اتصل الآن أو اطلب أون لاين.`,
     alternates: {
       canonical: `https://broastsara.com/locations/${slug}`,
     },
+    openGraph: {
+      title: `بروست سارة فرع ${branch.ar}`,
+      url: `https://broastsara.com/locations/${slug}`,
+    }
   };
 }
 
-export default function BranchLayout({ children }) {
-  return children;
+export default function LocationLayout({ children }) {
+  return <>{children}</>;
 }
