@@ -13,7 +13,7 @@
 
   body {
     background-color: #050505;
-    overflow-x: hidden;
+    /* overflow-x: hidden REMOVED to allow backdrop-filter compositing */
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
 
@@ -46,10 +46,15 @@
 
 @layer components {
 
-  /* Restored Universal Glass Classes for all sub-pages */
+  /* Restored Universal Glass Classes using standard CSS to bypass Tailwind compiler crashes */
   .liquid-glass,
   .premium-card {
-    @apply bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0, 0, 0, 0.5)] rounded-[40px];
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    backdrop-filter: blur(24px) !important;
+    -webkit-backdrop-filter: blur(24px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5) !important;
+    border-radius: 40px !important;
   }
 
   .btn-primary {
