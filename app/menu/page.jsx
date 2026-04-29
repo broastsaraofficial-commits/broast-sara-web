@@ -86,7 +86,7 @@ export default function MenuPage() {
   ];
 
   return (
-    <div className="w-full pt-40 pb-32 px-6 relative">
+    <div className="w-full pt-40 pb-32 px-6">
       <div className="max-w-6xl mx-auto">
         <h1 className={`text-5xl md:text-7xl mb-8 text-center text-[#FFD700] ${lang === 'en' ? 'en-accent-heading' : ''}`}>
           {lang === 'ar' ? "قائمة الطعام" : "Our Menu"}
@@ -110,39 +110,39 @@ export default function MenuPage() {
               <h2 className={`text-3xl md:text-5xl mb-12 text-white border-b border-[#E31837] pb-4 inline-block ${lang === 'en' ? 'en-accent-heading' : ''}`}>
                 {lang === 'ar' ? cat.categoryAr : cat.categoryEn}
               </h2>
-              
+
               <div className="flex flex-col gap-8">
                 {cat.items.map((item) => (
                   <div key={item.id} className="premium-card p-6 md:p-8 flex flex-col md:flex-row items-center gap-8 w-full">
-                    
+
                     <div className="w-full md:w-80 h-72 md:h-64 flex-shrink-0 flex items-center justify-center">
-                        <img 
-                            src={`/menu/${item.img}`} 
-                            alt={item.nameEn} 
-                            className="w-full h-full object-contain drop-shadow-2xl transition-transform duration-300 hover:scale-110"
-                            onError={(e) => { e.target.onerror = null; e.target.src = '/broast-sara-logo.webp'; }}
-                        />
+                      <img
+                        src={`/menu/${item.img}`}
+                        alt={item.nameEn}
+                        className="w-full h-full object-contain drop-shadow-2xl transition-transform duration-300 hover:scale-110"
+                        onError={(e) => { e.target.onerror = null; e.target.src = '/broast-sara-logo.webp'; }}
+                      />
                     </div>
-                    
+
                     <div className="flex flex-col items-center md:items-start justify-center w-full text-center md:text-start" style={{ textAlign: lang === 'ar' ? 'right' : 'left' }}>
-                        <h3 className={`text-3xl font-bold text-white mb-2 ${lang === 'en' ? 'en-accent-heading' : ''}`}>
-                            {lang === 'ar' ? item.nameAr : item.nameEn}
-                        </h3>
-                        
-                        <div className="flex items-center gap-2 mb-4">
-                            <span className="text-white font-bold text-xl">{getRating(item.id)}</span>
-                            <span className="text-[#FFD700] text-2xl">★★★★☆</span>
-                        </div>
-                        
-                        <p className="text-white/80 text-lg leading-relaxed mb-6 max-w-2xl">
-                            {lang === 'ar' ? item.descAr : item.descEn}
-                        </p>
-                        
-                        <div className="flex justify-center md:justify-start w-full">
-                            <span className="bg-[#E31837] text-white font-black text-2xl py-3 px-10 rounded-full shadow-[0_0_20px_rgba(227,24,55,0.5)] transition-transform hover:scale-105 active:scale-95 cursor-default">
-                                {lang === 'ar' ? item.priceAr : item.priceEn}
-                            </span>
-                        </div>
+                      <h3 className={`text-3xl font-bold text-white mb-2 ${lang === 'en' ? 'en-accent-heading' : ''}`}>
+                        {lang === 'ar' ? item.nameAr : item.nameEn}
+                      </h3>
+
+                      <div className="flex items-center gap-2 mb-4">
+                        <span className="text-white font-bold text-xl">{getRating(item.id)}</span>
+                        <span className="text-[#FFD700] text-2xl">★★★★☆</span>
+                      </div>
+
+                      <p className="text-white/80 text-lg leading-relaxed mb-6 max-w-2xl">
+                        {lang === 'ar' ? item.descAr : item.descEn}
+                      </p>
+
+                      <div className="flex justify-center md:justify-start w-full">
+                        <span className="bg-[#E31837] text-white font-black text-2xl py-3 px-10 rounded-full shadow-[0_0_20px_rgba(227,24,55,0.5)] transition-transform hover:scale-105 active:scale-95 cursor-default">
+                          {lang === 'ar' ? item.priceAr : item.priceEn}
+                        </span>
+                      </div>
                     </div>
                   </div>
                 ))}

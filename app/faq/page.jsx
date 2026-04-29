@@ -178,7 +178,7 @@ export default function FAQPage() {
   };
 
   return (
-    <main className="min-h-screen pt-40 pb-24 px-6 relative z-10" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
+    <main className="min-h-screen pt-40 pb-24 px-6" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
       {/* Schema Injection */}
       <script
         type="application/ld+json"
