@@ -45,6 +45,13 @@
 }
 
 @layer components {
+
+  /* Restored Universal Glass Classes for all sub-pages */
+  .liquid-glass,
+  .premium-card {
+    @apply bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0, 0, 0, 0.5)] rounded-[40px];
+  }
+
   .btn-primary {
     @apply bg-[#E31837] text-white px-10 py-4 rounded-full transition-transform hover:scale-105 inline-flex items-center justify-center;
   }
