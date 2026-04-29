@@ -4,6 +4,7 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import Image from "next/image"; // استيراد مكون الصورة لتحسين الأداء
 
 const cairo = Cairo({ subsets: ["arabic"], weight: ["400", "700", "900"], variable: "--font-cairo", display: "swap" });
 const instrument = Instrument_Serif({ subsets: ["latin"], weight: ["400"], style: ["italic", "normal"], variable: "--font-instrument", display: "swap" });
@@ -38,15 +39,42 @@ export const metadata = {
     locale: "ar_SA",
     type: "website",
   },
+  // دمج أيقونات الموقع
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/favicon.png', type: 'image/png' }
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png' }
+    ]
+  }
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="ar" suppressHydrationWarning>
       <body className={`${cairo.variable} ${instrument.variable} bg-black antialiased text-white min-h-screen flex flex-col relative`}>
+        {/* تحسين صور الخلفية باستخدام مكون Image لضمان سرعة التحميل وعدم حجب العرض */}
         <div className="fixed inset-0 w-full h-full z-[-2] pointer-events-none">
-          <img src="/images/Gemini_Generated_Image_6l0zje6l0zje6l0zzz.webp" className="w-full h-full object-cover hidden md:block" alt="Madinah Background" />
-          <img src="/images/Gemini_Generated_Image_scxlx2scxlx2scxll (1).webp" className="w-full h-full object-cover block md:hidden" alt="Madinah Mobile" />
+          <div className="hidden md:block w-full h-full relative">
+            <Image
+              src="/images/Gemini_Generated_Image_6l0zje6l0zje6l0zzz.webp"
+              alt="Madinah Background"
+              fill
+              priority
+              className="object-cover"
+            />
+          </div>
+          <div className="block md:hidden w-full h-full relative">
+            <Image
+              src="/images/Gemini_Generated_Image_scxlx2scxlx2scxll (1).webp"
+              alt="Madinah Mobile"
+              fill
+              priority
+              className="object-cover"
+            />
+          </div>
         </div>
         <div className="fixed inset-0 bg-black/10 z-[-1] pointer-events-none" />
 
