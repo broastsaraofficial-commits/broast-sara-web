@@ -13,7 +13,6 @@
 
   body {
     background-color: #050505;
-    /* overflow-x: hidden REMOVED to allow backdrop-filter compositing */
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
 
@@ -46,10 +45,11 @@
 
 @layer components {
 
-  /* Restored Universal Glass Classes with strict Tailwind syntax */
+  /* Restored Universal Glass Classes with compiler-safe syntax */
   .liquid-glass,
   .premium-card {
-    @apply bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0, 0, 0, 0.5)] rounded-[40px];
+    @apply bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px];
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5) !important;
   }
 
   .btn-primary {
