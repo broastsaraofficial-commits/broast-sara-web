@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
 
         <LanguageProvider>
           <Navbar />
-          <main className="relative z-10 flex-grow">{children}</main>
+          <main className="flex-grow">{children}</main>
           <Footer />
           <WhatsAppButton />
         </LanguageProvider>
