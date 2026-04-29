@@ -6,50 +6,65 @@
   * {
     color: #FFFFFF !important;
     box-sizing: border-box;
-    font-style: normal !important; 
-    font-weight: 400 !important; 
-    text-transform: none !important; 
+    font-style: normal !important;
+    font-weight: 400 !important;
+    text-transform: none !important;
   }
+
   body {
     background-color: #050505;
     overflow-x: hidden;
     font-family: 'Helvetica', 'Arial', sans-serif;
   }
+
   [dir="rtl"] {
     font-family: var(--font-cairo), sans-serif;
   }
-  
+
   /* English Headings -> Instrument Serif */
-  [dir="ltr"] h1, [dir="ltr"] h2, [dir="ltr"] h3, [dir="ltr"] h4, [dir="ltr"] h5, [dir="ltr"] h6, .en-accent-heading {
+  [dir="ltr"] h1,
+  [dir="ltr"] h2,
+  [dir="ltr"] h3,
+  [dir="ltr"] h4,
+  [dir="ltr"] h5,
+  [dir="ltr"] h6,
+  .en-accent-heading {
     font-family: var(--font-instrument), serif !important;
   }
-  
+
   /* Arabic Headings -> Forced Cairo Bold */
-  [dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3, [dir="rtl"] h4, [dir="rtl"] h5, [dir="rtl"] h6 {
+  [dir="rtl"] h1,
+  [dir="rtl"] h2,
+  [dir="rtl"] h3,
+  [dir="rtl"] h4,
+  [dir="rtl"] h5,
+  [dir="rtl"] h6 {
     font-family: var(--font-cairo), sans-serif !important;
     font-weight: 700 !important;
   }
 }
 
 @layer components {
+
   /* Brightness explicitly dropped to 70%, Saturation to 100%, and tint darkened to remove overexposure */
-  .liquid-glass, .premium-card {
-    /* High-performance blur */
-    backdrop-filter: blur(12px) saturate(180%) !important;
-    -webkit-backdrop-filter: blur(12px) saturate(180%) !important;
-    background-color: rgba(255, 255, 255, 0.05) !important;
-    
-    /* CRITICAL: Force GPU acceleration to prevent scroll lag */
-    will-change: backdrop-filter;
-    transform: translateZ(0); 
-    
-    border: 1px solid rgba(255, 255, 255, 0.15) !important;
-    border-radius: 2.5rem !important;
-    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5) !important;
+  .liquid-glass,
+  .premium-card {
+    /* Restore Transparency */
+    background-color: rgba(255, 255, 255, 0.03);
+
+    /* Standard Blur - Removed !important and transform hacks */
+    backdrop-filter: blur(12px) saturate(180%);
+    -webkit-backdrop-filter: blur(12px) saturate(180%);
+
+    /* Ensure the card has a subtle border to define the glass edges */
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   }
+
   .btn-primary {
     @apply bg-[#E31837] text-white px-10 py-4 rounded-full transition-transform hover:scale-105 inline-flex items-center justify-center;
   }
+
   .btn-secondary {
     @apply border border-white/30 bg-white/5 text-white px-10 py-4 rounded-full transition-colors hover:bg-white/10 inline-flex items-center justify-center;
   }
