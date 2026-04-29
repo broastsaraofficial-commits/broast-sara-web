@@ -119,7 +119,7 @@ export default function HomePage() {
           </p>
           <div className="flex flex-wrap justify-center gap-6">
             <Link href="#order-online" className="btn-primary text-xl px-12 py-5">{t.orderNow}</Link>
-            <Link href="/menu" className="btn-secondary liquid-glass text-xl px-12 py-5 border-none">{t.viewMenu}</Link>
+            <Link href="/menu" className="btn-secondary bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-full text-xl px-12 py-5">{t.viewMenu}</Link>
           </div>
         </div>
       </section>
@@ -128,7 +128,7 @@ export default function HomePage() {
       <section className="w-full px-6 mb-32">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {t.pillars.map((item, i) => (
-            <div key={i} className="premium-card p-10 text-center flex flex-col items-center justify-start">
+            <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-10 text-center flex flex-col items-center justify-start">
               <div className="mb-6">{tickIcon}</div>
               <h3 className="text-white text-2xl mb-4 font-bold">{item.title}</h3>
               <p className="text-base text-white/80">{item.desc}</p>
@@ -144,36 +144,36 @@ export default function HomePage() {
             {t.blocks.sigTitle}
           </h2>
           <div className="grid grid-cols-1 gap-16">
-             {t.signatures.map((prod, i) => (
-               <div key={i} className="premium-card flex flex-col overflow-hidden p-0 items-center text-center w-full">
-                  <div className="w-full h-80 md:h-[450px]">
-                     <img src={`/products/${prod.img}`} alt={prod.name} className="w-full h-full object-cover" />
-                  </div>
-                  <div className="p-10 flex flex-col justify-center w-full max-w-4xl mx-auto">
-                    <h3 className={`text-3xl md:text-4xl mb-4 text-[#E31837] font-bold ${lang === 'en' ? 'en-accent-heading' : ''}`}>{prod.name}</h3>
-                    <p className="text-xl text-white/90 leading-relaxed">{prod.desc}</p>
-                  </div>
-               </div>
-             ))}
+            {t.signatures.map((prod, i) => (
+              <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] flex flex-col overflow-hidden p-0 items-center text-center w-full">
+                <div className="w-full h-80 md:h-[450px]">
+                  <img src={`/products/${prod.img}`} alt={prod.name} className="w-full h-full object-cover" />
+                </div>
+                <div className="p-10 flex flex-col justify-center w-full max-w-4xl mx-auto">
+                  <h3 className={`text-3xl md:text-4xl mb-4 text-[#E31837] font-bold ${lang === 'en' ? 'en-accent-heading' : ''}`}>{prod.name}</h3>
+                  <p className="text-xl text-white/90 leading-relaxed">{prod.desc}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>
 
       {/* Block 4: Branch Map Strip */}
       <section className="w-full px-6 mb-32">
-        <div className="max-w-6xl mx-auto premium-card p-10 md:p-16 flex flex-col md:flex-row gap-12 items-center text-center md:text-start" style={{ textAlign: lang === 'ar' ? 'right' : 'left' }}>
+        <div className="max-w-6xl mx-auto bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-10 md:p-16 flex flex-col md:flex-row gap-12 items-center text-center md:text-start" style={{ textAlign: lang === 'ar' ? 'right' : 'left' }}>
           <div className="w-full md:w-1/2">
-             <h2 className={`text-4xl md:text-5xl mb-8 text-[#FFD700] ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.mapTitle}</h2>
-             <div className="grid grid-cols-2 gap-4 mb-8">
-               {t.branches.map((b, i) => (
-                 <Link key={i} href={`/locations/${b.slug}`} className="text-white hover:text-[#E31837] text-lg font-bold transition-colors no-underline">
-                   {b.name}
-                 </Link>
-               ))}
-             </div>
-             <Link href="/locations" className="btn-secondary liquid-glass border-none w-full justify-center">{t.blocks.viewBranches}</Link>
+            <h2 className={`text-4xl md:text-5xl mb-8 text-[#FFD700] ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.mapTitle}</h2>
+            <div className="grid grid-cols-2 gap-4 mb-8">
+              {t.branches.map((b, i) => (
+                <Link key={i} href={`/locations/${b.slug}`} className="text-white hover:text-[#E31837] text-lg font-bold transition-colors no-underline">
+                  {b.name}
+                </Link>
+              ))}
+            </div>
+            <Link href="/locations" className="btn-secondary bg-black/20 backdrop-blur-xl border border-white/30 shadow-lg rounded-full w-full justify-center">{t.blocks.viewBranches}</Link>
           </div>
-          <div className="w-full md:w-1/2 h-80 rounded-3xl overflow-hidden border border-white/20">
+          <div className="w-full md:w-1/2 h-80 rounded-[40px] overflow-hidden border border-white/20">
             <iframe width="100%" height="100%" frameBorder="0" style={{ border: 0 }} src="https://maps.google.com/maps?q=Madinah&t=&z=11&ie=UTF8&iwloc=&output=embed" allowFullScreen></iframe>
           </div>
         </div>
@@ -181,7 +181,7 @@ export default function HomePage() {
 
       {/* Block 5: Delivery */}
       <section id="order-online" className="w-full px-6 mb-32 scroll-mt-32">
-        <div className="max-w-4xl mx-auto text-center premium-card p-16">
+        <div className="max-w-4xl mx-auto text-center bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-16">
           <h2 className={`text-4xl mb-8 ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.orderTitle}</h2>
           <div className="flex flex-col md:flex-row justify-center items-center gap-6">
             <a href="#" className="bg-[#E31837] text-white py-4 rounded-full font-bold text-xl hover:scale-105 transition-transform shadow-[0_0_20px_rgba(227,24,55,0.4)] w-full md:w-64 text-center">HungerStation</a>
@@ -192,7 +192,7 @@ export default function HomePage() {
 
       {/* Block 7: FAQ Teaser */}
       <section className="w-full px-6 mb-32">
-        <div className="max-w-5xl mx-auto premium-card p-12 md:p-16">
+        <div className="max-w-5xl mx-auto bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-12 md:p-16">
           <h2 className={`text-4xl md:text-5xl mb-12 text-center text-[#FFD700] ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.faqTitle}</h2>
           <div className="flex flex-col gap-8 text-center md:text-start" style={{ textAlign: lang === 'ar' ? 'right' : 'left' }}>
             {t.faqs.map((faq, i) => (
@@ -203,9 +203,9 @@ export default function HomePage() {
             ))}
           </div>
           <div className="mt-12 flex justify-center">
-             <Link href="/faq" className="btn-secondary liquid-glass text-lg px-10 py-4 border-none font-bold">
-               {t.blocks.viewAllFaq}
-             </Link>
+            <Link href="/faq" className="btn-secondary bg-black/20 backdrop-blur-xl border border-white/30 shadow-lg rounded-full text-lg px-10 py-4 font-bold">
+              {t.blocks.viewAllFaq}
+            </Link>
           </div>
         </div>
       </section>
@@ -216,7 +216,7 @@ export default function HomePage() {
           <h2 className={`text-4xl md:text-6xl mb-16 text-center ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.blogTitle}</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {t.blogs.map((blog, i) => (
-              <div key={i} className="premium-card p-8 flex flex-col justify-between min-h-[300px]">
+              <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-8 flex flex-col justify-between min-h-[300px]">
                 <div className="flex flex-col gap-4">
                   <span className="text-[#FFD700] text-sm tracking-widest uppercase font-bold">{blog.date}</span>
                   <h3 className={`text-2xl font-bold ${lang === 'en' ? 'en-accent-heading' : ''}`}>{blog.title}</h3>
@@ -233,10 +233,10 @@ export default function HomePage() {
 
       {/* Block 6: Food Safety */}
       <section className="w-full px-6 mb-32">
-        <div className="max-w-5xl mx-auto text-center premium-card p-12 md:p-16">
+        <div className="max-w-5xl mx-auto text-center bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] p-12 md:p-16">
           <h2 className={`text-4xl md:text-6xl mb-8 ${lang === 'en' ? 'en-accent-heading' : ''}`}>{t.blocks.safetyTitle}</h2>
           <p className="text-xl text-white/80 max-w-3xl mx-auto mb-10 leading-relaxed">{t.blocks.safetyDesc}</p>
-          <Link href="/legal/food-safety" className="btn-secondary liquid-glass text-lg px-10 py-4 border-none font-bold">{t.blocks.readMore}</Link>
+          <Link href="/legal/food-safety" className="btn-secondary bg-black/20 backdrop-blur-xl border border-white/30 shadow-lg rounded-full text-lg px-10 py-4 font-bold">{t.blocks.readMore}</Link>
         </div>
       </section>
     </div>
