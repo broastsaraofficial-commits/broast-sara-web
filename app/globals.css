@@ -3,21 +3,26 @@
 @tailwind utilities;
 
 @layer base {
-  * {
+  body {
+    background-color: #050505;
     color: #FFFFFF !important;
-    box-sizing: border-box;
     font-style: normal !important;
     font-weight: 400 !important;
     text-transform: none !important;
+    font-family: 'Helvetica', 'Arial', sans-serif;
   }
 
-  body {
-    background-color: #050505;
-    font-family: 'Helvetica', 'Arial', sans-serif;
+  /* Mobile-only letter spacing reduction for Helvetica */
+  @media (max-width: 768px) {
+    body {
+      letter-spacing: -0.03em;
+    }
   }
 
   [dir="rtl"] {
     font-family: var(--font-cairo), sans-serif;
+    letter-spacing: normal !important;
+    /* Protects Arabic font from English letter-spacing changes */
   }
 
   /* English Headings -> Instrument Serif */

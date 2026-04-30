@@ -55,14 +55,13 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ar" suppressHydrationWarning>
       <body className={`${cairo.variable} ${instrument.variable} bg-black antialiased text-white min-h-screen flex flex-col relative`}>
-        {/* تحسين صور الخلفية باستخدام مكون Image لضمان سرعة التحميل وعدم حجب العرض */}
+        {/* Background Layer: Priority removed from desktop to save mobile bandwidth */}
         <div className="fixed inset-0 w-full h-full z-[-2] pointer-events-none">
           <div className="hidden md:block w-full h-full relative">
             <Image
               src="/images/Gemini_Generated_Image_6l0zje6l0zje6l0zzz.webp"
               alt="Madinah Background"
               fill
-              priority
               className="object-cover"
             />
           </div>

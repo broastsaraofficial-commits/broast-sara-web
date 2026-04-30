@@ -1,5 +1,6 @@
 "use client";
 import Link from "next/link";
+import Image from "next/image"; // Added for performance optimization
 import { useLanguage } from "@/context/LanguageContext";
 
 export default function HomePage() {
@@ -146,8 +147,9 @@ export default function HomePage() {
           <div className="grid grid-cols-1 gap-16">
             {t.signatures.map((prod, i) => (
               <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 shadow-[0_10px_40px_rgba(0,0,0,0.5)] rounded-[40px] flex flex-col overflow-hidden p-0 items-center text-center w-full">
-                <div className="w-full h-80 md:h-[450px]">
-                  <img src={`/products/${prod.img}`} alt={prod.name} className="w-full h-full object-cover" />
+                {/* Fixed: Replaced img with optimized Next Image */}
+                <div className="w-full h-80 md:h-[450px] relative">
+                  <Image src={`/products/${prod.img}`} alt={prod.name} fill sizes="(max-width: 768px) 100vw, 80vw" className="object-cover" />
                 </div>
                 <div className="p-10 flex flex-col justify-center w-full max-w-4xl mx-auto">
                   <h3 className={`text-3xl md:text-4xl mb-4 text-[#E31837] font-bold ${lang === 'en' ? 'en-accent-heading' : ''}`}>{prod.name}</h3>
@@ -174,7 +176,8 @@ export default function HomePage() {
             <Link href="/locations" className="btn-secondary bg-black/20 backdrop-blur-xl border border-white/30 shadow-lg rounded-full w-full justify-center">{t.blocks.viewBranches}</Link>
           </div>
           <div className="w-full md:w-1/2 h-80 rounded-[40px] overflow-hidden border border-white/20">
-            <iframe width="100%" height="100%" frameBorder="0" style={{ border: 0 }} src="https://maps.google.com/maps?q=Madinah&t=&z=11&ie=UTF8&iwloc=&output=embed" allowFullScreen></iframe>
+            {/* Fixed: Added loading="lazy" to unblock the main thread */}
+            <iframe width="100%" height="100%" frameBorder="0" style={{ border: 0 }} src="https://maps.google.com/maps?q=Madinah&t=&z=11&ie=UTF8&iwloc=&output=embed" allowFullScreen loading="lazy" title="Broast Sara Locations"></iframe>
           </div>
         </div>
       </section>
