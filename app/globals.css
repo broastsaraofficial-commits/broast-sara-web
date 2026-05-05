@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  /* 1. Standardize Helvetica for all body text */
+  body,
+  p,
+  span,
+  a,
+  li,
+  button {
+    font-family: 'Helvetica', 'Arial', sans-serif !important;
+    letter-spacing: -0.05em !important;
+    /* Reduced as requested */
+    font-weight: 400;
+    color: #FFFFFF;
+  }
+
+  /* 2. Standardize Instrument Serif for ALL headings */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .serif-heading {
+    font-family: var(--font-instrument), serif !important;
+    font-weight: 400 !important;
+    /* Normal weight as requested */
+    letter-spacing: normal !important;
+  }
+
+  /* 3. Targeted Arabic Font (only applies when lang="ar") */
+  html[lang="ar"] body,
+  html[lang="ar"] p,
+  html[lang="ar"] span,
+  html[lang="ar"] a,
+  html[lang="ar"] h1,
+  html[lang="ar"] h2,
+  html[lang="ar"] h3 {
+    font-family: var(--font-cairo), sans-serif !important;
+    letter-spacing: normal !important;
+  }
+}
+
+@layer components {
+  .liquid-glass {
+    @apply bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px];
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  }
+
+  .btn-primary {
+    @apply bg-[#E31837] text-white px-10 py-4 rounded-full transition-transform hover:scale-105 inline-flex items-center justify-center font-normal;
+  }
+
+  .btn-secondary {
+    @apply border border-white/30 bg-white/5 text-white px-10 py-4 rounded-full transition-colors hover:bg-white/10 inline-flex items-center justify-center font-normal;
+  }
+}

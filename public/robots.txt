@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /avatars/
+Sitemap: https://broastsara.com/sitemap.xml
