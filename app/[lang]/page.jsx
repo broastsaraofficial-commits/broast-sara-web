@@ -28,7 +28,7 @@ const dict = {
     blog: [
       { title: "لماذا دجاج بروست سارة هو الأفضل في المدينة المنورة؟", desc: "اكتشف سر القرمشة المثالية والجودة التي ميزتنا لأكثر من عقد في المدينة المنورة.", slug: "why-choose-broast-sara" },
       { title: "معايير HACCP وجودة الغذاء", desc: "نطبق أعلى معايير السلامة العالمية لضمان وصول وجبتك بأمان وبأعلى جودة.", slug: "food-safety-haccp" },
-      { title: "أسرار قرمشة الجمبري الذهبي", desc: "كيف نحافظ على القوام الطري للجمبري مع قشرة مقرمشة لا تقاوم.", slug: "shrimp-golden-crunch" }
+      { title: "أسرار قرمشة الجمبري الذهبي", desc: "كيف نحافظ على القوام الطري للجمبري مع قشرة مقرمشة لا تقاوم.", slug: "secrets-of-crispy-broast" }
     ],
     readStory: "اقرأ القصة ←",
     branchesTitle: "فروعنا في خدمتك",
@@ -70,7 +70,7 @@ const dict = {
     blog: [
       { title: "Why Broast Sara is the best in Madinah?", desc: "Discover the secret of perfect crunch and quality that has defined us for over a decade in Madinah.", slug: "why-choose-broast-sara" },
       { title: "HACCP Standards and Food Quality", desc: "We apply the highest global safety standards to ensure your meal arrives safely and with the highest quality.", slug: "food-safety-haccp" },
-      { title: "Secrets of the Golden Shrimp Crunch", desc: "How we maintain the tender texture of shrimp with an irresistible crispy crust.", slug: "shrimp-golden-crunch" }
+      { title: "Secrets of the Golden Shrimp Crunch", desc: "How we maintain the tender texture of shrimp with an irresistible crispy crust.", slug: "secrets-of-crispy-broast" }
     ],
     readStory: "Read Story →",
     branchesTitle: "Our Branches at Your Service",
@@ -113,14 +113,12 @@ export default async function HomePage({ params }) {
     </svg>
   );
 
-  // Dynamic Date Fetching Logic
   const d = new Date();
   const monthNamesEn = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
   const monthNamesAr = ["يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"];
   const displayDate = isAr ? `${monthNamesAr[d.getMonth()]} ${d.getFullYear()}` : `${monthNamesEn[d.getMonth()]} ${d.getFullYear()}`;
 
   return (
-    // Strategy G2: Ensure the root direction follows the locale to fix punctuation
     <main className="w-full pt-40 pb-20 relative" dir={isAr ? "rtl" : "ltr"}>
 
       {/* SECTION 1: HERO */}
@@ -129,8 +127,8 @@ export default async function HomePage({ params }) {
           <h1 className="mb-8 text-5xl md:text-8xl font-bold text-white font-instrument">{t.title}</h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-12 text-white font-helvetica tracking-[-0.05em] leading-relaxed">{t.desc}</p>
           <div className="flex flex-wrap justify-center gap-6">
-            <Link href={isAr ? "/order" : "/en/order"} className="btn-primary font-helvetica tracking-[-0.05em]">{t.order}</Link>
-            <Link href={isAr ? "/menu" : "/en/menu"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.menu}</Link>
+            <Link href={isAr ? "/ar/order" : "/en/order"} className="btn-primary font-helvetica tracking-[-0.05em]">{t.order}</Link>
+            <Link href={isAr ? "/ar/menu" : "/en/menu"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.menu}</Link>
           </div>
         </div>
       </section>
@@ -177,7 +175,7 @@ export default async function HomePage({ params }) {
                 <h3 className="text-2xl text-white font-bold mb-4 font-instrument">{post.title}</h3>
                 <p className="text-white/80 font-helvetica tracking-[-0.05em] leading-relaxed mb-8">{post.desc}</p>
               </div>
-              <Link href={isAr ? `/blog/${post.slug}` : `/en/blog/${post.slug}`} className="text-white font-bold font-helvetica tracking-[-0.05em] hover:text-[#FFD700] transition-colors flex items-center gap-2">
+              <Link href={isAr ? `/ar/blog/${post.slug}` : `/en/blog/${post.slug}`} className="text-white font-bold font-helvetica tracking-[-0.05em] hover:text-[#FFD700] transition-colors flex items-center gap-2">
                 {t.readStory}
               </Link>
             </div>
@@ -190,19 +188,16 @@ export default async function HomePage({ params }) {
         <div className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] flex flex-col overflow-hidden">
           <div className="p-10 md:p-16 w-full text-center">
             <h2 className="text-4xl md:text-5xl mb-12 text-[#FFD700] font-bold font-instrument">{t.branchesTitle}</h2>
-            {/* FIXED ALIGNMENT: Grid centralized with w-fit mx-auto, icons aligned left/start */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-x-10 gap-y-8 mb-12 w-fit mx-auto">
               {t.branches.map((b, i) => (
-                <Link key={i} href={isAr ? `/locations/${b.slug}` : `/en/locations/${b.slug}`} className="text-white hover:text-[#E31837] text-lg font-bold no-underline flex items-center gap-3 justify-start">
-                  {/* REPLACED DOT WITH SHOP ICON */}
+                <Link key={i} href={isAr ? `/ar/locations/${b.slug}` : `/en/locations/${b.slug}`} className="text-white hover:text-[#E31837] text-lg font-bold no-underline flex items-center gap-3 justify-start">
                   {shopIcon}
                   <span className="font-helvetica tracking-[-0.05em]">{b.name}</span>
                 </Link>
               ))}
             </div>
-            <Link href={isAr ? "/locations" : "/en/locations"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allBranches}</Link>
+            <Link href={isAr ? "/ar/locations" : "/en/locations"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allBranches}</Link>
           </div>
-          {/* CRITICAL: Map iframe removed from padding container to touch edges */}
           <div className="w-full h-80 md:h-[450px] border-t border-white/20">
             <iframe width="100%" height="100%" src="https://maps.google.com/maps?q=Broast+Sara+Madinah&t=&z=12&ie=UTF8&iwloc=&output=embed" style={{ border: 0 }} allowFullScreen loading="lazy"></iframe>
           </div>
@@ -221,7 +216,7 @@ export default async function HomePage({ params }) {
           ))}
         </div>
         <div className="mt-12 flex justify-center">
-          <Link href={isAr ? "/faq" : "/en/faq"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allFaq}</Link>
+          <Link href={isAr ? "/ar/faq" : "/en/faq"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allFaq}</Link>
         </div>
       </section>
 
@@ -229,7 +224,7 @@ export default async function HomePage({ params }) {
       <section className="w-full px-6 mb-32 max-w-5xl mx-auto bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] p-12 md:p-16 text-center text-white">
         <h2 className="text-4xl md:text-6xl mb-8 text-[#FFD700] font-bold font-instrument">{t.safetyTitle}</h2>
         <p className="text-xl text-white font-helvetica tracking-[-0.05em] max-w-3xl mx-auto mb-10 leading-relaxed">{t.safetyDesc}</p>
-        <Link href={isAr ? "/legal/food-safety" : "/en/legal/food-safety"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.safetyBtn}</Link>
+        <Link href={isAr ? "/ar/legal/food-safety" : "/en/legal/food-safety"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.safetyBtn}</Link>
       </section>
     </main>
   );

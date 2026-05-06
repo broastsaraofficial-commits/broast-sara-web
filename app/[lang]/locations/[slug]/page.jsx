@@ -27,14 +27,31 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
     const resolvedParams = await params;
     const branch = branches[resolvedParams.slug];
-    const isEn = resolvedParams.lang === "en";
+    const lang = resolvedParams.lang || "ar";
+    const isEn = lang === "en";
 
     if (!branch) return { title: 'Branch Not Found' };
 
+    const title = isEn ? `Broast Sara ${branch.en} | Location & Hours` : `بروست سارة فرع ${branch.ar} | العنوان وأوقات العمل`;
+
+    // EXPANDED: Hits 140-160 characters for optimal SEO indexing
+    const description = isEn
+        ? `Find the phone number, exact address, and opening hours for the Broast Sara ${branch.en} branch. Visit us today to enjoy the best fresh, crispy broast chicken in Madinah. Located at ${branch.addressEn}.`
+        : `اكتشف رقم الهاتف، العنوان الدقيق، وأوقات العمل لفرع بروست سارة في ${branch.ar}. تفضل بزيارتنا اليوم لتستمتع بأفضل وجبات دجاج البروست الطازج والمقرمش في المدينة المنورة. يقع فرعنا في ${branch.addressAr}.`;
+
+    const canonicalUrl = `https://broastsara.com/${lang}/locations/${resolvedParams.slug}`;
+
     return {
-        title: isEn ? `Broast Sara ${branch.en} | Location & Hours` : `بروست سارة فرع ${branch.ar} | العنوان وأوقات العمل`,
-        description: isEn ? `Phone number, address, and opening hours for Broast Sara in ${branch.en}. ${branch.addressEn}.` : `رقم الهاتف، العنوان، وأوقات العمل لبروست سارة في ${branch.ar}. ${branch.addressAr}.`,
-        alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/locations/${resolvedParams.slug}` }
+        title,
+        description,
+        alternates: { canonical: canonicalUrl },
+        // ADDED: Validates Open Graph URLs for social sharing
+        openGraph: {
+            title,
+            description,
+            url: canonicalUrl,
+            type: "website",
+        }
     };
 }
 
@@ -106,7 +123,7 @@ export default async function BranchPage({ params }) {
                         <a href={`https://wa.me/966${branch.phone.substring(1)}`} target="_blank" rel="noopener noreferrer" className="btn-primary !bg-[#971111] hover:!bg-[#7a0d0d] shadow-[0_10px_30px_rgba(151,17,17,0.4)] border-none px-10 font-helvetica tracking-[-0.05em] font-normal text-white no-underline text-lg">
                             {isEn ? 'Order via WhatsApp' : 'اطلب عبر الواتساب'}
                         </a>
-                        <Link href={isEn ? "/en/menu" : "/menu"} className="btn-secondary px-10 font-helvetica tracking-[-0.05em] font-normal text-white no-underline text-lg">
+                        <Link href={isEn ? "/en/menu" : "/ar/menu"} className="btn-secondary px-10 font-helvetica tracking-[-0.05em] font-normal text-white no-underline text-lg">
                             {isEn ? 'View Menu' : 'قائمة الطعام'}
                         </Link>
                     </div>

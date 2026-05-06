@@ -16,41 +16,41 @@ export default function sitemap() {
     "ramadan-meals-iftar", "sarookh-shawarma-story", "fresh-vs-frozen-chicken"
   ];
 
-  // FIXED: English alternates now correctly inject the "/en" prefix into the URL
   const withAlternates = (path) => {
-    const englishPath = path === "" ? "/en" : `/en${path}`;
+    const arPath = path === "" ? "/ar" : `/ar${path}`;
+    const enPath = path === "" ? "/en" : `/en${path}`;
     return {
       languages: {
-        'ar-SA': `${baseUrl}${path}`,
-        'en-SA': `${baseUrl}${englishPath}`,
+        'ar-SA': `${baseUrl}${arPath}`,
+        'en-SA': `${baseUrl}${enPath}`,
       },
     };
   };
 
   const sitemapEntries = [
     ...corePages.map(route => ({
-      url: `${baseUrl}${route}`,
+      url: `${baseUrl}${route === "" ? "/ar" : `/ar${route}`}`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: route === "" ? 1.0 : 0.9,
       alternates: withAlternates(route),
     })),
     ...branches.map(branch => ({
-      url: `${baseUrl}/locations/${branch}`,
+      url: `${baseUrl}/ar/locations/${branch}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
       alternates: withAlternates(`/locations/${branch}`),
     })),
     ...articles.map(article => ({
-      url: `${baseUrl}/blog/${article}`,
+      url: `${baseUrl}/ar/blog/${article}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
       alternates: withAlternates(`/blog/${article}`),
     })),
     ...legalPages.map(route => ({
-      url: `${baseUrl}${route}`,
+      url: `${baseUrl}/ar${route}`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.5,

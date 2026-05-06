@@ -35,10 +35,10 @@ export default function Footer() {
 
         <div className="flex flex-col gap-2">
           <h3 className="text-2xl text-[#FFD700] font-bold font-instrument mb-3">{isEn ? 'Our Branches' : 'دليل الفروع'}</h3>
-          <Link href={isEn ? "/en/locations/al-aziziyyah" : "/locations/al-aziziyyah"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Aziziyyah' : 'العزيزية'}</Link>
-          <Link href={isEn ? "/en/locations/al-hijrah" : "/locations/al-hijrah"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Hijrah' : 'الهجرة'}</Link>
-          <Link href={isEn ? "/en/locations/imam-bukhari" : "/locations/imam-bukhari"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Imam Bukhari' : 'الإمام البخاري'}</Link>
-          <Link href={isEn ? "/en/locations/hil-bahr" : "/locations/hil-bahr"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Hil Bahr' : 'حي البحر'}</Link>
+          <Link href={isEn ? "/en/locations/al-aziziyyah" : "/ar/locations/al-aziziyyah"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Aziziyyah' : 'العزيزية'}</Link>
+          <Link href={isEn ? "/en/locations/al-hijrah" : "/ar/locations/al-hijrah"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Hijrah' : 'الهجرة'}</Link>
+          <Link href={isEn ? "/en/locations/imam-bukhari" : "/ar/locations/imam-bukhari"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Imam Bukhari' : 'الإمام البخاري'}</Link>
+          <Link href={isEn ? "/en/locations/hil-bahr" : "/ar/locations/hil-bahr"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Hil Bahr' : 'حي البحر'}</Link>
         </div>
 
         <div className="flex flex-col gap-2">
@@ -55,10 +55,10 @@ export default function Footer() {
 
         <div className="flex flex-col gap-2">
           <h3 className="text-2xl text-[#FFD700] font-bold font-instrument mb-3">{isEn ? 'Legal Hub' : 'المركز القانوني'}</h3>
-          <Link href={isEn ? "/en/legal/food-safety" : "/legal/food-safety"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Food Safety Policy' : 'سياسة سلامة الغذاء'}</Link>
-          <Link href={isEn ? "/en/legal/privacy" : "/legal/privacy"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Privacy Policy' : 'سياسة الخصوصية'}</Link>
-          <Link href={isEn ? "/en/legal/terms" : "/legal/terms"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Terms & Conditions' : 'الشروط والأحكام'}</Link>
-          <Link href={isEn ? "/en/legal/refund" : "/legal/refund"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Refund Policy' : 'سياسة الاسترجاع'}</Link>
+          <Link href={isEn ? "/en/legal/food-safety" : "/ar/legal/food-safety"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Food Safety Policy' : 'سياسة سلامة الغذاء'}</Link>
+          <Link href={isEn ? "/en/legal/privacy" : "/ar/legal/privacy"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Privacy Policy' : 'سياسة الخصوصية'}</Link>
+          <Link href={isEn ? "/en/legal/terms" : "/ar/legal/terms"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Terms & Conditions' : 'الشروط والأحكام'}</Link>
+          <Link href={isEn ? "/en/legal/refund" : "/ar/legal/refund"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Refund Policy' : 'سياسة الاسترجاع'}</Link>
         </div>
 
       </div>

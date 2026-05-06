@@ -8,7 +8,6 @@ export default function Navbar() {
   const pathname = usePathname();
   const router = useRouter();
 
-  // Detect language from URL path
   const isEn = pathname.startsWith('/en');
   const lang = isEn ? 'en' : 'ar';
 
@@ -19,8 +18,9 @@ export default function Navbar() {
   }, [mobileMenuOpen]);
 
   const toggleLanguage = () => {
-    const newPath = isEn ? pathname.replace(/^\/en/, '') || '/' : `/en${pathname}`;
-    router.push(newPath);
+    const cleanPath = pathname.replace(/^\/(en|ar)/, '') || '';
+    const newPath = isEn ? `/ar${cleanPath}` : `/en${cleanPath}`;
+    router.push(newPath || '/');
   };
 
   const navLinks = [
@@ -36,7 +36,7 @@ export default function Navbar() {
   return (
     <>
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[98%] max-w-7xl z-[100] py-3 px-4 lg:px-8 liquid-glass flex items-center justify-between" dir={isEn ? "ltr" : "rtl"}>
-        <Link href={isEn ? "/en" : "/"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
+        <Link href={isEn ? "/en" : "/ar"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
           <img src="/broast-sara-logo.webp" alt="Broast Sara" className="h-10 w-auto" />
           <span className="text-xl md:text-3xl text-white font-instrument font-bold">
             {isEn ? "Broast Sara" : "بروست سارة"}
@@ -45,8 +45,8 @@ export default function Navbar() {
 
         <div className="hidden lg:flex items-center gap-5">
           {navLinks.map((link) => {
-            const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : link.href;
-            const isActive = isEn ? pathname === linkHref : pathname === link.href;
+            const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : (link.href === "/" ? "/ar" : `/ar${link.href}`);
+            const isActive = pathname === linkHref || pathname === link.href;
 
             return (
               <Link
@@ -63,7 +63,7 @@ export default function Navbar() {
             <button onClick={toggleLanguage} className="w-10 h-10 rounded-full flex items-center justify-center text-sm font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30 hover:bg-white/20 transition-colors">
               {isEn ? 'AR' : 'EN'}
             </button>
-            <Link href={isEn ? "/en/order" : "/order"} className="py-2 px-6 text-lg rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline hover:bg-[#7a0d0d] transition-colors">
+            <Link href={isEn ? "/en/order" : "/ar/order"} className="py-2 px-6 text-lg rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline hover:bg-[#7a0d0d] transition-colors">
               {isEn ? 'Order Now' : 'اطلب الآن'}
             </Link>
           </div>
@@ -83,8 +83,8 @@ export default function Navbar() {
           <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={() => setMobileMenuOpen(false)}></div>
           <div className="liquid-glass w-full max-w-sm p-8 flex flex-col items-center gap-6 relative z-10 animate-in zoom-in duration-200">
             {navLinks.map((link) => {
-              const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : link.href;
-              const isActive = isEn ? pathname === linkHref : pathname === link.href;
+              const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : (link.href === "/" ? "/ar" : `/ar${link.href}`);
+              const isActive = pathname === linkHref || pathname === link.href;
 
               return (
                 <Link
@@ -102,7 +102,7 @@ export default function Navbar() {
               <button onClick={() => { toggleLanguage(); setMobileMenuOpen(false); }} className="w-12 h-12 rounded-full flex items-center justify-center text-lg font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30">
                 {isEn ? 'AR' : 'EN'}
               </button>
-              <Link href={isEn ? "/en/order" : "/order"} onClick={() => setMobileMenuOpen(false)} className="py-3 px-8 text-xl rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline">
+              <Link href={isEn ? "/en/order" : "/ar/order"} onClick={() => setMobileMenuOpen(false)} className="py-3 px-8 text-xl rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline">
                 {isEn ? 'Order Now' : 'اطلب الآن'}
               </Link>
             </div>
