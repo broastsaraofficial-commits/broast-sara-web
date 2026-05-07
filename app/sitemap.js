@@ -28,6 +28,14 @@ export default function sitemap() {
   };
 
   const sitemapEntries = [
+    // FIXED: Explicit entry for the root URL, now with the trailing slash for exact Ahrefs matching
+    {
+      url: `${baseUrl}/`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 1.0,
+      alternates: withAlternates(""),
+    },
     ...corePages.map(route => ({
       url: `${baseUrl}${route === "" ? "/ar" : `/ar${route}`}`,
       lastModified: new Date(),
