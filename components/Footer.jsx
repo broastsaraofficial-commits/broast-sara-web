@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import Image from "next/image"; // ADDED THIS
 
 export default function Footer() {
   const pathname = usePathname();
@@ -12,7 +13,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 text-center md:text-start">
 
         <div className="flex flex-col gap-4 items-center md:items-start">
-          <img src="/broast-sara-logo.webp" alt="Broast Sara Logo" className="h-24 w-auto mb-2" />
+          {/* REPLACED <img> with <Image> */}
+          <Image src="/broast-sara-logo.webp" alt="Broast Sara Logo" width={216} height={270} className="h-24 w-auto mb-2" />
           <div>
             <h2 className="text-3xl font-bold font-instrument mb-2 text-white">
               {isEn ? "Broast Sara — Madinah" : "بروست سارة — المدينة المنورة"}

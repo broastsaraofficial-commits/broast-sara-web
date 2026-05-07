@@ -131,7 +131,9 @@ export default async function BranchPage({ params }) {
 
                 {/* 2. FIXED: Map touches borders exactly as requested */}
                 <div className="w-full h-80 md:h-[450px] border-t border-white/20 relative">
+                    {/* FIXED: Added title attribute to iframe */}
                     <iframe
+                        title={isEn ? `Broast Sara ${branch.en} Map` : `خريطة فرع بروست سارة ${branch.ar}`}
                         width="100%"
                         height="100%"
                         frameBorder="0"

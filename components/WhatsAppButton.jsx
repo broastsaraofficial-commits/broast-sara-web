@@ -36,7 +36,8 @@ export default function WhatsAppButton() {
       {isOpen && (
         <div className="fixed inset-0 z-[105] flex items-center justify-center p-4 bg-black/30 backdrop-blur-sm" onClick={() => setIsOpen(false)} dir={isEn ? "ltr" : "rtl"}>
           <div className="liquid-glass p-6 w-full max-w-sm flex flex-col gap-4 animate-in zoom-in duration-200 max-h-[85vh] relative" onClick={(e) => e.stopPropagation()}>
-            <button className={`absolute top-6 ${isEn ? 'right-6' : 'left-6'} text-white hover:text-[#FFD700] z-10`} onClick={() => setIsOpen(false)}>
+            {/* FIXED: Added aria-label to close button */}
+            <button aria-label={isEn ? "Close" : "إغلاق"} className={`absolute top-6 ${isEn ? 'right-6' : 'left-6'} text-white hover:text-[#FFD700] z-10`} onClick={() => setIsOpen(false)}>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" className="w-6 h-6"><path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>
             </button>
             <h4 className="text-[#FFD700] text-xl font-bold font-instrument text-center pb-4 border-b border-white/30 mt-2">
@@ -54,7 +55,8 @@ export default function WhatsAppButton() {
         </div>
       )}
 
-      <button onClick={() => setIsOpen(true)} className="fixed bottom-6 right-6 z-[104] bg-[#25D366] w-16 h-16 rounded-2xl flex items-center justify-center shadow-[0_15px_30px_rgba(37,211,102,0.4)] hover:scale-110 transition-transform active:scale-95">
+      {/* FIXED: Added aria-label to main floating button */}
+      <button aria-label={isEn ? "Order via WhatsApp" : "اطلب عبر الواتساب"} onClick={() => setIsOpen(true)} className="fixed bottom-6 right-6 z-[104] bg-[#25D366] w-16 h-16 rounded-2xl flex items-center justify-center shadow-[0_15px_30px_rgba(37,211,102,0.4)] hover:scale-110 transition-transform active:scale-95">
         <WhatsAppIcon size="36" />
       </button>
     </>

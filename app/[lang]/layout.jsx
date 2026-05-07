@@ -16,15 +16,34 @@ export async function generateMetadata({ params }) {
   const isAr = lang === "ar";
 
   return {
+    // 1. YOUR EXISTING CONTENT: Kept safely intact
     title: isAr ? "بروست سارة | أفضل بروست في المدينة المنورة" : "Broast Sara | Best Broast in Madinah",
     description: isAr ? "دجاج محلي طازج 100% يومياً في 8 فروع" : "100% fresh local chicken daily across 8 branches",
+
+    // 2. NEW FIX: Tells Next.js how to build absolute URLs for social media images
+    metadataBase: new URL('https://broastsara.com'),
+
+    // 3. MERGED ALTERNATES: Kept your languages and enforced the dynamic canonical
     alternates: {
       canonical: `https://broastsara.com/${lang}`,
       languages: { 'ar-SA': '/ar', 'en-US': '/en' },
     },
+
+    // 4. NEW FIX: Provides a fallback social image for all pages to pass validation
+    openGraph: {
+      type: 'website',
+      siteName: isAr ? 'بروست سارة' : 'Broast Sara',
+      images: [
+        {
+          url: '/broast-sara-logo.webp',
+          width: 1080,
+          height: 1350,
+          alt: isAr ? 'شعار بروست سارة' : 'Broast Sara Logo',
+        }
+      ]
+    }
   };
 }
-
 export default async function RootLayout({ children, params }) {
   const resolvedParams = await params;
   const lang = resolvedParams.lang || "ar";
@@ -36,9 +55,9 @@ export default async function RootLayout({ children, params }) {
         {/* Google Analytics (GA4) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-M8Z6PPBCLC"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="google-analytics" strategy="afterInteractive">
+        <Script id="google-analytics" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -48,7 +67,7 @@ export default async function RootLayout({ children, params }) {
         </Script>
 
         {/* Microsoft Clarity */}
-        <Script id="ms-clarity" strategy="afterInteractive">
+        <Script id="ms-clarity" strategy="lazyOnload">
           {`
             (function(c,l,a,r,i,t,y){
                 c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -60,15 +79,37 @@ export default async function RootLayout({ children, params }) {
       </head>
       <body className={`${cairo.variable} ${instrument.variable} bg-black antialiased text-white min-h-screen flex flex-col relative`}>
 
-        <div className="fixed inset-0 w-full h-full z-[-2] pointer-events-none">
+        {/* FIXED: Mobile Viewport Gap. Replaced 'inset-0 h-full' with 'top-0 h-[100dvh]' */}
+        <div className="fixed top-0 left-0 w-full h-[100vh] h-[100dvh] z-[-2] pointer-events-none bg-black">
+
           <div className="hidden md:block w-full h-full relative">
-            <Image src="/images/Gemini_Generated_Image_6l0zje6l0zje6l0zzz.webp" alt="Background" fill priority sizes="100vw" className="object-cover" />
+            {/* Desktop Image: Only load 100vw on screens 768px and up. Otherwise 0vw. */}
+            <Image
+              src="/images/Gemini_Generated_Image_6l0zje6l0zje6l0zzz.webp"
+              alt="Background"
+              fill
+              priority
+              sizes="(min-width: 768px) 100vw, 0vw"
+              className="object-cover"
+            />
           </div>
+
           <div className="block md:hidden w-full h-full relative">
-            <Image src="/images/Gemini_Generated_Image_scxlx2scxlx2scxll (1).webp" alt="Mobile Background" fill priority sizes="100vw" className="object-cover" />
+            {/* Mobile Image: Only load 100vw on screens under 768px. Otherwise 0vw. */}
+            <Image
+              src="/images/Gemini_Generated_Image_scxlx2scxlx2scxll (1).webp"
+              alt="Mobile Background"
+              fill
+              priority
+              sizes="(max-width: 768px) 100vw, 0vw"
+              className="object-cover object-top"
+            />
           </div>
+
         </div>
-        <div className="fixed inset-0 bg-black/10 z-[-1] pointer-events-none" />
+
+        {/* The overlay layer must also match the dvh fix */}
+        <div className="fixed top-0 left-0 w-full h-[100vh] h-[100dvh] bg-black/10 z-[-1] pointer-events-none" />
 
         <LanguageProvider>
           <Navbar />

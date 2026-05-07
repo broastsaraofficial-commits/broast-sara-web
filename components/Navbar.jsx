@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
+import Image from "next/image"; // ADDED THIS
 
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -37,7 +38,8 @@ export default function Navbar() {
     <>
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[98%] max-w-7xl z-[100] py-3 px-4 lg:px-8 liquid-glass flex items-center justify-between" dir={isEn ? "ltr" : "rtl"}>
         <Link href={isEn ? "/en" : "/ar"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
-          <img src="/broast-sara-logo.webp" alt="Broast Sara" className="h-10 w-auto" />
+          {/* REPLACED <img> with <Image> */}
+          <Image src="/broast-sara-logo.webp" alt="Broast Sara" width={108} height={135} priority className="h-10 w-auto" />
           <span className="text-xl md:text-3xl text-white font-instrument font-bold">
             {isEn ? "Broast Sara" : "بروست سارة"}
           </span>
@@ -60,7 +62,8 @@ export default function Navbar() {
           })}
 
           <div className="flex items-center gap-3 ml-2">
-            <button onClick={toggleLanguage} className="w-10 h-10 rounded-full flex items-center justify-center text-sm font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30 hover:bg-white/20 transition-colors">
+            {/* ADDED aria-label for accessibility */}
+            <button onClick={toggleLanguage} aria-label={isEn ? "Switch to Arabic" : "التبديل للغة الإنجليزية"} className="w-10 h-10 rounded-full flex items-center justify-center text-sm font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30 hover:bg-white/20 transition-colors">
               {isEn ? 'AR' : 'EN'}
             </button>
             <Link href={isEn ? "/en/order" : "/ar/order"} className="py-2 px-6 text-lg rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline hover:bg-[#7a0d0d] transition-colors">

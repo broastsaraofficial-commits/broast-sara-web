@@ -4,7 +4,7 @@ import Image from "next/image";
 export const metadata = {
   title: "بروست سارة | أفضل بروست في المدينة المنورة | دجاج طازج يومياً",
   description: "استمتع بمذاق أفضل بروست ودجاج مقرمش في المدينة المنورة. دجاج محلي طازج 100٪ يُذبح يومياً. 8 فروع في خدمتك.",
-  alternates: { canonical: 'https://broastsara.com/' },
+
 };
 
 const dict = {
@@ -138,7 +138,8 @@ export default async function HomePage({ params }) {
         {t.pillars.map((p, i) => (
           <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] p-10 text-center flex flex-col items-center">
             <div className="mb-6">{tickIcon}</div>
-            <h3 className="text-white text-2xl mb-4 font-bold font-instrument">{p.t}</h3>
+            {/* FIXED: Changed from h3 to h2 for sequential hierarchy. ClassName unchanged. */}
+            <h2 className="text-white text-2xl mb-4 font-bold font-instrument">{p.t}</h2>
             <p className="text-base text-white font-helvetica tracking-[-0.05em]">{p.d}</p>
           </div>
         ))}
@@ -199,7 +200,8 @@ export default async function HomePage({ params }) {
             <Link href={isAr ? "/ar/locations" : "/en/locations"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allBranches}</Link>
           </div>
           <div className="w-full h-80 md:h-[450px] border-t border-white/20">
-            <iframe width="100%" height="100%" src="https://maps.google.com/maps?q=Broast+Sara+Madinah&t=&z=12&ie=UTF8&iwloc=&output=embed" style={{ border: 0 }} allowFullScreen loading="lazy"></iframe>
+            {/* FIXED: Added title attribute to iframe */}
+            <iframe title={isAr ? "خريطة فروع بروست سارة" : "Broast Sara Locations Map"} width="100%" height="100%" src="https://maps.google.com/maps?q=Broast+Sara+Madinah&t=&z=12&ie=UTF8&iwloc=&output=embed" style={{ border: 0 }} allowFullScreen loading="lazy"></iframe>
           </div>
         </div>
       </section>
