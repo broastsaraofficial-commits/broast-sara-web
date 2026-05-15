@@ -152,7 +152,8 @@ export default async function HomePage({ params }) {
           {t.sigs.map((s, i) => (
             <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] flex flex-col overflow-hidden items-center text-center">
               <div className="w-full h-80 md:h-[450px] relative">
-                <Image src={`/products/${s.img}`} alt={s.n} fill className="object-cover" sizes="(max-width: 768px) 100vw, 800px" />
+                {/* FIXED: Added 'priority' to resolve the Next.js LCP terminal warning */}
+                <Image src={`/products/${s.img}`} alt={s.n} fill className="object-cover" sizes="(max-width: 768px) 100vw, 800px" quality={60} priority />
               </div>
               <div className="p-10 w-full max-w-4xl mx-auto text-white">
                 <h3 className="text-3xl md:text-4xl mb-4 font-bold font-instrument">{s.n}</h3>

@@ -38,8 +38,8 @@ export default function Navbar() {
     <>
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[98%] max-w-7xl z-[100] py-3 px-4 lg:px-8 liquid-glass flex items-center justify-between" dir={isEn ? "ltr" : "rtl"}>
         <Link href={isEn ? "/en" : "/ar"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
-          {/* REPLACED <img> with <Image> */}
-          <Image src="/broast-sara-logo.webp" alt="Broast Sara" width={108} height={135} priority className="h-10 w-auto" />
+          {/* REPLACED: Added sizes="40px" to stop Next.js from serving a 256px wide image for a 40px slot */}
+          <Image src="/broast-sara-logo.webp" alt="Broast Sara" width={108} height={135} priority sizes="40px" className="h-10 w-auto" />
           <span className="text-xl md:text-3xl text-white font-instrument font-bold">
             {isEn ? "Broast Sara" : "بروست سارة"}
           </span>
