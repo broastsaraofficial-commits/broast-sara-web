@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import Image from "next/image"; // ADDED THIS
+import Image from "next/image";
 
 export default function Footer() {
   const pathname = usePathname();
@@ -13,7 +13,6 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 text-center md:text-start">
 
         <div className="flex flex-col gap-4 items-center md:items-start">
-          {/* REPLACED <img> with <Image> */}
           <Image src="/broast-sara-logo.webp" alt="Broast Sara Logo" width={216} height={270} className="h-24 w-auto mb-2" />
           <div>
             <h2 className="text-3xl font-bold font-instrument mb-2 text-white">
@@ -41,17 +40,23 @@ export default function Footer() {
           <Link href={isEn ? "/en/locations/al-hijrah" : "/ar/locations/al-hijrah"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Hijrah' : 'الهجرة'}</Link>
           <Link href={isEn ? "/en/locations/imam-bukhari" : "/ar/locations/imam-bukhari"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Imam Bukhari' : 'الإمام البخاري'}</Link>
           <Link href={isEn ? "/en/locations/hil-bahr" : "/ar/locations/hil-bahr"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Hil Bahr' : 'حي البحر'}</Link>
+          {/* ADDED: 4 Missing Branches */}
+          <Link href={isEn ? "/en/locations/al-juruf" : "/ar/locations/al-juruf"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Al Juruf' : 'الجرف'}</Link>
+          <Link href={isEn ? "/en/locations/abiar-al-mashi" : "/ar/locations/abiar-al-mashi"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Abiar Al Mashi' : 'أبيار الماشي'}</Link>
+          <Link href={isEn ? "/en/locations/yanbu" : "/ar/locations/yanbu"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Yanbu' : 'ينبع'}</Link>
+          <Link href={isEn ? "/en/locations/aljwazat" : "/ar/locations/aljwazat"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">{isEn ? 'Aljwazat' : 'الجوازات'}</Link>
         </div>
 
         <div className="flex flex-col gap-2">
           <h3 className="text-2xl text-[#FFD700] font-bold font-instrument mb-3">{isEn ? 'Order Now' : 'اطلب الآن'}</h3>
-          <a href="#" className="hover:text-white/80 transition-colors text-lg text-white no-underline">HungerStation</a>
-          <a href="#" className="hover:text-white/80 transition-colors text-lg text-white no-underline">Yango Delivery</a>
+          {/* UPDATED: Linked HungerStation to Order page, removed Yango */}
+          <Link href={isEn ? "/en/order" : "/ar/order"} className="hover:text-white/80 transition-colors text-lg text-white no-underline">HungerStation</Link>
           <h3 className="text-2xl text-[#FFD700] font-bold font-instrument mt-6 mb-3">{isEn ? 'Follow Us' : 'تابعنا'}</h3>
           <div className="flex gap-4 justify-center md:justify-start">
-            <a href="#" className="hover:text-white/80 text-lg text-white no-underline">Instagram</a>
-            <a href="#" className="hover:text-white/80 text-lg text-white no-underline">Snapchat</a>
-            <a href="#" className="hover:text-white/80 text-lg text-white no-underline">TikTok</a>
+            {/* UPDATED: Attached social media links with target="_blank" for safe external opening */}
+            <a href="https://www.instagram.com/broastsara_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" className="hover:text-white/80 text-lg text-white no-underline">Instagram</a>
+            <a href="https://www.snapchat.com/add/broast_sara" target="_blank" rel="noopener noreferrer" className="hover:text-white/80 text-lg text-white no-underline">Snapchat</a>
+            <a href="https://www.tiktok.com/@broastsara?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer" className="hover:text-white/80 text-lg text-white no-underline">TikTok</a>
           </div>
         </div>
 

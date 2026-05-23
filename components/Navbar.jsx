@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import Image from "next/image"; // ADDED THIS
+import Image from "next/image";
 
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -34,13 +34,26 @@ export default function Navbar() {
     { nameAr: "المدونة", nameEn: "Blog", href: "/blog" },
   ];
 
+  // This powerful class forces Instrument Serif and removes negative tracking to bypass the globals.css !important rules safely.
+  const fontOverrideClass = isEn ? "![font-family:var(--font-instrument),_serif] !tracking-normal !font-normal" : "!tracking-normal !font-normal";
+
+  // 4. SLUG PAGE ACTIVE FIX: Check if current pathname starts with the link's href (handles sub-pages/slugs).
+  // Special case: Home ("/") only matches exactly to avoid it matching everything.
+  const isLinkActive = (linkHref) => {
+    if (linkHref === (isEn ? "/en" : "/ar")) {
+      // Home: exact match only
+      return pathname === linkHref;
+    }
+    // All other links: active if pathname starts with linkHref (covers slug sub-pages)
+    return pathname.startsWith(linkHref);
+  };
+
   return (
     <>
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[98%] max-w-7xl z-[100] py-3 px-4 lg:px-8 liquid-glass flex items-center justify-between" dir={isEn ? "ltr" : "rtl"}>
         <Link href={isEn ? "/en" : "/ar"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
-          {/* REPLACED: Added sizes="40px" to stop Next.js from serving a 256px wide image for a 40px slot */}
           <Image src="/broast-sara-logo.webp" alt="Broast Sara" width={108} height={135} priority sizes="40px" className="h-10 w-auto" />
-          <span className="text-xl md:text-3xl text-white font-instrument font-bold">
+          <span className={`text-xl md:text-3xl text-white ${fontOverrideClass}`}>
             {isEn ? "Broast Sara" : "بروست سارة"}
           </span>
         </Link>
@@ -48,13 +61,13 @@ export default function Navbar() {
         <div className="hidden lg:flex items-center gap-5">
           {navLinks.map((link) => {
             const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : (link.href === "/" ? "/ar" : `/ar${link.href}`);
-            const isActive = pathname === linkHref || pathname === link.href;
+            const isActive = isLinkActive(linkHref);
 
             return (
               <Link
                 key={link.href}
                 href={linkHref}
-                className={`text-lg no-underline transition-all font-helvetica tracking-[-0.05em] font-normal ${isActive ? '!text-[#FFD700]' : 'text-white hover:text-[#FFD700]'}`}
+                className={`text-lg no-underline transition-all ${fontOverrideClass} ${isActive ? '!text-[#FFD700]' : 'text-white hover:text-[#FFD700]'}`}
               >
                 {isEn ? link.nameEn : link.nameAr}
               </Link>
@@ -62,11 +75,10 @@ export default function Navbar() {
           })}
 
           <div className="flex items-center gap-3 ml-2">
-            {/* ADDED aria-label for accessibility */}
-            <button onClick={toggleLanguage} aria-label={isEn ? "Switch to Arabic" : "التبديل للغة الإنجليزية"} className="w-10 h-10 rounded-full flex items-center justify-center text-sm font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30 hover:bg-white/20 transition-colors">
+            <button onClick={toggleLanguage} aria-label={isEn ? "Switch to Arabic" : "التبديل للغة الإنجليزية"} className={`w-10 h-10 rounded-full flex items-center justify-center text-sm text-white bg-white/10 border border-white/30 hover:bg-white/20 transition-colors ${fontOverrideClass}`}>
               {isEn ? 'AR' : 'EN'}
             </button>
-            <Link href={isEn ? "/en/order" : "/ar/order"} className="py-2 px-6 text-lg rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline hover:bg-[#7a0d0d] transition-colors">
+            <Link href={isEn ? "/en/order" : "/ar/order"} className={`py-2 px-6 text-lg rounded-full text-white bg-[#971111] no-underline hover:bg-[#7a0d0d] transition-colors ${fontOverrideClass}`}>
               {isEn ? 'Order Now' : 'اطلب الآن'}
             </Link>
           </div>
@@ -82,19 +94,20 @@ export default function Navbar() {
       </nav>
 
       {mobileMenuOpen && (
-        <div className="fixed inset-0 z-[90] flex items-center justify-center p-4" dir={isEn ? "ltr" : "rtl"}>
-          <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" onClick={() => setMobileMenuOpen(false)}></div>
-          <div className="liquid-glass w-full max-w-sm p-8 flex flex-col items-center gap-6 relative z-10 animate-in zoom-in duration-200">
+        /* FIXED: Replaced justify-center & h-[100dvh] with fixed pt-[110px] and overflow-y-auto to anchor the menu to the top and prevent jumping */
+        <div className="fixed inset-0 z-[90] flex flex-col items-center pt-[110px] px-4 pb-4 overflow-y-auto" dir={isEn ? "ltr" : "rtl"}>
+          <div className="fixed inset-0 bg-black/60 backdrop-blur-sm -z-10" onClick={() => setMobileMenuOpen(false)}></div>
+          <div className="liquid-glass w-full max-w-sm p-8 flex flex-col items-center gap-6 relative z-10 animate-in zoom-in duration-200 mt-2">
             {navLinks.map((link) => {
               const linkHref = isEn ? (link.href === "/" ? "/en" : `/en${link.href}`) : (link.href === "/" ? "/ar" : `/ar${link.href}`);
-              const isActive = pathname === linkHref || pathname === link.href;
+              const isActive = isLinkActive(linkHref);
 
               return (
                 <Link
                   key={link.href}
                   href={linkHref}
                   onClick={() => setMobileMenuOpen(false)}
-                  className={`text-2xl no-underline font-helvetica tracking-[-0.05em] font-normal transition-all ${isActive ? '!text-[#FFD700]' : 'text-white'}`}
+                  className={`text-2xl no-underline transition-all ${fontOverrideClass} ${isActive ? '!text-[#FFD700]' : 'text-white'}`}
                 >
                   {isEn ? link.nameEn : link.nameAr}
                 </Link>
@@ -102,10 +115,10 @@ export default function Navbar() {
             })}
 
             <div className="flex items-center gap-4 mt-6">
-              <button onClick={() => { toggleLanguage(); setMobileMenuOpen(false); }} className="w-12 h-12 rounded-full flex items-center justify-center text-lg font-helvetica tracking-[-0.05em] text-white bg-white/10 border border-white/30">
+              <button onClick={() => { toggleLanguage(); setMobileMenuOpen(false); }} className={`w-12 h-12 rounded-full flex items-center justify-center text-lg text-white bg-white/10 border border-white/30 ${fontOverrideClass}`}>
                 {isEn ? 'AR' : 'EN'}
               </button>
-              <Link href={isEn ? "/en/order" : "/ar/order"} onClick={() => setMobileMenuOpen(false)} className="py-3 px-8 text-xl rounded-full text-white bg-[#971111] font-helvetica tracking-[-0.05em] font-normal no-underline">
+              <Link href={isEn ? "/en/order" : "/ar/order"} onClick={() => setMobileMenuOpen(false)} className={`py-3 px-8 text-xl rounded-full text-white bg-[#971111] no-underline ${fontOverrideClass}`}>
                 {isEn ? 'Order Now' : 'اطلب الآن'}
               </Link>
             </div>

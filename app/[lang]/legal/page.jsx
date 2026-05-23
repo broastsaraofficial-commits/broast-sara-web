@@ -65,7 +65,8 @@ export default async function LegalHubPage({ params }) {
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 font-instrument">
             {t.title}
           </h1>
-          <p className="text-xl text-[#FFD700] max-w-2xl mx-auto">
+          {/* FIXED 1: Subtitle is now full white */}
+          <p className="text-xl text-white max-w-2xl mx-auto">
             {t.subtitle}
           </p>
         </header>
@@ -77,16 +78,19 @@ export default async function LegalHubPage({ params }) {
               <h2 className="text-3xl font-bold text-white group-hover:text-[#FFD700] transition-colors font-instrument">
                 {policy.title}
               </h2>
-              <p className="text-lg text-white/70">
+              {/* FIXED 2: Card body text is now full white */}
+              <p className="text-lg text-white">
                 {policy.desc}
               </p>
-              <span className="text-[#FFD700] font-bold mt-2 font-helvetica">{t.readMore}</span>
+              {/* FIXED 3: Read More is now font-normal and font-instrument */}
+              <span className="text-[#FFD700] font-normal mt-2 font-instrument">{t.readMore}</span>
             </Link>
           ))}
         </div>
 
         <div className="mt-20 text-center border-t border-white/10 pt-10">
-          <p className="text-white/60">
+          {/* FIXED 4: Footer text is now full white */}
+          <p className="text-white">
             {t.footerText} <Link href={isEn ? "/en/about" : "/about"} className="text-[#FFD700] underline hover:text-white transition-colors">{t.aboutLink}</Link> {t.orReturn} <Link href={isEn ? "/en" : "/"} className="text-[#FFD700] underline hover:text-white transition-colors">{t.homeLink}</Link>.
           </p>
         </div>

@@ -1,10 +1,10 @@
 import Link from "next/link";
 import Image from "next/image";
+import { blogPosts } from "../../constants/blogData";
 
 export const metadata = {
   title: "بروست سارة | أفضل بروست في المدينة المنورة | دجاج طازج يومياً",
   description: "استمتع بمذاق أفضل بروست ودجاج مقرمش في المدينة المنورة. دجاج محلي طازج 100٪ يُذبح يومياً. 8 فروع في خدمتك.",
-
 };
 
 const dict = {
@@ -25,11 +25,12 @@ const dict = {
       { img: "The Golden Shrimp.webp", n: "جمبري سارة الذهبي", d: "جمبري مقلي فاخر الحجم، متبل بخلطتنا السرية المقرمشة، يُقدم مع صوصنا الخاص لتجربة مأكولات بحرية استثنائية." }
     ],
     blogTitle: "المدونة",
-    blog: [
-      { title: "لماذا دجاج بروست سارة هو الأفضل في المدينة المنورة؟", desc: "اكتشف سر القرمشة المثالية والجودة التي ميزتنا لأكثر من عقد في المدينة المنورة.", slug: "why-choose-broast-sara" },
-      { title: "معايير HACCP وجودة الغذاء", desc: "نطبق أعلى معايير السلامة العالمية لضمان وصول وجبتك بأمان وبأعلى جودة.", slug: "food-safety-haccp" },
-      { title: "أسرار قرمشة الجمبري الذهبي", desc: "كيف نحافظ على القوام الطري للجمبري مع قشرة مقرمشة لا تقاوم.", slug: "secrets-of-crispy-broast" }
-    ],
+    // Dynamically mapping the first 3 posts from the database to prevent 404 errors
+    blog: blogPosts.slice(0, 3).map(post => ({
+      title: post.ar.title,
+      desc: post.ar.description,
+      slug: post.slug
+    })),
     readStory: "اقرأ القصة ←",
     branchesTitle: "فروعنا في خدمتك",
     branches: [
@@ -67,11 +68,12 @@ const dict = {
       { img: "The Golden Shrimp.webp", n: "Golden Shrimp", d: "Premium large fried shrimp, seasoned with our secret crispy blend and served with our special sauce for an exceptional seafood experience." }
     ],
     blogTitle: "The Blog",
-    blog: [
-      { title: "Why Broast Sara is the best in Madinah?", desc: "Discover the secret of perfect crunch and quality that has defined us for over a decade in Madinah.", slug: "why-choose-broast-sara" },
-      { title: "HACCP Standards and Food Quality", desc: "We apply the highest global safety standards to ensure your meal arrives safely and with the highest quality.", slug: "food-safety-haccp" },
-      { title: "Secrets of the Golden Shrimp Crunch", desc: "How we maintain the tender texture of shrimp with an irresistible crispy crust.", slug: "secrets-of-crispy-broast" }
-    ],
+    // Dynamically mapping the first 3 posts from the database to prevent 404 errors
+    blog: blogPosts.slice(0, 3).map(post => ({
+      title: post.en.title,
+      desc: post.en.description,
+      slug: post.slug
+    })),
     readStory: "Read Story →",
     branchesTitle: "Our Branches at Your Service",
     branches: [
@@ -108,8 +110,7 @@ export default async function HomePage({ params }) {
 
   const shopIcon = (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FFD700" className="w-6 h-6 flex-shrink-0">
-      <path d="M5.223 2.25c-.497 0-.974.198-1.325.55l-1.3 1.298A3.75 3.75 0 002.25 7.5v.188c0 .203.044.4.123.576a2.25 2.25 0 002.625 1.114 2.251 2.251 0 003-1.114c.08-.176.123-.373.123-.576V7.5a.75.75 0 00-1.5 0v.188a.75.75 0 01-.15.44.75.75 0 01-.6.28.75.75 0 01-.6-.28.75.75 0 01-.15-.44V7.5a.75.75 0 00-1.5 0v.188c0 .193-.053.376-.15.534A.75.75 0 013 7.5v-.188a.75.75 0 01.128-.415.75.75 0 01.442-.257.75.75 0 00.555-.22l1.3-1.298a.75.75 0 01.53-.222h12.09c.2 0 .391.079.53.222l1.3 1.298a.75.75 0 00.555.22.75.75 0 01.442.257.75.75 0 01.128.415v.188a.75.75 0 01-1.35.484.75.75 0 00-.15-.534V7.5a.75.75 0 00-1.5 0v.188a.75.75 0 01-.15.44.75.75 0 01-.6.28.75.75 0 01-.6-.28.75.75 0 01-.15-.44V7.5a.75.75 0 00-1.5 0v.188c0 .203.044.4.123.576a2.251 2.251 0 003 1.114 2.25 2.25 0 002.625-1.114c.079-.176.123-.373.123-.576V7.5a3.75 3.75 0 00-.348-1.552l-1.3-1.298a1.875 1.875 0 00-1.325-.55H5.223z" />
-      <path d="M20.25 11.332v6.418a2.25 2.25 0 01-2.25 2.25H6a2.25 2.25 0 01-2.25-2.25v-6.418a4.526 4.526 0 001.5.253 4.526 4.526 0 003-1.134 4.526 4.526 0 003 1.134 4.526 4.526 0 003-1.134 4.526 4.526 0 003 1.134 4.526 4.526 0 001.5-.253zM15 14.25a.75.75 0 00-.75.75v3a.75.75 0 00.75.75h2.25a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75H15z" />
+      <path d="M22 12.5V20a2 2 0 01-2 2H4a2 2 0 01-2-2v-7.5l-.31-2.46A2 2 0 011.67 8l.92-4.6A2 2 0 014.54 2h14.92a2 2 0 011.95 1.4l.92 4.6a2 2 0 01-.02 2.04l-.31 2.46zM4.54 4l-.92 4.6.48 3.4H19.9l.48-3.4-.92-4.6H4.54zM9 14v4h6v-4H9z" />
     </svg>
   );
 
@@ -127,8 +128,8 @@ export default async function HomePage({ params }) {
           <h1 className="mb-8 text-5xl md:text-8xl font-bold text-white font-instrument">{t.title}</h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-12 text-white font-helvetica tracking-[-0.05em] leading-relaxed">{t.desc}</p>
           <div className="flex flex-wrap justify-center gap-6">
-            <Link href={isAr ? "/ar/order" : "/en/order"} className="btn-primary font-helvetica tracking-[-0.05em]">{t.order}</Link>
-            <Link href={isAr ? "/ar/menu" : "/en/menu"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.menu}</Link>
+            <Link href={isAr ? "/ar/order" : "/en/order"} className="btn-primary !bg-[#971111] font-helvetica tracking-[-0.05em]">{t.order}</Link>
+            <Link href={isAr ? "/ar/menu" : "/en/menu"} className="btn-secondary liquid-glass font-helvetica tracking-[-0.05em]">{t.menu}</Link>
           </div>
         </div>
       </section>
@@ -138,21 +139,19 @@ export default async function HomePage({ params }) {
         {t.pillars.map((p, i) => (
           <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] p-10 text-center flex flex-col items-center">
             <div className="mb-6">{tickIcon}</div>
-            {/* FIXED: Changed from h3 to h2 for sequential hierarchy. ClassName unchanged. */}
             <h2 className="text-white text-2xl mb-4 font-bold font-instrument">{p.t}</h2>
-            <p className="text-base text-white font-helvetica tracking-[-0.05em]">{p.d}</p>
+            <p className="text-lg text-white font-helvetica tracking-[-0.05em] leading-relaxed lowercase">{p.d}</p>
           </div>
         ))}
       </section>
 
       {/* SECTION 3: SIGNATURES */}
-      <section className="w-full px-6 mb-32 max-w-5xl mx-auto">
-        <h2 className="text-4xl md:text-6xl mb-16 text-center font-bold text-white font-instrument">{isAr ? 'الأصناف المميزة' : 'Signature Products'}</h2>
+      <section className="w-full px-0 md:px-6 mb-32 max-w-5xl mx-auto">
+        <h2 className="text-4xl md:text-6xl mb-16 text-center font-bold text-white font-instrument px-6">{isAr ? 'الأصناف المميزة' : 'Signature Products'}</h2>
         <div className="grid grid-cols-1 gap-16">
           {t.sigs.map((s, i) => (
             <div key={i} className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] flex flex-col overflow-hidden items-center text-center">
               <div className="w-full h-80 md:h-[450px] relative">
-                {/* FIXED: Added 'priority' to resolve the Next.js LCP terminal warning */}
                 <Image src={`/products/${s.img}`} alt={s.n} fill className="object-cover" sizes="(max-width: 768px) 100vw, 800px" quality={60} priority />
               </div>
               <div className="p-10 w-full max-w-4xl mx-auto text-white">
@@ -164,7 +163,7 @@ export default async function HomePage({ params }) {
         </div>
       </section>
 
-      {/* ADDED SECTION: THE BLOG */}
+      {/* SECTION: THE BLOG */}
       <section className="w-full px-6 mb-32 max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-6xl mb-12 text-center font-bold text-white font-instrument">{t.blogTitle}</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -186,9 +185,9 @@ export default async function HomePage({ params }) {
       </section>
 
       {/* SECTION 4: MAP & BRANCHES */}
-      <section className="w-full px-6 mb-32 max-w-6xl mx-auto">
+      <section className="w-full px-0 md:px-6 mb-32 max-w-6xl mx-auto">
         <div className="bg-black/20 backdrop-blur-xl border border-white/30 rounded-[40px] flex flex-col overflow-hidden">
-          <div className="p-10 md:p-16 w-full text-center">
+          <div className="p-10 md:p-16 w-full text-center px-6">
             <h2 className="text-4xl md:text-5xl mb-12 text-[#FFD700] font-bold font-instrument">{t.branchesTitle}</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-x-10 gap-y-8 mb-12 w-fit mx-auto">
               {t.branches.map((b, i) => (
@@ -201,7 +200,6 @@ export default async function HomePage({ params }) {
             <Link href={isAr ? "/ar/locations" : "/en/locations"} className="btn-secondary font-helvetica tracking-[-0.05em]">{t.allBranches}</Link>
           </div>
           <div className="w-full h-80 md:h-[450px] border-t border-white/20">
-            {/* FIXED: Added title attribute to iframe */}
             <iframe title={isAr ? "خريطة فروع بروست سارة" : "Broast Sara Locations Map"} width="100%" height="100%" src="https://maps.google.com/maps?q=Broast+Sara+Madinah&t=&z=12&ie=UTF8&iwloc=&output=embed" style={{ border: 0 }} allowFullScreen loading="lazy"></iframe>
           </div>
         </div>

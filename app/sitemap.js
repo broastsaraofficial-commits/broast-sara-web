@@ -1,20 +1,20 @@
+import { blogPosts } from '../constants/blogData';
+
 export default function sitemap() {
   const baseUrl = "https://broastsara.com";
 
-  const corePages = ["", "/menu", "/locations", "/about", "/blog", "/faq", "/order", "/legal"];
+  // FIXED: Removed "" to prevent duplicating the root node defined manually below
+  const corePages = ["/menu", "/locations", "/about", "/blog", "/faq", "/order", "/legal"];
   const legalPages = ["/legal/food-safety", "/legal/privacy", "/legal/terms", "/legal/refund"];
 
+  // Retained your exact working routing slugs
   const branches = [
     "al-aziziyyah", "al-hijrah", "imam-bukhari", "hil-bahr",
     "aljwazat", "al-juruf", "yanbu", "abiar-al-mashi"
   ];
 
-  const articles = [
-    "best-broast-madinah", "why-choose-broast-sara", "food-safety-haccp",
-    "secrets-of-crispy-broast", "broast-vs-fried-chicken",
-    "madinah-neighborhoods-branches", "madinah-foods-must-try",
-    "ramadan-meals-iftar", "sarookh-shawarma-story", "fresh-vs-frozen-chicken"
-  ];
+  // Extracts all dynamic slugs directly from the database to ensure 100% indexing accuracy
+  const articles = blogPosts.map(post => post.slug);
 
   const withAlternates = (path) => {
     const arPath = path === "" ? "/ar" : `/ar${path}`;
@@ -28,7 +28,7 @@ export default function sitemap() {
   };
 
   const sitemapEntries = [
-    // FIXED: Explicit entry for the root URL, now with the trailing slash for exact Ahrefs matching
+    // The manual root entry
     {
       url: `${baseUrl}/`,
       lastModified: new Date(),
@@ -40,7 +40,7 @@ export default function sitemap() {
       url: `${baseUrl}${route === "" ? "/ar" : `/ar${route}`}`,
       lastModified: new Date(),
       changeFrequency: 'weekly',
-      priority: route === "" ? 1.0 : 0.9,
+      priority: 0.9, // Priority adjusted since root handles 1.0
       alternates: withAlternates(route),
     })),
     ...branches.map(branch => ({

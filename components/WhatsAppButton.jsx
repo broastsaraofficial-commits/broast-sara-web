@@ -43,10 +43,12 @@ export default function WhatsAppButton() {
             <h4 className="text-[#FFD700] text-xl font-bold font-instrument text-center pb-4 border-b border-white/30 mt-2">
               {isEn ? "Select Branch" : "اختر الفرع للطلب"}
             </h4>
-            <div className="overflow-y-auto flex flex-col gap-3 pr-2 pb-4">
+            {/* FIXED: Changed font-helvetica to font-instrument on the main wrapper */}
+            <div className="overflow-y-auto flex flex-col gap-3 pr-2 pb-4 font-instrument tracking-wide">
               {branches.map((branch, i) => (
-                <a key={i} href={`https://wa.me/${branch.number}`} target="_blank" rel="noopener noreferrer" className="w-full py-4 px-5 bg-white/10 hover:bg-[#25D366] hover:border-[#25D366] text-white rounded-2xl transition-all no-underline flex items-center justify-between group border border-white/20 shadow-sm font-helvetica tracking-[-0.05em]">
-                  <span className="text-lg font-bold">{isEn ? branch.nameEn : branch.nameAr}</span>
+                <a key={i} href={`https://wa.me/${branch.number}`} target="_blank" rel="noopener noreferrer" className="w-full py-4 px-5 bg-white/10 hover:bg-[#25D366] hover:border-[#25D366] text-white rounded-2xl transition-all no-underline flex items-center justify-between group border border-white/20 shadow-sm">
+                  {/* FIXED: Changed font-bold to font-normal */}
+                  <span className="text-xl font-normal">{isEn ? branch.nameEn : branch.nameAr}</span>
                   <div className="opacity-70 group-hover:opacity-100"><WhatsAppIcon size="24" /></div>
                 </a>
               ))}

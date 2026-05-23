@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-// 1. ADDED: Bilingual Metadata Generation (Section G2)[cite: 6]
+// 1. ADDED: Bilingual Metadata Generation (Section G2)
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
   const isEn = resolvedParams.lang === "en";
@@ -67,7 +67,7 @@ export default async function AboutPage({ params }) {
   const isEn = lang === "en";
   const t = dict[lang];
 
-  // 3. ADDED: Organization & AboutPage Schema (Section G2)[cite: 6]
+  // 3. ADDED: Organization & AboutPage Schema (Section G2)
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "AboutPage",
@@ -95,7 +95,8 @@ export default async function AboutPage({ params }) {
       <div className="max-w-4xl mx-auto">
 
         {/* Breadcrumb / Back Link */}
-        <Link href={isEn ? "/en" : "/"} className={`text-[#FFD700] hover:text-white transition-colors mb-8 inline-block font-bold no-underline ${isEn ? 'text-left' : 'text-right'}`}>
+        {/* FIXED 1: font-bold changed to font-normal */}
+        <Link href={isEn ? "/en" : "/"} className={`text-[#FFD700] hover:text-white transition-colors mb-8 inline-block font-normal no-underline ${isEn ? 'text-left' : 'text-right'}`}>
           {t.backBtn}
         </Link>
 
@@ -112,7 +113,8 @@ export default async function AboutPage({ params }) {
               <h2 className="text-3xl md:text-4xl text-[#FFD700] font-bold font-instrument">
                 {section.h2}
               </h2>
-              <p className="text-xl text-white/90 leading-relaxed font-helvetica tracking-[-0.05em]">
+              {/* FIXED 2: text-white/90 changed to text-white */}
+              <p className="text-xl text-white leading-relaxed font-helvetica tracking-[-0.05em]">
                 {section.p}
               </p>
             </section>
@@ -120,9 +122,10 @@ export default async function AboutPage({ params }) {
 
         </div>
 
-        {/* Internal Links (Section C4)[cite: 6] */}
+        {/* Internal Links (Section C4) */}
         <div className="mt-20 text-center border-t border-white/10 pt-10">
-          <p className="text-white/80 text-lg font-helvetica tracking-[-0.05em]">
+          {/* FIXED 3: text-white/80 changed to text-white */}
+          <p className="text-white text-lg font-helvetica tracking-[-0.05em]">
             {t.footerText} <Link href={isEn ? "/en/locations" : "/locations"} className="text-[#FFD700] underline hover:text-white transition-colors">{t.branchLink}</Link>{t.orText} <Link href={isEn ? "/en/menu" : "/menu"} className="text-[#FFD700] underline hover:text-white transition-colors">{t.menuLink}</Link> {t.fullText}
           </p>
         </div>
