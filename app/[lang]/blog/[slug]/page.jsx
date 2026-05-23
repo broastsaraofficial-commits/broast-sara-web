@@ -38,6 +38,14 @@ export default async function BlogPost({ params }) {
   if (!post) notFound();
   const t = isEn ? post.en : post.ar;
 
+  // FIXED: Programmatically fetch 3 related posts to clear Ahrefs isolation error
+  const currentIndex = blogPosts.findIndex((p) => p.slug === slug);
+  const relatedPosts = [
+    blogPosts[(currentIndex + 1) % blogPosts.length],
+    blogPosts[(currentIndex + 2) % blogPosts.length],
+    blogPosts[(currentIndex + 3) % blogPosts.length],
+  ];
+
   const now = new Date();
   const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   const arabicMonths = ["يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو", "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"];
@@ -73,6 +81,7 @@ export default async function BlogPost({ params }) {
                   src={`/products/${post.img}`}
                   alt={t.title}
                   fill
+                  sizes="(max-width: 768px) 100vw, 800px" // ADD THIS LINE
                   className="object-cover"
                   priority
                 />
@@ -126,6 +135,25 @@ export default async function BlogPost({ params }) {
               <p>اكتشف أقرب فرع لك عبر <Link href="/locations" className="text-[#FFD700] underline hover:text-white">دليل الفروع</Link>، أو استعرض <Link href="/menu" className="text-[#FFD700] underline hover:text-white">قائمة الطعام</Link> لطلب وجبتك الآن.</p>
             )}
           </div>
+
+          {/* FIXED: Dynamic Related Articles Section */}
+          <section className="mt-16 pt-12 border-t border-white/20">
+            <h2 className="text-3xl font-bold text-white mb-8 font-instrument text-center md:text-start">
+              {isEn ? "Related Articles" : "مقالات ذات صلة"}
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {relatedPosts.map((rp) => (
+                <Link key={rp.slug} href={isEn ? `/en/blog/${rp.slug}` : `/blog/${rp.slug}`} className="bg-white/5 p-6 rounded-2xl border border-white/10 hover:border-[#FFD700] transition-colors no-underline group flex flex-col gap-3">
+                  <h3 className="text-xl font-bold text-white group-hover:text-[#FFD700] font-instrument line-clamp-2">
+                    {isEn ? rp.en.title : rp.ar.title}
+                  </h3>
+                  <p className="text-white/70 text-sm font-helvetica tracking-[-0.05em] line-clamp-3">
+                    {isEn ? rp.en.description : rp.ar.description}
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </section>
 
         </article>
 

@@ -18,13 +18,19 @@ export default function MenuClient({ lang }) {
   };
 
   const scrollToCategory = (id) => {
-    const element = document.getElementById(id);
-    if (element) {
-      const yOffset = -180;
-      const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
-      window.scrollTo({ top: y, behavior: 'smooth' });
-      setActiveCategory(id);
-    }
+    // 1. Immediately update UI state (fast UI response)
+    setActiveCategory(id);
+    
+    // 2. Offload the synchronous layout read to the browser's next animation frame
+    requestAnimationFrame(() => {
+      const element = document.getElementById(id);
+      if (element) {
+        const yOffset = -180;
+        // Use modern window.scrollY instead of deprecated pageYOffset
+        const y = element.getBoundingClientRect().top + window.scrollY + yOffset;
+        window.scrollTo({ top: y, behavior: 'smooth' });
+      }
+    });
   };
 
   const toggleFavorite = (id, e) => {

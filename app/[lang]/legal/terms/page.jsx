@@ -5,7 +5,8 @@ export async function generateMetadata({ params }) {
   const isEn = resolvedParams.lang === "en";
   return {
     title: isEn ? "Terms & Conditions — Broast Sara" : "الشروط والأحكام — بروست سارة | Terms & Conditions",
-    description: isEn ? "Read the Terms & Conditions for Broast Sara. Information regarding pricing, intellectual property, and allergy responsibility." : "اقرأ الشروط والأحكام الخاصة ببروست سارة. معلومات حول الأسعار، الملكية الفكرية، ومسؤولية الحساسية.",
+    // FIXED: Expanded meta descriptions for SEO optimal length (120-160 chars)
+    description: isEn ? "Read the official Terms and Conditions for Broast Sara. Learn about our website usage agreement, WhatsApp online ordering policies, and regulatory obligations." : "الشروط والأحكام الرسمية لمطاعم بروست سارة. تعرف على اتفاقية استخدام الموقع الإلكتروني، سياسة الطلب أونلاين عبر الواتساب، والالتزامات التنظيمية.",
     alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/legal/terms` }
   };
 }

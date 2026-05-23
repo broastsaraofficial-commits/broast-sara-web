@@ -18,5 +18,11 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47"
-  }
+  },
+  "browserslist": [
+    ">0.3%",
+    "not dead",
+    "not ie 11",
+    "not op_mini all"
+  ]
 }

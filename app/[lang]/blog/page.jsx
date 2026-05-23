@@ -2,11 +2,22 @@ import BlogClient from "./BlogClient";
 
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
-  const isEn = resolvedParams.lang === "en";
+  const lang = resolvedParams.lang || "ar";
+  const isEn = lang === "en";
+
+  const title = isEn ? "Broast Sara Blog | Recipes, News & Food Tips" : "مدونة بروست سارة | وصفات، أخبار المطعم، ونصائح الطعام في المدينة المنورة";
+  const description = isEn ? "Follow Broast Sara's blog for crispy chicken recipes, branch news, seasonal offers, and food safety tips." : "تابع مدونة بروست سارة للحصول على وصفات الدجاج المقرمش، أخبار فروعنا في المدينة المنورة، عروض رمضان والمواسم، ونصائح سلامة الغذاء.";
+  const url = `https://broastsara.com/${lang}/blog`;
+
   return {
-    title: isEn ? "Broast Sara Blog | Recipes, News & Food Tips" : "مدونة بروست سارة | وصفات، أخبار المطعم، ونصائح الطعام في المدينة المنورة",
-    description: isEn ? "Follow Broast Sara's blog for crispy chicken recipes, branch news, seasonal offers, and food safety tips." : "تابع مدونة بروست سارة للحصول على وصفات الدجاج المقرمش، أخبار فروعنا في المدينة المنورة، عروض رمضان والمواسم، ونصائح سلامة الغذاء.",
-    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/blog` }
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+    }
   };
 }
 

@@ -2,10 +2,31 @@ import Link from "next/link";
 import Image from "next/image";
 import { blogPosts } from "../../constants/blogData";
 
-export const metadata = {
-  title: "بروست سارة | أفضل بروست في المدينة المنورة | دجاج طازج يومياً",
-  description: "استمتع بمذاق أفضل بروست ودجاج مقرمش في المدينة المنورة. دجاج محلي طازج 100٪ يُذبح يومياً. 8 فروع في خدمتك.",
-};
+// FIXED: Converted static metadata to dynamic to support English/Arabic and added Open Graph + Canonical
+export async function generateMetadata({ params }) {
+  const resolvedParams = await params;
+  const lang = resolvedParams.lang || "ar";
+  const isEn = lang === "en";
+
+  const title = isEn 
+    ? "Broast Sara | Best Broast in Madinah | Fresh Chicken Daily" 
+    : "بروست سارة | أفضل بروست في المدينة المنورة | دجاج طازج يومياً";
+  const description = isEn 
+    ? "Enjoy the best broast and crispy fried chicken in Madinah. 100% fresh local chicken slaughtered daily. 8 branches at your service." 
+    : "استمتع بمذاق أفضل بروست ودجاج مقرمش في المدينة المنورة. دجاج محلي طازج 100٪ يُذبح يومياً. 8 فروع في خدمتك.";
+  const url = `https://broastsara.com/${lang}`;
+
+  return {
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+    }
+  };
+}
 
 const dict = {
   ar: {
@@ -42,7 +63,7 @@ const dict = {
     allBranches: "عرض جميع الفروع",
     faqTitle: "الأسئلة الشائعة",
     faqs: [
-      { q: "هل دجاج بروست سارة حلال؟", a: "نعم، جميع دجاجنا محلي وطازج ويُذبح يدوياً بالطريقة الإسلامية يومياً. لا نستخدم الدجاج المجمد أبداً." },
+      { q: "هل دجاج بروست سارة حلال؟", a: "نعم، جميع دجاجنا محلي طازج ويُذبح يدوياً بالطريقة الإسلامية يومياً. لا نستخدم الدجاج المجمد أبداً." },
       { q: "ما هي أوقات عمل بروست سارة؟", a: "تعمل معظم فروعنا من الساعة 12:30 ظهراً حتى 2:30 فجراً. فرع أبيار الماشي مفتوح 24 ساعة." },
       { q: "كيف أطلب للتوصيل؟", a: "يمكنك الطلب عبر منصات هنقرستيشن ويانغو، أو بالتواصل مع أقرب فرع إليك عبر الواتساب." }
     ],

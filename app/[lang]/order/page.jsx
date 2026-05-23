@@ -1,13 +1,24 @@
 import Link from "next/link";
 
-// 1. UNIQUE METADATA: Fully bilingual
+// 1. UNIQUE METADATA: Fully bilingual with Open Graph
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
-  const isEn = resolvedParams.lang === "en";
+  const lang = resolvedParams.lang || "ar";
+  const isEn = lang === "en";
+
+  const title = isEn ? "Order Broast Sara Online — Delivery in Madinah" : "اطلب بروست سارة أون لاين — توصيل في المدينة المنورة وينبع";
+  const description = isEn ? "Order now from Broast Sara via HungerStation. Fast delivery for crispy chicken and shawarma to all Madinah neighborhoods." : "اطلب الآن من بروست سارة عبر هنقرستيشن. نوفر توصيل سريع للدجاج المقرمش والشاورما لجميع أحياء المدينة المنورة. اطلب وجبتك الساخنة الآن!";
+  const url = `https://broastsara.com/${lang}/order`;
+
   return {
-    title: isEn ? "Order Broast Sara Online — Delivery in Madinah" : "اطلب بروست سارة أون لاين — توصيل في المدينة المنورة وينبع",
-    description: isEn ? "Order now from Broast Sara via HungerStation. Fast delivery for crispy chicken and shawarma to all Madinah neighborhoods." : "اطلب الآن من بروست سارة عبر هنقرستيشن. نوفر توصيل سريع للدجاج المقرمش والشاورما لجميع أحياء المدينة المنورة. اطلب وجبتك الساخنة الآن!",
-    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/order` }
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+    }
   };
 }
 

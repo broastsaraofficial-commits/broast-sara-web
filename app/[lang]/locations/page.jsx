@@ -5,7 +5,8 @@ export async function generateMetadata({ params }) {
   const isEn = resolvedParams.lang === "en";
   return {
     title: isEn ? "Broast Sara Locations | Madinah & Yanbu" : "فروع بروست سارة في المدينة المنورة وينبع",
-    description: isEn ? "Discover all 8 Broast Sara locations in Madinah and Yanbu." : "اكتشف جميع فروع بروست سارة الثمانية في المدينة المنورة وينبع.",
+    // FIXED: Expanded meta descriptions for SEO optimal length (120-160 chars)
+    description: isEn ? "Find a Broast Sara restaurant near you in Madinah. View driving directions, opening hours, and contact numbers for all 8 fresh local chicken branches." : "ابحث عن أقرب فرع لمطاعم بروست سارة في المدينة المنورة وينبع. تابع أوقات العمل، اتجاهات الخريطة، وأرقام التواصل المباشرة لطلب البروست الطازج والشاورما.",
     alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/locations` }
   };
 }

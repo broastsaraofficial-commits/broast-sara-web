@@ -1,13 +1,24 @@
 import Link from "next/link";
 
-// 1. ADDED: Bilingual Metadata Generation (Section G2)
+// 1. ADDED: Bilingual Metadata Generation (Section G2) with Open Graph
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
-  const isEn = resolvedParams.lang === "en";
+  const lang = resolvedParams.lang || "ar";
+  const isEn = lang === "en";
+
+  const title = isEn ? "About Us — The Broast Sara Story | Madinah" : "من نحن — قصة بروست سارة في المدينة المنورة | About Us";
+  const description = isEn ? "Discover the story of Broast Sara, from the heart of Madinah to excellence in serving fresh local chicken. Explore our values and commitment to quality." : "تعرف على قصة بروست سارة، من قلب المدينة المنورة إلى التميز في تقديم الدجاج المحلي الطازج. اكتشف قيمنا والتزامنا بالجودة والضيافة الأصيلة.";
+  const url = `https://broastsara.com/${lang}/about`;
+
   return {
-    title: isEn ? "About Us — The Broast Sara Story | Madinah" : "من نحن — قصة بروست سارة في المدينة المنورة | About Us",
-    description: isEn ? "Discover the story of Broast Sara, from the heart of Madinah to excellence in serving fresh local chicken. Explore our values and commitment to quality." : "تعرف على قصة بروست سارة، من قلب المدينة المنورة إلى التميز في تقديم الدجاج المحلي الطازج. اكتشف قيمنا والتزامنا بالجودة والضيافة الأصيلة.",
-    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/about` }
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title,
+      description,
+      url,
+    }
   };
 }
 

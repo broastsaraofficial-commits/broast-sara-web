@@ -30,7 +30,7 @@ export default function sitemap() {
   const sitemapEntries = [
     // The manual root entry
     {
-      url: `${baseUrl}/`,
+      url: baseUrl, // FIXED: Removed trailing slash
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 1.0,
