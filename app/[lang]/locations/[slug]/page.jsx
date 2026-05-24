@@ -47,6 +47,7 @@ export async function generateMetadata({ params }) {
             title,
             description,
             url: canonicalUrl,
+            images: ['/broast-sara-logo.webp'],
             type: "website",
         }
     };

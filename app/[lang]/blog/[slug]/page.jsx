@@ -19,11 +19,22 @@ export async function generateMetadata({ params }) {
 
   if (!post) return { title: 'Post Not Found' };
 
+  const title = isEn ? `${post.en.title} | Broast Sara Blog` : `${post.ar.title} | مدونة بروست سارة`;
+  const description = isEn ? post.en.description : post.ar.description;
+  const canonicalUrl = `https://broastsara.com/${resolvedParams.lang}/blog/${resolvedParams.slug}`;
+
   return {
-    title: isEn ? `${post.en.title} | Broast Sara Blog` : `${post.ar.title} | مدونة بروست سارة`,
-    description: isEn ? post.en.description : post.ar.description,
+    title,
+    description,
     keywords: isEn ? post.en.keywords : post.ar.keywords,
-    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/blog/${resolvedParams.slug}` }
+    alternates: { canonical: canonicalUrl },
+    openGraph: {
+      title,
+      description,
+      url: canonicalUrl,
+      type: "website",
+      images: ['/broast-sara-logo.webp'],
+    }
   };
 }
 
@@ -81,7 +92,7 @@ export default async function BlogPost({ params }) {
                   src={`/products/${post.img}`}
                   alt={t.title}
                   fill
-                  sizes="(max-width: 768px) 100vw, 800px" // ADD THIS LINE
+                  sizes="(max-width: 768px) 100vw, 800px"
                   className="object-cover"
                   priority
                 />
@@ -136,7 +147,6 @@ export default async function BlogPost({ params }) {
             )}
           </div>
 
-          {/* FIXED: Dynamic Related Articles Section */}
           <section className="mt-16 pt-12 border-t border-white/20">
             <h2 className="text-3xl font-bold text-white mb-8 font-instrument text-center md:text-start">
               {isEn ? "Related Articles" : "مقالات ذات صلة"}
