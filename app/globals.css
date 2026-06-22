@@ -3,17 +3,15 @@
 @tailwind utilities;
 
 @layer base {
-
-  /* 1. Standardize Helvetica for all body text */
+  /* 1. Standardize Helvetica for all body text by default */
   body,
   p,
   span,
   a,
   li,
   button {
-    font-family: 'Helvetica', 'Arial', sans-serif !important;
-    letter-spacing: -0.05em !important;
-    /* Reduced as requested */
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    letter-spacing: -0.05em;
     font-weight: 400;
     color: #FFFFFF;
   }
@@ -26,10 +24,9 @@
   h5,
   h6,
   .serif-heading {
-    font-family: var(--font-instrument), serif !important;
-    font-weight: 400 !important;
-    /* Normal weight as requested */
-    letter-spacing: normal !important;
+    font-family: var(--font-instrument), serif;
+    font-weight: 400;
+    letter-spacing: normal; 
   }
 
   /* 3. Targeted Arabic Font (only applies when lang="ar") */
@@ -40,8 +37,19 @@
   html[lang="ar"] h1,
   html[lang="ar"] h2,
   html[lang="ar"] h3 {
-    font-family: var(--font-cairo), sans-serif !important;
-    letter-spacing: normal !important;
+    font-family: var(--font-cairo), sans-serif;
+    letter-spacing: normal;
+  }
+
+  /* 4. FIX: Enforce 400 weight on English headings to prevent faux-bold conflict */
+  html[lang="en"] h1,
+  html[lang="en"] h2,
+  html[lang="en"] h3,
+  html[lang="en"] h4,
+  html[lang="en"] h5,
+  html[lang="en"] h6,
+  html[lang="en"] .font-instrument {
+    font-weight: 400 !important;
   }
 }
 

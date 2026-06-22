@@ -2,14 +2,64 @@
 const nextConfig = {
   trailingSlash: false,
   poweredByHeader: false,
-  allowedDevOrigins: ['192.168.1.7'],
-  swcMinify: true, // Enforces the modern SWC compiler
+  allowedDevOrigins: ['192.168.1.7', '192.168.1.4', '192.168.1.4:3000'],
   images: {
     qualities: [60, 75],
-    formats: ['image/avif', 'image/webp'], // Modern formats boost LCP
+    formats: ['image/avif', 'image/webp'],
   },
   async redirects() {
-    return [];
+    return [
+      // ── Consolidated posts (old slug → surviving post) ──
+      { source: '/en/blog/halal-safe-food-madinah', destination: '/en/blog/is-broast-halal-madinah', permanent: true },
+      { source: '/ar/blog/halal-safe-food-madinah', destination: '/ar/blog/is-broast-halal-madinah', permanent: true },
+
+      { source: '/en/blog/real-difference-broast-vs-fried-chicken', destination: '/en/blog/broast-vs-fried-chicken', permanent: true },
+      { source: '/ar/blog/real-difference-broast-vs-fried-chicken', destination: '/ar/blog/broast-vs-fried-chicken', permanent: true },
+
+      { source: '/en/blog/broast-sara-menu-items', destination: '/en/blog/broast-sara-menu-guide', permanent: true },
+      { source: '/ar/blog/broast-sara-menu-items', destination: '/ar/blog/broast-sara-menu-guide', permanent: true },
+
+      { source: '/en/blog/broast-sara-locations', destination: '/en/blog/madinah-neighborhoods-branches', permanent: true },
+      { source: '/ar/blog/broast-sara-locations', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
+
+      { source: '/en/blog/broast-sara-branches-madinah', destination: '/en/blog/madinah-neighborhoods-branches', permanent: true },
+      { source: '/ar/blog/broast-sara-branches-madinah', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
+
+      // ── Orphaned URLs from old structure (no current post matches these slugs) ──
+      { source: '/blog/why-choose-broast-sara', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
+      { source: '/en/blog/why-choose-broast-sara', destination: '/en/blog/best-broast-in-madinah-broast-sara', permanent: true },
+      { source: '/ar/blog/why-choose-broast-sara', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
+
+      { source: '/blog/madinah-foods-must-try', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
+      { source: '/en/blog/madinah-foods-must-try', destination: '/en/blog/madinah-neighborhoods-branches', permanent: true },
+      { source: '/ar/blog/madinah-foods-must-try', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
+
+      { source: '/blog/sarookh-shawarma-story', destination: '/en/blog/premium-shawarma-seafood', permanent: true },
+      { source: '/ar/blog/sarookh-shawarma-story', destination: '/ar/blog/premium-shawarma-seafood', permanent: true },
+      { source: '/en/blog/sarookh-shawarma-story', destination: '/en/blog/premium-shawarma-seafood', permanent: true },
+
+      { source: '/blog/best-broast-madinah', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
+      { source: '/en/blog/best-broast-madinah', destination: '/en/blog/best-broast-in-madinah-broast-sara', permanent: true },
+      { source: '/ar/blog/best-broast-madinah', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
+
+      { source: '/blog/best-broast-madinah-2026', destination: '/ar/blog/best-broast-madinah-2026', permanent: true },
+
+      { source: '/blog/fresh-vs-frozen-chicken', destination: '/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah', permanent: true },
+      { source: '/ar/blog/fresh-vs-frozen-chicken', destination: '/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah', permanent: true },
+      { source: '/en/blog/fresh-vs-frozen-chicken', destination: '/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah', permanent: true },
+
+      { source: '/blog/secrets-of-crispy-broast', destination: '/ar/blog/secrets-of-crispy-broast', permanent: true },
+
+      { source: '/blog/food-safety-haccp', destination: '/ar/blog/food-safety-haccp', permanent: true },
+
+      { source: '/blog/madinah-neighborhoods-branches', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
+
+      { source: '/blog/ramadan-meals-iftar', destination: '/ar/blog/ramadan-meals-iftar', permanent: true },
+
+      // ── Generic catch-all: any remaining /blog/:slug without a locale prefix → /ar/blog/:slug ──
+      // This must stay LAST so the specific rules above take priority.
+      { source: '/blog/:slug*', destination: '/ar/blog/:slug*', permanent: true },
+    ];
   },
 };
 

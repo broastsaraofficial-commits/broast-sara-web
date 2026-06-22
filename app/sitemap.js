@@ -14,37 +14,39 @@ export default function sitemap() {
   const getAlternates = (path) => ({
     languages: {
       'ar-SA': `${baseUrl}/ar${path}`,
-      'en-SA': `${baseUrl}/en${path}`,
+      'en-US': `${baseUrl}/en${path}`,
     },
   });
 
+  const now = new Date();
+
   const sitemapEntries = [
     // 1. Explicit Homepages
-    { url: `${baseUrl}/ar`, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0, alternates: getAlternates("") },
-    { url: `${baseUrl}/en`, lastModified: new Date(), changeFrequency: 'weekly', priority: 1.0, alternates: getAlternates("") },
+    { url: `${baseUrl}/ar`, lastModified: now, changeFrequency: 'weekly', priority: 1.0, alternates: getAlternates("") },
+    { url: `${baseUrl}/en`, lastModified: now, changeFrequency: 'weekly', priority: 1.0, alternates: getAlternates("") },
 
     // 2. Core Pages
     ...corePages.flatMap(route => [
-      { url: `${baseUrl}/ar${route}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9, alternates: getAlternates(route) },
-      { url: `${baseUrl}/en${route}`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9, alternates: getAlternates(route) }
+      { url: `${baseUrl}/ar${route}`, lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: getAlternates(route) },
+      { url: `${baseUrl}/en${route}`, lastModified: now, changeFrequency: 'weekly', priority: 0.9, alternates: getAlternates(route) }
     ]),
 
     // 3. Branches
     ...branches.flatMap(branch => [
-      { url: `${baseUrl}/ar/locations/${branch}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8, alternates: getAlternates(`/locations/${branch}`) },
-      { url: `${baseUrl}/en/locations/${branch}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8, alternates: getAlternates(`/locations/${branch}`) }
+      { url: `${baseUrl}/ar/locations/${branch}`, lastModified: now, changeFrequency: 'monthly', priority: 0.8, alternates: getAlternates(`/locations/${branch}`) },
+      { url: `${baseUrl}/en/locations/${branch}`, lastModified: now, changeFrequency: 'monthly', priority: 0.8, alternates: getAlternates(`/locations/${branch}`) }
     ]),
 
-    // 4. Blog Articles
-    ...articles.flatMap(article => [
-      { url: `${baseUrl}/ar/blog/${article}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7, alternates: getAlternates(`/blog/${article}`) },
-      { url: `${baseUrl}/en/blog/${article}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7, alternates: getAlternates(`/blog/${article}`) }
+    // 4. Blog Articles — use each post's real publishDate, not build time
+    ...blogPosts.flatMap(post => [
+      { url: `${baseUrl}/ar/blog/${post.slug}`, lastModified: post.publishDate ? new Date(post.publishDate) : now, changeFrequency: 'monthly', priority: 0.7, alternates: getAlternates(`/blog/${post.slug}`) },
+      { url: `${baseUrl}/en/blog/${post.slug}`, lastModified: post.publishDate ? new Date(post.publishDate) : now, changeFrequency: 'monthly', priority: 0.7, alternates: getAlternates(`/blog/${post.slug}`) }
     ]),
 
     // 5. Legal Pages
     ...legalPages.flatMap(route => [
-      { url: `${baseUrl}/ar${route}`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5, alternates: getAlternates(route) },
-      { url: `${baseUrl}/en${route}`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.5, alternates: getAlternates(route) }
+      { url: `${baseUrl}/ar${route}`, lastModified: now, changeFrequency: 'yearly', priority: 0.5, alternates: getAlternates(route) },
+      { url: `${baseUrl}/en${route}`, lastModified: now, changeFrequency: 'yearly', priority: 0.5, alternates: getAlternates(route) }
     ])
   ];
 

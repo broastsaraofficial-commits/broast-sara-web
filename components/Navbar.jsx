@@ -34,22 +34,18 @@ export default function Navbar() {
     { nameAr: "المدونة", nameEn: "Blog", href: "/blog" },
   ];
 
-  // This powerful class forces Instrument Serif and removes negative tracking to bypass the globals.css !important rules safely.
   const fontOverrideClass = isEn ? "![font-family:var(--font-instrument),_serif] !tracking-normal !font-normal" : "!tracking-normal !font-normal";
 
-  // 4. SLUG PAGE ACTIVE FIX: Check if current pathname starts with the link's href (handles sub-pages/slugs).
-  // Special case: Home ("/") only matches exactly to avoid it matching everything.
   const isLinkActive = (linkHref) => {
     if (linkHref === (isEn ? "/en" : "/ar")) {
-      // Home: exact match only
       return pathname === linkHref;
     }
-    // All other links: active if pathname starts with linkHref (covers slug sub-pages)
     return pathname.startsWith(linkHref);
   };
 
   return (
     <>
+      {/* Navbar Z-index is 100 */}
       <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[98%] max-w-7xl z-[100] py-3 px-4 lg:px-8 liquid-glass flex items-center justify-between" dir={isEn ? "ltr" : "rtl"}>
         <Link href={isEn ? "/en" : "/ar"} className="flex items-center gap-3 no-underline" onClick={() => setMobileMenuOpen(false)}>
           <Image src="/broast-sara-logo.webp" alt="Broast Sara" width={108} height={135} priority sizes="40px" className="h-10 w-auto" />
@@ -94,8 +90,8 @@ export default function Navbar() {
       </nav>
 
       {mobileMenuOpen && (
-        /* FIXED: Replaced justify-center & h-[100dvh] with fixed pt-[110px] and overflow-y-auto to anchor the menu to the top and prevent jumping */
-        <div className="fixed inset-0 z-[90] flex flex-col items-center pt-[110px] px-4 pb-4 overflow-y-auto" dir={isEn ? "ltr" : "rtl"}>
+        /* FIXED: Changed z-[90] to z-[110] so the mobile menu dropdown sits above the global sticky footer (z-[100]) */
+        <div className="fixed inset-0 z-[110] flex flex-col items-center pt-[110px] px-4 pb-4 overflow-y-auto" dir={isEn ? "ltr" : "rtl"}>
           <div className="fixed inset-0 bg-black/60 backdrop-blur-sm -z-10" onClick={() => setMobileMenuOpen(false)}></div>
           <div className="liquid-glass w-full max-w-sm p-8 flex flex-col items-center gap-6 relative z-10 animate-in zoom-in duration-200 mt-2">
             {navLinks.map((link) => {

@@ -369,6 +369,22 @@ export const menuItems = [
     }
   },
   {
+    id: "classic-beef-burger-with-cheese",
+    category: "burgers", 
+    price: 8, 
+    kcal: 480,                
+    isSpicy: false,
+    img: "classic-beef-burger-with-cheese.webp",
+    en: {
+      title: "Classic Beef Burger with Cheese",
+      description: "A juicy grilled beef patty topped with melted cheese, fresh lettuce, tomatoes, and classic burger sauce in a soft bun."
+    },
+    ar: {
+      title: "كلاسيك برجر لحم بالجبنة",
+      description: "شريحة لحم بقري مشوية وعصارية مغطاة بالجبنة الذائبة، الخس الطازج، الطماطم، وصلصة البرجر الكلاسيكية في خبز طري."
+    }
+  },
+  {
     id: "double-beef-burger-cheese",
     category: "burgers",
     price: 12,
@@ -629,6 +645,22 @@ export const menuItems = [
     }
   },
   {
+    id: "small-french-fries",
+    category: "sides", 
+    price: 3, 
+    kcal: 240,                
+    isSpicy: false,
+    img: "small-french-fries.webp",
+    en: {
+      title: "Small French Fries",
+      description: "Crispy, golden french fries lightly salted. Perfect as a side or a quick snack."
+    },
+    ar: {
+      title: "بطاطس مقلية (صغير)",
+      description: "أصابع بطاطس مقلية ومقرمشة بلون ذهبي ومملحة خفيفاً. مثالية كطبق جانبي أو وجبة خفيفة سريعة."
+    }
+  },
+  {
     id: "regular-french-fries",
     category: "sides",
     price: 5,
@@ -674,6 +706,22 @@ export const menuItems = [
     ar: {
       title: "صلصة الثوم الأسطورية",
       description: "صلصة الثوم (الثومية) الكريمية الشهيرة الخاصة بنا. الطعم الذي لا يُنسى والذي يجعل كل قضمة دجاج ساحرة. وصفة بروست سارة المميزة والأسطورية حقاً"
+    }
+  },
+  {
+    id: "cheddar-cheese-sauce",
+    category: "sides",
+    price: 2, 
+    kcal: 90,                 
+    isSpicy: false,
+    img: "cheddar-cheese-sauce.webp",
+    en: {
+      title: "Cheddar Cheese Sauce",
+      description: "Rich and creamy cheddar cheese sauce, perfect for dipping or pouring over your favorite meals."
+    },
+    ar: {
+      title: "صلصة جبنة الشيدر",
+      description: "صلصة جبنة شيدر غنية وكريمية، مثالية للتغميس أو صبها فوق وجباتك المفضلة."
     }
   },
   {

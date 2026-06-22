@@ -41,7 +41,7 @@ const dict = {
 };
 
 const branchData = [
-  { slug: "al-aziziyyah", phone: "0596624929", hsLink: "https://hungerstation.com/sa-en/restaurant/al-madinah-al-munawwarah/al-aziziah/112370", ar: { name: "العزيزية" }, en: { name: "Al Aziziyyah" } },
+  { slug: "al-aziziyyah", phone: "0596624929", hsLink: "https://hungerstation.com/sa-en/restaurant/al-madinah-al-munawwarah/al-aziziah/112370", ar: { name: "الدعيثة" }, en: { name: "Al Daheetha" } },
   { slug: "al-hijrah", phone: "0553793829", hsLink: "https://hungerstation.com/sa-en/restaurant/al-madinah-al-munawwarah/al-jabirah/112366", ar: { name: "الهجرة" }, en: { name: "Al Hijrah" } },
   { slug: "imam-bukhari", phone: "0533107787", hsLink: "https://hungerstation.com/sa-en/restaurant/al-madinah-al-munawwarah/al-defaa/112370", ar: { name: "الإمام البخاري" }, en: { name: "Imam Bukhari" } },
   { slug: "hil-bahr", phone: "0533002270", hsLink: null, ar: { name: "حي البحر" }, en: { name: "Hil Bahr" } },
@@ -57,12 +57,32 @@ export default async function OrderPage({ params }) {
   const isEn = lang === "en";
   const t = dict[lang];
 
-  // 3. STRUCTURED DATA FOR AI SEARCH (Section G2)
+// 3. STRUCTURED DATA FOR AI SEARCH
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": isEn ? "Order Broast Sara" : "اطلب بروست سارة",
-    "description": isEn ? "Ordering and delivery platform for Broast Sara in Madinah." : "منصة الطلب والتوصيل لبروست سارة في المدينة المنورة."
+    "description": isEn ? "Ordering and delivery platform for Broast Sara in Madinah." : "منصة الطلب والتوصيل لبروست سارة في المدينة المنورة.",
+    "about": { "@id": "https://broastsara.com/#restaurant" }
+  };
+
+  const itemListJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": branchData.map((branch, index) => {
+      const b = isEn ? branch.en : branch.ar;
+      return {
+        "@type": "ListItem",
+        "position": index + 1,
+        "item": {
+          "@type": "Restaurant",
+          "name": isEn ? `Broast Sara ${b.name}` : `بروست سارة ${b.name}`,
+          "telephone": `+966${branch.phone.substring(1)}`,
+          "url": `https://broastsara.com/${lang}/locations/${branch.slug}`,
+          "hasMenu": `https://broastsara.com/${lang}/menu`
+        }
+      };
+    })
   };
 
   return (
@@ -72,7 +92,10 @@ export default async function OrderPage({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-
+    <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+      />
       <div className="max-w-7xl mx-auto flex flex-col items-center">
         <header className="text-center mb-16">
           <h1 className="text-5xl md:text-8xl mb-6 font-bold text-white font-instrument">
