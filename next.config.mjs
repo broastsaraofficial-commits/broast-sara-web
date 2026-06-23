@@ -11,7 +11,6 @@ const nextConfig = {
     return [
       // ── Arabic default: redirect no-lang URLs to /ar ──
       { source: '/', destination: '/ar', permanent: false },
-      { source: '/en', destination: '/ar', permanent: false },
       { source: '/about', destination: '/ar/about', permanent: true },
       { source: '/menu', destination: '/ar/menu', permanent: true },
       { source: '/locations', destination: '/ar/locations', permanent: true },
