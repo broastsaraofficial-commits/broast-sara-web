@@ -17,6 +17,8 @@ export async function generateMetadata({ params }) {
       title,
       description,
       url,
+      type: 'website',
+      images: [{ url: '/broast-sara-logo.webp', width: 1080, height: 1350, alt: isEn ? 'Broast Sara Blog' : 'مدونة بروست سارة' }],
     }
   };
 }

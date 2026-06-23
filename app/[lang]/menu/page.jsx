@@ -9,7 +9,14 @@ export async function generateMetadata({ params }) {
         title: isEn ? "Menu & Prices — Broast Sara | Madinah" : "قائمة الطعام والأسعار — بروست سارة | Broast Sara Menu",
         description: isEn ? "Discover Broast Sara's full menu in Madinah. Fresh crispy broast, legendary shawarma, and burgers starting from 5 SAR. 100% fresh local chicken." : "اكتشف قائمة طعام بروست سارة الكاملة في المدينة المنورة. وجبات البروست الطازج، الشاورما الأسطورية، والبرجر بأسعار تبدأ من 5 ريال. دجاج محلي طازج 100%.",
         keywords: isEn ? "Broast Sara menu, Broast prices, Madinah fried chicken, Sarookh shawarma" : "منيو بروست سارة, أسعار بروست سارة, وجبات بروست, شاورما صاروخ, برجر دجاج المدينة",
-        alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/menu` }
+        alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/menu` },
+           openGraph: {
+     title: isEn ? "Menu & Prices — Broast Sara | Madinah" : "قائمة الطعام والأسعار — بروست سارة",
+     description: isEn ? "Discover Broast Sara's full menu in Madinah. Fresh crispy broast, legendary shawarma, and burgers starting from 5 SAR. 100% fresh local chicken." : "اكتشف قائمة طعام بروست سارة الكاملة في المدينة المنورة. وجبات البروست الطازج، الشاورما الأسطورية، والبرجر بأسعار تبدأ من 5 ريال.",
+     url: `https://broastsara.com/${resolvedParams.lang}/menu`,
+     type: 'website',
+     images: [{ url: '/broast-sara-logo.webp', width: 1080, height: 1350, alt: isEn ? 'Broast Sara Menu Madinah' : 'قائمة بروست سارة المدينة المنورة' }],
+   },
     };
 }
 

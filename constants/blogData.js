@@ -1079,7 +1079,7 @@ Walk-in at other branches before closing: Closing times vary significantly by br
     alt: "Double Zinger Cheese Burger and fries from Broast Sara Madinah burger menu",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara is a Madinah based broast chain with 8 branches, 7 in the city and 1 in Yanbu, offering a full burger menu alongside its signature broast and shawarma. Burgers range from the 7 SAR Chicken Burger to the 16 SAR Double Zinger Cheese Burger, all made with fresh, never frozen, hand slaughtered halal chicken. Orders can be placed through HungerStation at most branches or WhatsApp at any branch. The Abiar Al Mashi branch operates 24 hours a day, 7 days a week.",
-    description: "A full price guide to every burger on the Broast Sara menu in Madinah.",
+    description: "Every burger on the Broast Sara Madinah menu with prices, from the 7 SAR Chicken Burger to the Double Zinger Cheese Burger.",
     content: `
 
 ## What Burgers Does Broast Sara Serve in Madinah
@@ -1841,7 +1841,7 @@ The Abiar Al Mashi branch at 0530957742 applies these same standards 24 hours a 
     alt: "Fresh halal chicken being prepared under HACCP food safety standards at Broast Sara Madinah.",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara operates 8 branches, 7 in Madinah and 1 in Yanbu, and applies HACCP, Hazard Analysis and Critical Control Points, food safety protocols across every location. All chicken is hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates, and the full Food Safety Policy is published on the website. The Abiar Al Mashi branch operates 24 hours a day, seven days a week, applying the same standards overnight as during the day. Orders can be placed through HungerStation at most branches or WhatsApp at any branch, including signature items such as the Original Broast and Legendary Garlic Thoum Sauce.",
-    description: "Broast Sara explains how HACCP food safety protocols and daily halal slaughter build customer trust across Madinah.",
+    description: "How Broast Sara applies HACCP protocols and daily halal slaughter across all 8 Madinah branches to ensure consistent food safety.",
     content: `
 
 ## What HACCP Means at Broast Sara and Why It Matters in Madinah
@@ -2821,7 +2821,7 @@ The [Broast Sara Locations page](/en/locations) lists all 8 branches with addres
     alt: "Kitchen staff pressure frying fresh chicken broast at Broast Sara Madinah branch",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara is a Madinah based broast chain with 8 branches, 7 in the city and 1 in Yanbu, that hand slaughters its chicken daily using the Islamic halal method. Every batch is marinated for 12 hours under refrigeration before pressure frying to a minimum internal temperature of 74 degrees Celsius. Orders can be placed through HungerStation at most branches or WhatsApp at any branch, and signature items include the Original Broast, Spicy Haraq Broast, and Sarookh Shawarma. The Abiar Al Mashi branch operates 24 hours a day, 7 days a week.",
-    description: "An inside look at how Broast Sara Madinah prepares fresh, halal broast from receiving to pressure frying.",
+    description: "How Broast Sara Madinah prepares fresh halal broast: daily halal slaughter, 12-hour marination, HACCP controls, and pressure frying.",
     content: `
 
 ## What Happens Before the Chicken Reaches the Fryer at Broast Sara
@@ -3319,7 +3319,7 @@ For late-night delivery specifics, including Ramadan suhoor ordering from the Ab
     alt: "Family iftar broast bundle with garlic thoum sauce from Broast Sara Madinah",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara is a Madinah based broast chain with 8 branches, 7 in the city and 1 in Yanbu, that extends hours during Ramadan to serve iftar and suhoor with fresh, never frozen, hand slaughtered halal chicken. Family iftar packs combine broast portions, fries, and the in-house Legendary Garlic Thoum Sauce, while the Abiar Al Mashi branch stays open 24 hours a day for late-night suhoor orders. Orders can be placed through HungerStation or WhatsApp at any branch. Seasonal offers also extend to Eid Al Fitr, Eid Al Adha, and Saudi National Day.",
-    description: "How Broast Sara in Madinah serves iftar, suhoor, and Eid family meals during Ramadan.",
+    description: "Broast Sara Madinah serves fresh halal broast for iftar and suhoor during Ramadan, with the Abiar Al Mashi branch open 24 hours.",
     content: `
 
 ## How Ramadan Changes the Way Broast Sara Operates in Madinah
@@ -4498,7 +4498,7 @@ HACCP تعني تحليل المخاطر ونقاط التحكم الحرجة. �
     alt: "Hot Original Broast meal packed for delivery from Broast Sara Madinah branch",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara is a Madinah based broast chain with 8 branches, 7 in the city and 1 in Yanbu, offering delivery through HungerStation at 6 of its 8 branches and direct WhatsApp or phone orders at every branch. Standard delivery takes roughly 25 to 45 minutes using fresh, never frozen, hand slaughtered halal chicken pressure fried to a dense, crispy crust. The Abiar Al Mashi branch delivers 24 hours a day, 7 days a week, making it the most reliable option for late night and suhoor orders. Signature delivery items include Original Broast, Spicy Haraq Broast, and the in-house Legendary Garlic Thoum Sauce.",
-    description: "How Broast Sara delivery works in Madinah, including platforms, coverage, and timing for the best result.",
+    description: "Order Broast Sara delivery in Madinah via HungerStation or WhatsApp. Fresh halal broast delivered hot across all Madinah districts.",
     content: `
 
 ## How Broast Sara Delivery Works in Madinah
@@ -4994,7 +4994,7 @@ HACCP تعني تحليل المخاطر ونقاط التحكم الحرجة. �
     alt: "Fresh broast and shawarma served late at night at Broast Sara Abiar Al Mashi Madinah",
     keywords: GLOBAL_KEYWORDS_EN,
     snippet: "Broast Sara is a Madinah based broast chain with 8 branches, 7 in the city and 1 in Yanbu, and its Abiar Al Mashi branch operates 24 hours a day, 7 days a week with no closures during Ramadan or Hajj. The branch serves the full menu, including Original Broast, Spicy Haraq Broast, Sarookh Shawarma, and the in-house Legendary Garlic Thoum Sauce, made from fresh, never frozen, hand slaughtered halal chicken at every hour. Orders can be placed in branch or by WhatsApp and phone at 0530957742, since the branch is not listed on HungerStation. This makes it the most reliable late night and suhoor option in the city.",
-    description: "Why Broast Sara's Abiar Al Mashi branch is Madinah's most reliable 24 hour broast option.",
+    description: "Broast Sara Abiar Al Mashi is Madinah's only 24-hour broast branch, serving fresh halal chicken at any hour at 0530957742.",
     content: `
 
 ## Why Late Night Food in Madinah Is a Genuine Problem
@@ -5928,4 +5928,1409 @@ Full branch addresses and contact details are on the [Broast Sara Locations page
     ]
   }
 },
+{
+  slug: "broast-sara-abiar-al-mashi-24-hours",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "branches-locations",
+  en: {
+    title: "Abiar Al Mashi 24-Hour Broast: Broast Sara Open All Night",
+    alt: "Fresh broast served late at night at Broast Sara Abiar Al Mashi branch in Madinah.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara's Abiar Al Mashi branch is the only location in Madinah Al-Munawwarah open 24 hours a day, seven days a week, including Ramadan nights, Hajj season, and public holidays, reachable at 0530957742. Every order is cooked fresh to order from 100% fresh never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method, with HACCP food safety protocols running at every hour. The full menu is available around the clock, including Original Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce made in-house through garlic emulsification. Orders are accepted by phone, WhatsApp, or walk-in at any hour — Abiar Al Mashi is not listed on HungerStation.",
+    description: "Broast Sara Abiar Al Mashi is Madinah's only 24-hour broast branch, serving fresh halal broast at any hour by phone or WhatsApp at 0530957742.",
+    content: `
+
+## The Only 24-Hour Broast Kitchen in Madinah
+
+Broast Sara's Abiar Al Mashi branch is the only location in Madinah Al-Munawwarah that never closes. It operates 24 hours a day, seven days a week, at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, reachable at 0530957742 by phone or WhatsApp at any hour. The other seven Broast Sara branches keep their own closing times, ranging from 2:30 AM at Al Hijrah to 4:00 AM at Aljwazat and Imam Bukhari, but Abiar Al Mashi has no closing hour at all — not during Ramadan, not during Hajj season, not on public holidays.
+
+Madinah does not operate on a standard city rhythm. Pilgrims completing Tahajjud circuits return hungry after 3 AM. Long-distance drivers passing through on the regional road network stop at hours when every other kitchen has locked its doors. Shift workers whose dinner hour falls at 2 AM need the same freshly cooked meal that a lunchtime customer expects. Abiar Al Mashi exists because that demand is real and consistent, and because a broast kitchen serving that demand must cook to the same standard at any hour, not run down the quality of what it produces as the night deepens.
+
+## Why Late-Night Quality at Most Broast Restaurants Degrades and Why It Does Not Have To
+
+The standard pattern at most fast-food operations after midnight follows straightforward economics. Fewer customers means smaller batches cooked less frequently, which means food sitting longer under heat lamps between the fryer and the customer. A pressure-fried crust held under a heat lamp for 20 minutes after cooking begins to soften as residual steam from the interior migrates outward through the crust layer. The crust that arrives at the table at 1 AM in most late-night fast-food kitchens is structurally different from the same item at 7 PM. Same recipe, degraded result.
+
+Broast Sara's policy at Abiar Al Mashi addresses this directly: every order is cooked to order at every hour. A customer arriving at 3 AM and ordering an Original Broast gets chicken that was in the pressure fryer within the last few minutes, not one sitting in a warming tray since the last batch window. The crust snaps with the same clean crack at 3 AM as it does at 8 PM. The steam that escapes when the piece breaks open carries the marinade scent from inside the meat, not just from the surface coating. Those two things — the crack and the interior steam — are the physical indicators that the pressure-frying process worked correctly on fresh chicken with intact cellular moisture. They do not change based on the time of night. See the [Secrets of Crispy Broast post](/en/blog/secrets-of-crispy-broast) for the full technical explanation of why holding time destroys crust integrity.
+
+## What the Kitchen Actually Does at 3 AM That It Also Does at 3 PM
+
+The sourcing chain that makes the overnight quality claim credible runs daily, not shift by shift. Every chicken served at Abiar Al Mashi was sourced from local Saudi farms, hand-slaughtered using the Islamic halal method that morning, delivered fresh to the branch the same day, and entered a 12-hour controlled marination before reaching the fryer. That cycle applies to the batch available at 2 AM the same way it applies to the batch available at 2 PM. Fresh chicken is not a daytime-only standard at Broast Sara. It is the only standard the kitchen operates under, at any hour, at any branch.
+
+The HACCP (Hazard Analysis and Critical Control Points) protocols that govern every Broast Sara branch run continuously at Abiar Al Mashi:
+
+- Cold storage monitoring runs at all hours, with logged temperature records maintained regardless of customer volume or time of day
+- Marination temperature is controlled through the overnight cycle the same way it is during peak daytime service
+- Every piece of chicken reaches a minimum internal temperature of 74 degrees Celsius in the pressure fryer, confirmed by the same procedural standard applied at noon as at midnight
+- Cross-contamination separation between raw and cooked product, hand hygiene protocols, and surface sanitation schedules are documented for all hours of operation, not only peak windows
+
+These controls do not scale back when the queue shortens. The [Food Safety Policy page](/en/legal/food-safety) documents these commitments formally.
+
+## Who Actually Eats at Abiar Al Mashi After Midnight
+
+The customer profile at Abiar Al Mashi between midnight and Fajr prayer is genuinely mixed. On any given overnight, the branch serves pilgrims completing late prayer circuits at Masjid Al-Nabawi, long-haul drivers travelling the Madinah-Yanbu or Madinah-Jeddah corridors who stop specifically because no other hot fresh meal is available at that hour, families whose members arrived on late connecting flights into Prince Mohammed Bin Abdulaziz International Airport, and Madinah residents whose work or study schedules push their main meal into the early hours.
+
+During Ramadan, Abiar Al Mashi becomes one of the most active suhoor kitchens in the city. The branch serves the full menu through every suhoor hour of every night of the holy month. Pilgrims staying in hotels near the Haram who want a hot meal before Fajr prayer have limited options that cook fresh rather than reheat. Abiar Al Mashi is one of the consistent ones. Orders during Ramadan suhoor hours are accepted by phone and WhatsApp at 0530957742. For the full Ramadan ordering guide including iftar timing recommendations, see the [Ramadan Food Guide Madinah post](/en/blog/ramadan-food-guide-madinah).
+
+## What You Can Order at Abiar Al Mashi at Any Hour
+
+The full Broast Sara menu is available at Abiar Al Mashi at every hour without exception. There is no reduced overnight menu, no limited late-night selection, no items that require advance notice to prepare.
+
+The pressure-fried items available around the clock:
+
+- Original Broast in quarter and 4-piece configurations
+- Spicy Haraq Broast, which uses the same fresh daily-slaughtered chicken with a distinct marinade that builds heat through the meat rather than concentrating it at the surface coating
+- 5-piece boneless chicken fillet
+
+Shawarma and wraps:
+
+- Sarookh Shawarma, made from the same daily fresh-slaughtered Saudi chicken as the broast line
+- Samoli Shawarma, a smaller portable format
+
+Seafood and sides:
+
+- Golden Shrimp 15-piece
+- Fish Fillet 7-piece
+- Crispy French Fries
+- Legendary Garlic Thoum Sauce, made in-house through garlic emulsification, available with all broast and shawarma items
+
+For a single-item late-night order, the Samoli Shawarma at 5 SAR and the Crispy French Fries at 5 SAR have minimal preparation wait. For a full broast order, allow 7 to 10 minutes from order to collection since the chicken is cooked to order.
+
+## How to Order from Abiar Al Mashi at Any Hour
+
+Abiar Al Mashi is not listed on HungerStation. All orders are placed by phone, WhatsApp, or walk-in directly at the branch. The branch phone number is 0530957742.
+
+For walk-in orders, the branch is at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, with a verified Google Maps listing. Its position along a primary transit corridor on the southern edge of Madinah makes it accessible to drivers entering or exiting the city on the main highway routes.
+
+For WhatsApp orders, response times during the deepest overnight hours, roughly 1 AM to 4 AM, may be slightly slower than during peak service. Calling 0530957742 directly is the most reliable way to place and confirm an order at those hours.
+
+Other Broast Sara branches that take HungerStation orders until their individual closing times include Imam Bukhari (the main branch, closing at 4 AM), Aljwazat (closing at 4 AM), Al Daheetha (closing at 3:30 AM), Hil Bahr (closing at 3 AM, phone and WhatsApp only), Al Juruf (closing at 3 AM), and Al Hijrah (closing at 2:30 AM). After those branches close, Abiar Al Mashi is the only option remaining. The [Broast Sara Locations page](/en/locations) lists all 8 branches with current addresses and contact numbers.
+
+For pilgrims and visitors staying near Masjid Al-Nabawi, the Hil Bahr branch on Imam Ahmad ibn Hanbal Street in Al Jumuah is the closest Broast Sara location to the Haram and operates until 3 AM by phone and WhatsApp at 0533002270. For orders needed after Hil Bahr closes, Abiar Al Mashi is the fallback. The [Restaurants Near Masjid al-Nabawi post](/en/blog/best-halal-food-near-masjid-al-nabawi-madinah) covers the full pilgrim ordering guide.
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "Is Broast Sara Abiar Al Mashi open 24 hours?", a: "Yes. Broast Sara Abiar Al Mashi is open 24 hours a day, seven days a week, with no closing hour, including Ramadan nights, Hajj season, and public holidays. The branch is located at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, and is reachable at 0530957742 by phone or WhatsApp at any hour." },
+      { q: "What is the phone number for Broast Sara Abiar Al Mashi?", a: "The Broast Sara Abiar Al Mashi branch is reachable at 0530957742 by phone or WhatsApp at any hour. The branch is open 24 hours a day, seven days a week, and accepts orders by phone, WhatsApp, or walk-in. It is not listed on HungerStation." },
+      { q: "Is Broast Sara Abiar Al Mashi on HungerStation?", a: "No. Broast Sara Abiar Al Mashi is not listed on HungerStation. Orders are placed by phone, WhatsApp, or walk-in directly at the branch at 0530957742. The branch is open 24 hours a day, seven days a week." },
+      { q: "Where is Broast Sara Abiar Al Mashi located?", a: "Broast Sara Abiar Al Mashi is located at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, on a primary transit corridor on the southern edge of Madinah. The branch has a verified Google Maps listing and is reachable at 0530957742." },
+      { q: "What time does Broast Sara close in Madinah?", a: "Most Broast Sara branches in Madinah close between 2:30 AM and 4:00 AM depending on the location. Al Hijrah closes at 2:30 AM, Hil Bahr and Al Juruf at 3:00 AM, Al Daheetha at 3:30 AM, and Aljwazat and Imam Bukhari at 4:00 AM. The Abiar Al Mashi branch never closes and operates 24 hours a day, seven days a week, at 0530957742." },
+      { q: "Is there a broast restaurant open near me right now in Madinah?", a: "Broast Sara Abiar Al Mashi at 0530957742 is open 24 hours a day, seven days a week, making it the most consistently available option at any hour in Madinah. Search Broast Sara on Google Maps to find which other branch is nearest your current location and check its current operating status." },
+      { q: "Where can I get late-night food in Madinah after midnight?", a: "Broast Sara Abiar Al Mashi is open 24 hours a day and serves the full menu after midnight, including Original Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce, cooked fresh to order at every hour. The branch is at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, reachable at 0530957742 by phone or WhatsApp." },
+      { q: "Does Broast Sara deliver at 2 AM in Madinah?", a: "Broast Sara Abiar Al Mashi accepts orders by phone and WhatsApp at 0530957742 at any hour including 2 AM, though it is not on HungerStation. Other branches including Imam Bukhari and Aljwazat remain on HungerStation until their 4:00 AM closing time, so check the app first if your address is closer to one of those branches." },
+      { q: "Is the chicken at Broast Sara Abiar Al Mashi fresh at night?", a: "Yes. Broast Sara Abiar Al Mashi uses the same 100% fresh never-frozen local Saudi chicken at every hour as every other Broast Sara branch. The chicken is hand-slaughtered daily using the Islamic halal method, delivered fresh the same morning, marinated for 12 hours, and cooked to order, not held under heat lamps regardless of the time of night." },
+      { q: "Is Broast Sara Abiar Al Mashi halal?", a: "Yes. Every chicken at Broast Sara Abiar Al Mashi is hand-slaughtered daily using the Islamic halal method, performed locally in Madinah Al-Munawwarah, with official halal conformity certificates from the Saudi Halal Center accompanying every delivery batch. The chicken is sourced from local Saudi farms and has never been frozen." },
+      { q: "What can I order at Broast Sara Abiar Al Mashi after midnight?", a: "The full Broast Sara menu is available at Abiar Al Mashi after midnight with no reduced selection. This includes Original Broast, Spicy Haraq Broast, 5-piece boneless fillet, Sarookh Shawarma, Samoli Shawarma, Golden Shrimp, Fish Fillet, Crispy French Fries, and Legendary Garlic Thoum Sauce. Call or WhatsApp 0530957742 to order." },
+      { q: "Does Broast Sara Abiar Al Mashi serve suhoor during Ramadan?", a: "Yes. Broast Sara Abiar Al Mashi serves the full menu through all suhoor hours during Ramadan since it operates 24 hours a day, seven days a week, including every night of the holy month. Orders are accepted by phone and WhatsApp at 0530957742 at any hour before Fajr." },
+      { q: "Can pilgrims get fresh halal broast late at night in Madinah?", a: "Yes. Broast Sara Abiar Al Mashi is open 24 hours and serves the full menu with fresh daily-slaughtered Saudi chicken certified halal by the Saudi Halal Center, making it a reliable option for pilgrims needing a hot meal at any hour. For pilgrim groups near the Haram, the Hil Bahr branch on Imam Ahmad ibn Hanbal Street in Al Jumuah is the closest Broast Sara location to Masjid Al-Nabawi and is open until 3:00 AM at 0533002270." },
+      { q: "What is the best late-night food in Madinah?", a: "Broast Sara Abiar Al Mashi is one of the most reliable late-night options in Madinah, operating 24 hours a day with a full menu of fresh pressure-fried broast cooked to order at every hour. The branch is at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, reachable at 0530957742, and serves the same fresh halal chicken standard at 3 AM as at 3 PM." },
+      { q: "Is there a 24-hour halal restaurant in Madinah?", a: "Yes. Broast Sara Abiar Al Mashi operates 24 hours a day, seven days a week, serving fresh halal broast, shawarma, and seafood cooked to order with 100% fresh local Saudi chicken hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates. The branch is at 0530957742." },
+      { q: "How long does it take to get broast at Abiar Al Mashi late at night?", a: "Walk-in and phone orders for single items like Samoli Shawarma or Crispy French Fries have minimal wait. For a full broast order such as the Original Broast 4-piece or the 5-piece boneless fillet, allow 7 to 10 minutes from order to collection since every order is cooked fresh to order rather than held." },
+      { q: "Is there a family broast meal available late at night at Broast Sara in Madinah?", a: "Yes. The full Broast Sara menu including all family-sized combinations of Original Broast and shawarma is available at Abiar Al Mashi at every hour. For large group orders, calling 0530957742 directly allows kitchen staff to confirm the combination and preparation time before you arrive or before dispatch." },
+      { q: "What is the difference between Broast Sara Abiar Al Mashi and other Broast Sara branches?", a: "Abiar Al Mashi is the only Broast Sara branch open 24 hours a day, seven days a week, and the only one not listed on HungerStation, taking orders exclusively by phone, WhatsApp, or walk-in at 0530957742. All other operational standards — fresh chicken, 12-hour marination, HACCP protocols, and the same full menu — are identical across all 8 Broast Sara branches." },
+      { q: "Can I walk in to Broast Sara Abiar Al Mashi at 4 AM?", a: "Yes. Broast Sara Abiar Al Mashi accepts walk-in orders at every hour including 4 AM. The branch is at DRJA6418, 5804, Abiar Al Mashi, Madinah 42542, with a verified Google Maps listing. The full menu is available and chicken is cooked to order upon arrival." },
+      { q: "Does Broast Sara Abiar Al Mashi stay open during Hajj season?", a: "Yes. Broast Sara Abiar Al Mashi operates 24 hours a day, seven days a week throughout Hajj season without any reduction in hours or menu. The same fresh daily-slaughtered Saudi chicken, 12-hour marination, and HACCP food safety protocols apply at every hour during peak Hajj demand as at any other time. Reach the branch at 0530957742 by phone or WhatsApp." }
+    ]
+  },
+ar: {
+  title: "بروست أبيار الماشي على مدار 24 ساعة: بروست سارة مفتوح طوال الليل",
+  alt: "بروست طازج يُقدَّم في وقت متأخر من الليل في فرع بروست سارة أبيار الماشي بالمدينة المنورة.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "فرع بروست سارة في أبيار الماشي هو الموقع الوحيد في المدينة المنورة المفتوح 24 ساعة يومياً سبعة أيام في الأسبوع، بما في ذلك ليالي رمضان وموسم الحج والإجازات الرسمية، ويمكن التواصل معه على الرقم 0530957742. كل طلب يُطهى طازجاً عند الطلب من دجاج سعودي محلي طازج 100% غير مجمد يُذبح يومياً بالطريقة الإسلامية الحلال، مع تطبيق بروتوكولات سلامة الغذاء HACCP في كل ساعة. القائمة الكاملة متاحة على مدار الساعة، بما في ذلك البروست الأصلي وشاورما صاروخ وصلصة الثوم الأسطورية المُحضَّرة داخلياً عبر استحلاب الثوم. تُقبل الطلبات عبر الهاتف أو واتساب أو الحضور الشخصي في أي ساعة، إذ لا يتوفر فرع أبيار الماشي على هنقرستيشن.",
+  description: "فرع بروست سارة أبيار الماشي هو الفرع الوحيد المفتوح 24 ساعة في المدينة المنورة، يقدم بروستاً حلالاً طازجاً في أي وقت عبر الهاتف أو واتساب على الرقم 0530957742.",
+  content: `
+
+## المطبخ الوحيد للبروست المفتوح 24 ساعة في المدينة المنورة
+
+فرع بروست سارة في أبيار الماشي هو الموقع الوحيد في المدينة المنورة الذي لا يُغلق أبداً. يعمل 24 ساعة يومياً سبعة أيام في الأسبوع، في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، ويمكن التواصل معه على الرقم 0530957742 عبر الهاتف أو واتساب في أي ساعة. تحتفظ الفروع السبعة الأخرى لبروست سارة بأوقات إغلاقها الخاصة، تتراوح بين 2:30 صباحاً في فرع الهجرة و4:00 صباحاً في فرعي الجوازات والإمام البخاري، غير أن فرع أبيار الماشي لا يملك ساعة إغلاق على الإطلاق، لا خلال رمضان، ولا في موسم الحج، ولا في أيام الإجازات الرسمية.
+
+لا تسير المدينة المنورة على إيقاع مدينة عادية. الحجاج الذين يُتمّون دورات صلاة التهجد يعودون جائعين بعد الساعة الثالثة فجراً. سائقو الرحلات الطويلة العابرون عبر شبكة الطرق الإقليمية يتوقفون في ساعات أغلقت فيها كل المطابخ الأخرى. العمال الذين تقع وجبة عشائهم في الساعة الثانية فجراً يحتاجون إلى نفس الوجبة الطازجة المطهوة التي يتوقعها زبون وقت الغداء. أبيار الماشي موجود لأن هذا الطلب حقيقي ومستمر، ولأن مطبخ البروست الذي يخدم هذا الطلب يجب أن يطهو وفق نفس المعيار في أي ساعة، لا أن يتراجع في جودة ما يُنتجه كلما تعمّق الليل.
+
+## لماذا تتدهور جودة البروست الليلي في معظم المطاعم وكيف يمكن ألا يحدث ذلك
+
+النمط الاعتيادي في معظم عمليات الوجبات السريعة بعد منتصف الليل يتبع منطقاً اقتصادياً بسيطاً. عدد أقل من الزبائن يعني دفعات أصغر تُطهى بتكرار أقل، مما يعني بقاء الطعام أطول تحت مصابيح التسخين بين القلاية والزبون. قشرة مقلية بالضغط تُحتجز تحت مصباح تسخين لمدة 20 دقيقة بعد الطهي تبدأ في التليين مع هجرة البخار المتبقي من الداخل عبر طبقة القشرة. القشرة التي تصل إلى الطاولة في الساعة الأولى صباحاً في معظم مطابخ الوجبات السريعة الليلية مختلفة هيكلياً عن نفس الصنف في الساعة السابعة مساءً. الوصفة ذاتها، لكن النتيجة متدهورة.
+
+تُعالج سياسة بروست سارة في أبيار الماشي هذه المسألة مباشرةً: كل طلب يُطهى عند الطلب في كل ساعة. الزبون الذي يصل في الساعة الثالثة فجراً ويطلب البروست الأصلي يحصل على دجاج كان في قلاية الضغط خلال الدقائق القليلة الماضية، لا دجاجة تجلس في صينية تسخين منذ آخر دفعة. تنكسر القشرة بنفس الطقطقة النظيفة في الساعة الثالثة فجراً كما تفعل في الساعة الثامنة مساءً. البخار الذي يتصاعد عند كسر القطعة يحمل رائحة التتبيلة من داخل اللحم لا من الطبقة السطحية فحسب. هذان الأمران، الطقطقة والبخار الداخلي، هما المؤشران الفيزيائيان على أن عملية القلي بالضغط نجحت على دجاج طازج بكامل رطوبته الخلوية. لا يتغيران بناءً على الوقت من الليل. راجع [منشور أسرار البروست المقرمش](/ar/blog/secrets-of-crispy-broast) للاطلاع على الشرح التقني الكامل لسبب تدمير وقت الاحتجاز لتماسك القشرة.
+
+## ما الذي يفعله المطبخ فعلياً في الساعة الثالثة فجراً مما يفعله أيضاً في الساعة الثالثة ظهراً
+
+سلسلة التوريد التي تُضفي المصداقية على ادعاء الجودة الليلية تعمل يومياً لا وردية بوردية. كل دجاجة تُقدَّم في أبيار الماشي مصدرها مزارع سعودية محلية، ذُبحت يدوياً بالطريقة الإسلامية الحلال في ذلك الصباح، وسُلِّمت طازجة إلى الفرع في اليوم ذاته، ودخلت في تتبيل مضبوط لمدة 12 ساعة قبل وصولها إلى القلاية. تلك الدورة تنطبق على الدفعة المتاحة في الساعة الثانية فجراً بنفس الطريقة التي تنطبق على الدفعة المتاحة في الساعة الثانية ظهراً. الدجاج الطازج ليس معياراً نهارياً في بروست سارة. إنه المعيار الوحيد الذي يعمل به المطبخ في أي ساعة وفي أي فرع.
+
+بروتوكولات HACCP (تحليل المخاطر ونقاط التحكم الحرجة) التي تحكم كل فرع من فروع بروست سارة تعمل باستمرار في أبيار الماشي:
+
+- تعمل مراقبة التخزين البارد في جميع الساعات مع الاحتفاظ بسجلات درجات الحرارة الموثقة بصرف النظر عن حجم الزبائن أو وقت اليوم
+- تُضبط درجة حرارة التتبيل خلال الدورة الليلية بنفس الطريقة المتبعة خلال ساعة الذروة النهارية
+- تبلغ كل قطعة دجاج درجة حرارة داخلية لا تقل عن 74 درجة مئوية في قلاية الضغط، مؤكدةً بنفس المعيار الإجرائي المطبق عند الظهر كما عند منتصف الليل
+- الفصل بين المنتجات النيئة والمطهوة، وبروتوكولات النظافة الشخصية، وجداول تعقيم الأسطح موثقة لجميع ساعات التشغيل لا لفترات الذروة فحسب
+
+هذه الضوابط لا تتراجع عندما تقصر الطوابير. توثّق [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety) هذه الالتزامات رسمياً.
+
+## من يأكل فعلياً في أبيار الماشي بعد منتصف الليل
+
+ملف الزبائن في أبيار الماشي بين منتصف الليل وصلاة الفجر متنوع حقاً. في أي ليلة، يخدم الفرع حجاجاً يُتمّون دورات الصلاة المتأخرة في المسجد النبوي، وسائقي رحلات طويلة يسلكون طرق المدينة المنورة-ينبع أو المدينة المنورة-جدة يتوقفون تحديداً لأنه لا يتوفر أي وجبة ساخنة طازجة أخرى في تلك الساعة، وعائلات وصل أفرادها على رحلات متأخرة مع رحلات ربط إلى مطار الأمير محمد بن عبدالعزيز الدولي، وسكان المدينة المنورة الذين تدفع جداول عملهم أو دراستهم وجبتهم الرئيسية إلى الساعات الأولى.
+
+خلال رمضان، يصبح أبيار الماشي أحد أنشط مطابخ السحور في المدينة. يقدم الفرع القائمة الكاملة خلال كل ساعات السحور في كل ليلة من ليالي الشهر الكريم. الحجاج المقيمون في فنادق قرب الحرم الذين يرغبون في وجبة ساخنة قبل صلاة الفجر لديهم خيارات محدودة تطهو طازجاً بدلاً من إعادة التسخين. أبيار الماشي أحد الخيارات الثابتة. تُقبل الطلبات خلال ساعات سحور رمضان عبر الهاتف وواتساب على الرقم 0530957742. للاطلاع على دليل طلبات رمضان الكامل بما في ذلك توصيات توقيت الإفطار، راجع [منشور دليل طعام رمضان في المدينة المنورة](/ar/blog/ramadan-food-guide-madinah).
+
+## ما يمكنك طلبه في أبيار الماشي في أي ساعة
+
+القائمة الكاملة لبروست سارة متاحة في أبيار الماشي في كل ساعة دون استثناء. لا توجد قائمة ليلية مختصرة، ولا تشكيلة محدودة في ساعات متأخرة، ولا أصناف تتطلب إشعاراً مسبقاً للتحضير.
+
+أصناف القلي بالضغط المتاحة على مدار الساعة:
+
+- البروست الأصلي بتشكيلتي الربع و4 قطع
+- بروست حراق الحار، الذي يستخدم نفس الدجاج الطازج المذبوح يومياً مع تتبيلة مميزة تبني الحرارة خلال اللحم بدلاً من تركيزها في الطبقة السطحية
+- شرائح الدجاج المنزوعة العظم من 5 قطع
+
+الشاورما واللفائف:
+
+- شاورما صاروخ، مصنوعة من نفس الدجاج السعودي الطازج المذبوح يومياً كخط البروست
+- شاورما سمولي، تنسيق أصغر محمول
+
+المأكولات البحرية والمرافقات:
+
+- الروبيان الذهبي 15 قطعة
+- فيليه السمك 7 قطع
+- بطاطس فرنسية مقرمشة
+- صلصة الثوم الأسطورية، مُحضَّرة داخلياً عبر استحلاب الثوم، متاحة مع جميع أصناف البروست والشاورما
+
+للطلب بصنف واحد في ساعات متأخرة، تتميز شاورما سمولي بـ5 ريال والبطاطس الفرنسية المقرمشة بـ5 ريال بوقت تحضير ضئيل. لطلب بروست كامل، اسمح بـ7 إلى 10 دقائق من الطلب إلى الاستلام إذ يُطهى الدجاج عند الطلب.
+
+## كيف تطلب من أبيار الماشي في أي ساعة
+
+أبيار الماشي غير متوفر على هنقرستيشن. جميع الطلبات تُقدَّم عبر الهاتف أو واتساب أو بالحضور الشخصي مباشرةً في الفرع. رقم هاتف الفرع هو 0530957742.
+
+للطلبات بالحضور الشخصي، الفرع في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، مع قائمة موثقة على خرائط جوجل. موقعه على طول ممر عبور رئيسي في الطرف الجنوبي من المدينة المنورة يجعله في متناول السائقين الداخلين إلى المدينة أو الخارجين منها على الطرق السريعة الرئيسية.
+
+لطلبات واتساب، قد تكون أوقات الاستجابة في أعمق ساعات الليل، تقريباً من الساعة الأولى إلى الرابعة فجراً، أبطأ قليلاً من ساعات الخدمة الذروة. الاتصال المباشر على الرقم 0530957742 هو الطريقة الأكثر موثوقية لتقديم الطلب وتأكيده في تلك الساعات.
+
+من بين فروع بروست سارة الأخرى التي تقبل طلبات هنقرستيشن حتى أوقات إغلاقها الفردية: الإمام البخاري (الفرع الرئيسي، يُغلق في الساعة 4:00 فجراً)، والجوازات (يُغلق في الساعة 4:00 فجراً)، والدعيثة (تُغلق في الساعة 3:30 فجراً)، وحي البحر (يُغلق في الساعة 3:00 فجراً، هاتف وواتساب فقط)، والجرف (يُغلق في الساعة 3:00 فجراً)، والهجرة (تُغلق في الساعة 2:30 فجراً). بعد إغلاق تلك الفروع، يبقى أبيار الماشي الخيار الوحيد المتاح. تسرد [صفحة فروع بروست سارة](/ar/locations) جميع الفروع الثمانية بعناوينها الحالية وأرقام التواصل.
+
+للحجاج والزوار المقيمين قرب المسجد النبوي، فرع حي البحر في شارع الإمام أحمد بن حنبل في الجمعة هو أقرب موقع لبروست سارة من الحرم ويعمل حتى الساعة 3:00 فجراً عبر الهاتف وواتساب على الرقم 0533002270. للطلبات اللازمة بعد إغلاق حي البحر، أبيار الماشي هو البديل. يتناول [منشور المطاعم قرب المسجد النبوي](/ar/blog/best-halal-food-near-masjid-al-nabawi-madinah) الدليل الكامل لطلبات الحجاج.
+
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "هل بروست سارة أبيار الماشي مفتوح 24 ساعة؟", a: "نعم. بروست سارة أبيار الماشي مفتوح 24 ساعة يومياً سبعة أيام في الأسبوع دون أي ساعة إغلاق، بما في ذلك ليالي رمضان وموسم الحج والإجازات الرسمية. الفرع يقع في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، ويمكن التواصل معه على الرقم 0530957742 عبر الهاتف أو واتساب في أي ساعة." },
+    { q: "ما رقم هاتف بروست سارة أبيار الماشي؟", a: "يمكن التواصل مع فرع بروست سارة أبيار الماشي على الرقم 0530957742 عبر الهاتف أو واتساب في أي ساعة. الفرع مفتوح 24 ساعة يومياً سبعة أيام في الأسبوع ويقبل الطلبات عبر الهاتف أو واتساب أو الحضور الشخصي. غير متوفر على هنقرستيشن." },
+    { q: "هل بروست سارة أبيار الماشي متوفر على هنقرستيشن؟", a: "لا. بروست سارة أبيار الماشي غير متوفر على هنقرستيشن. تُقدَّم الطلبات عبر الهاتف أو واتساب أو الحضور الشخصي مباشرةً في الفرع على الرقم 0530957742. الفرع مفتوح 24 ساعة يومياً سبعة أيام في الأسبوع." },
+    { q: "أين يقع بروست سارة أبيار الماشي؟", a: "يقع بروست سارة أبيار الماشي في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، على ممر عبور رئيسي في الطرف الجنوبي من المدينة المنورة. للفرع قائمة موثقة على خرائط جوجل ويمكن التواصل معه على الرقم 0530957742." },
+    { q: "في أي وقت يُغلق بروست سارة في المدينة المنورة؟", a: "تُغلق معظم فروع بروست سارة في المدينة المنورة بين الساعة 2:30 و4:00 فجراً بحسب الموقع. يُغلق فرع الهجرة في الساعة 2:30 فجراً، وفرعا حي البحر والجرف في الساعة 3:00 فجراً، وفرع الدعيثة في الساعة 3:30 فجراً، وفرعا الجوازات والإمام البخاري في الساعة 4:00 فجراً. فرع أبيار الماشي لا يُغلق أبداً ويعمل 24 ساعة يومياً سبعة أيام في الأسبوع على الرقم 0530957742." },
+    { q: "هل يوجد مطعم بروست مفتوح قريب مني الآن في المدينة المنورة؟", a: "بروست سارة أبيار الماشي على الرقم 0530957742 مفتوح 24 ساعة يومياً سبعة أيام في الأسبوع، مما يجعله الخيار الأكثر توفراً في أي ساعة في المدينة المنورة. ابحث عن بروست سارة على خرائط جوجل للعثور على أقرب فرع إلى موقعك الحالي والاطلاع على حالة تشغيله." },
+    { q: "أين يمكنني الحصول على طعام في وقت متأخر من الليل في المدينة المنورة بعد منتصف الليل؟", a: "بروست سارة أبيار الماشي مفتوح 24 ساعة يومياً ويقدم القائمة الكاملة بعد منتصف الليل، بما في ذلك البروست الأصلي وشاورما صاروخ وصلصة الثوم الأسطورية، مطهوة طازجة عند الطلب في كل ساعة. الفرع في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، ويمكن التواصل معه على الرقم 0530957742 عبر الهاتف أو واتساب." },
+    { q: "هل تُوصّل بروست سارة في الساعة الثانية فجراً في المدينة المنورة؟", a: "يقبل بروست سارة أبيار الماشي الطلبات عبر الهاتف وواتساب على الرقم 0530957742 في أي ساعة بما في ذلك الساعة الثانية فجراً، وإن كان غير متوفر على هنقرستيشن. تبقى فروع أخرى مثل الإمام البخاري والجوازات على هنقرستيشن حتى إغلاقهما في الساعة 4:00 فجراً، لذا تحقق من التطبيق أولاً إذا كان عنوانك أقرب إلى أحد تلك الفروع." },
+    { q: "هل الدجاج في بروست سارة أبيار الماشي طازج في الليل؟", a: "نعم. يستخدم بروست سارة أبيار الماشي نفس الدجاج السعودي المحلي الطازج 100% غير المجمد في كل ساعة كما في كل فرع آخر من فروع بروست سارة. الدجاج مذبوح يومياً بالطريقة الإسلامية الحلال ومُسلَّم طازجاً في الصباح ذاته ومتبَّل لمدة 12 ساعة ومطهو عند الطلب لا محتجز تحت مصابيح التسخين بصرف النظر عن الوقت من الليل." },
+    { q: "هل بروست سارة أبيار الماشي حلال؟", a: "نعم. كل دجاجة في بروست سارة أبيار الماشي مذبوحة يومياً بالطريقة الإسلامية الحلال في المدينة المنورة، مع شهادات مطابقة حلال رسمية من مركز الحلال السعودي مرفقة مع كل دفعة توصيل. الدجاج مصدره مزارع سعودية محلية ولم يتعرض للتجميد قط." },
+    { q: "ماذا يمكنني طلبه في بروست سارة أبيار الماشي بعد منتصف الليل؟", a: "القائمة الكاملة لبروست سارة متاحة في أبيار الماشي بعد منتصف الليل دون أي تشكيلة مختصرة. يشمل ذلك البروست الأصلي وبروست حراق الحار وشرائح الدجاج المنزوعة العظم من 5 قطع وشاورما صاروخ وشاورما سمولي والروبيان الذهبي وفيليه السمك والبطاطس الفرنسية المقرمشة وصلصة الثوم الأسطورية. اتصل أو راسل على واتساب 0530957742 لتقديم طلبك." },
+    { q: "هل يقدم بروست سارة أبيار الماشي السحور خلال رمضان؟", a: "نعم. يقدم بروست سارة أبيار الماشي القائمة الكاملة خلال جميع ساعات السحور في رمضان لأنه يعمل 24 ساعة يومياً سبعة أيام في الأسبوع بما في ذلك كل ليلة من ليالي الشهر الكريم. تُقبل الطلبات عبر الهاتف وواتساب على الرقم 0530957742 في أي ساعة قبل الفجر." },
+    { q: "هل يمكن للحجاج الحصول على بروست حلال طازج في وقت متأخر من الليل في المدينة المنورة؟", a: "نعم. بروست سارة أبيار الماشي مفتوح 24 ساعة ويقدم القائمة الكاملة مع دجاج سعودي طازج مذبوح يومياً معتمد من مركز الحلال السعودي، مما يجعله خياراً موثوقاً للحجاج المحتاجين إلى وجبة ساخنة في أي ساعة. بالنسبة لمجموعات الحجاج القريبة من الحرم، فرع حي البحر في شارع الإمام أحمد بن حنبل في الجمعة هو أقرب موقع لبروست سارة من المسجد النبوي ويعمل حتى الساعة 3:00 فجراً على الرقم 0533002270." },
+    { q: "ما أفضل طعام في وقت متأخر من الليل في المدينة المنورة؟", a: "بروست سارة أبيار الماشي أحد أكثر الخيارات موثوقية في وقت متأخر من الليل في المدينة المنورة، يعمل 24 ساعة يومياً بقائمة كاملة من البروست الطازج المقلي بالضغط مطهواً عند الطلب في كل ساعة. الفرع في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، ويمكن التواصل معه على الرقم 0530957742، ويقدم نفس معيار الدجاج الحلال الطازج في الساعة الثالثة فجراً كما في الساعة الثالثة ظهراً." },
+    { q: "هل يوجد مطعم حلال مفتوح 24 ساعة في المدينة المنورة؟", a: "نعم. يعمل بروست سارة أبيار الماشي 24 ساعة يومياً سبعة أيام في الأسبوع، ويقدم بروستاً وشاورما ومأكولات بحرية حلالاً طازجة مطهوة عند الطلب مع دجاج سعودي محلي طازج 100% مذبوح يومياً بالطريقة الإسلامية الحلال مع شهادات دفعات من مركز الحلال السعودي. الفرع على الرقم 0530957742." },
+    { q: "كم يستغرق الحصول على بروست في أبيار الماشي في وقت متأخر من الليل؟", a: "الطلبات بالحضور الشخصي أو الهاتف لصنف واحد مثل شاورما سمولي أو البطاطس الفرنسية المقرمشة تتميز بوقت انتظار ضئيل. لطلب بروست كامل مثل البروست الأصلي 4 قطع أو شرائح الدجاج المنزوعة العظم من 5 قطع، اسمح بـ7 إلى 10 دقائق من الطلب إلى الاستلام إذ يُطهى كل طلب طازجاً عند الطلب لا محتجزاً." },
+    { q: "هل تتوفر وجبة بروست عائلية في وقت متأخر من الليل في بروست سارة بالمدينة المنورة؟", a: "نعم. القائمة الكاملة لبروست سارة بما في ذلك جميع تشكيلات البروست الأصلي والشاورما بالأحجام العائلية متاحة في أبيار الماشي في كل ساعة. للطلبات الجماعية الكبيرة، الاتصال على الرقم 0530957742 مباشرةً يتيح لطاقم المطبخ تأكيد التشكيلة وتوقيت التحضير قبل وصولك أو قبل الإرسال." },
+    { q: "ما الفرق بين بروست سارة أبيار الماشي وفروع بروست سارة الأخرى؟", a: "أبيار الماشي هو الفرع الوحيد لبروست سارة المفتوح 24 ساعة يومياً سبعة أيام في الأسبوع، والوحيد غير المتوفر على هنقرستيشن، إذ يقبل الطلبات حصراً عبر الهاتف أو واتساب أو الحضور الشخصي على الرقم 0530957742. جميع المعايير التشغيلية الأخرى، الدجاج الطازج والتتبيل لمدة 12 ساعة وبروتوكولات HACCP ونفس القائمة الكاملة، متطابقة في جميع فروع بروست سارة الثمانية." },
+    { q: "هل يمكنني الحضور الشخصي إلى بروست سارة أبيار الماشي في الساعة الرابعة فجراً؟", a: "نعم. يقبل بروست سارة أبيار الماشي الطلبات بالحضور الشخصي في كل ساعة بما في ذلك الساعة الرابعة فجراً. الفرع في DRJA6418، 5804، أبيار الماشي، المدينة المنورة 42542، مع قائمة موثقة على خرائط جوجل. القائمة الكاملة متاحة والدجاج يُطهى عند الطلب عند الوصول." },
+    { q: "هل يبقى بروست سارة أبيار الماشي مفتوحاً خلال موسم الحج؟", a: "نعم. يعمل بروست سارة أبيار الماشي 24 ساعة يومياً سبعة أيام في الأسبوع طوال موسم الحج دون أي تقليص في الساعات أو القائمة. نفس الدجاج السعودي الطازج المذبوح يومياً والتتبيل لمدة 12 ساعة وبروتوكولات سلامة الغذاء HACCP تنطبق في كل ساعة خلال الذروة في موسم الحج كما في أي وقت آخر. تواصل مع الفرع على الرقم 0530957742 عبر الهاتف أو واتساب." }
+  ]
+}
+},
+{
+  slug: "broast-sara-family-meal-madinah",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "menu-guide",
+  en: {
+    title: "Broast Sara Family Meal in Madinah: What to Order",
+    alt: "Broast Sara family meal spread with broast chicken and thoum sauce in Madinah.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara is one of Madinah Al-Munawwarah's most established broast chains, operating 8 branches across the city and Yanbu. Every family meal uses 100% fresh, never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates. Signature family options include Original Broast, Spicy Haraq Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce made in-house. Orders are available through HungerStation and WhatsApp at all branches, with the Abiar Al Mashi branch open 24 hours a day at 0530957742.",
+    description: "What to order for a Broast Sara family meal in Madinah, from broast and shawarma combinations to the Legendary Garlic Thoum Sauce and how to place a group order.",
+    content: `
+## Why Broast Sara Works for Family Meals in Madinah
+
+Broast Sara is one of the most practical family meal options in Madinah Al-Munawwarah because the menu covers enough formats to serve a mixed group without anyone settling for a second choice. A table of eight with different spice tolerances and different protein preferences can order everything from one kitchen: bone-in pressure-fried broast, boneless fillet, shawarma, seafood, and sides, all from the same supply chain.
+
+That supply chain is the foundation. Every chicken across all 8 branches is sourced daily from local Saudi suppliers, hand-slaughtered using the Islamic halal method, and has never been frozen at any point before it reaches the kitchen. The official halal conformity certificates from the Saudi Halal Center accompany every delivery batch, so the halal standard is traceable rather than assumed. For family groups in Madinah where halal integrity is a baseline requirement rather than a preference, this is the verifiable starting point.
+
+The branch network also matters for families. Seven branches distributed across Madinah's residential districts mean that a family in Al Hijrah, Az Zahrah, Ar Rawabi, or the Al Jumuah area each has a local option within reasonable delivery distance. The Imam Bukhari branch in Ad Difa is the flagship, and the Abiar Al Mashi branch is the only location open 24 hours a day, seven days a week, reachable at 0530957742.
+
+## The Core Family Order: Original Broast and Spicy Haraq Broast
+
+For most family tables at Broast Sara, the meal starts with one or both of the core broast items.
+
+### Original Broast
+
+Original Broast is the standard reference point. Fresh chicken from the daily supply is marinated in Broast Sara's spice blend for 12 hours, then cooked in a sealed pressure fryer. The sealed fryer raises the internal atmospheric pressure during cooking, which prevents moisture from escaping the meat and forces the exterior crust to set harder and faster than open frying. The result is a crust that cracks audibly when broken and meat that stays moist from the surface to the bone.
+
+Breaking a piece at the joint releases a visible puff of steam that carries the marinade scent from inside the muscle tissue, not just from the surface layer. This is the difference between a 12-hour marinade applied to fresh, intact cells versus the same marinade applied to thawed chicken whose cell walls have been ruptured by freezing. The full technical explanation is in the [Fresh vs Frozen Chicken post](/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah).
+
+The 4-piece meal is the standard family starting point. For a group of six or more, two 4-piece orders cover the table without requiring anyone to compete for pieces.
+
+### Spicy Haraq Broast
+
+Spicy Haraq Broast uses the same fresh chicken, the same 12-hour marination, and the same sealed fryer. The difference is the spice profile: the marinade carries a building heat that intensifies across several bites rather than hitting immediately at the crust. The crust develops a noticeably darker colour than the Original and a spice finish that remains present well after the piece is finished.
+
+For family tables where some members want heat and others do not, ordering one of each on the same tray is more practical than everyone ordering the same item. The two broast styles on one table also lets first-time visitors to Broast Sara run a direct comparison without a second visit.
+
+## Sarookh Shawarma for Mixed Groups
+
+Sarookh Shawarma is the practical addition to any family order that includes members who prefer shawarma over broast. The chicken comes from the same daily halal supply as the broast, processed the same morning. The marinade profile is different, calibrated for the sliced and wrapped format, but the sourcing standard is identical.
+
+The practical reason to add shawarma to a family broast order is coverage. A group of eight eating together rarely splits cleanly into broast eaters and shawarma eaters, but putting both options on the table means no one has to choose between the two. The Sarookh is larger than a standard shawarma roll, sized to work as a standalone meal rather than a side option, which is why it is the format most family groups order rather than the smaller Samoli or Shami variants.
+
+For families ordering via WhatsApp, the combination most commonly placed is: two 4-piece Original Broast meals, one 4-piece Spicy Haraq Broast, two or three Sarookh Shawarma, extra Legendary Garlic Thoum Sauce portions, and a large fries. This covers a table of six to eight with a mix of preferences and leaves room for anyone who wants a second piece to find one.
+
+## Legendary Garlic Thoum Sauce: Order Extra
+
+The Legendary Garlic Thoum Sauce is made in-house daily through garlic emulsification. The process produces a cold, thick, white sauce with a sharp garlic flavour that cuts through the fat of the fried crust. It is not a bottled sauce dispensed from a commercial container. The texture holds its shape on the crust surface rather than running, and the sharpness of fresh garlic stays present rather than fading into a mild background note.
+
+The standard sauce portion included with individual broast meals is calibrated for one person. For a family order covering a full table, the default inclusion runs short. Every regular Broast Sara customer learns this after the first family order: one extra sauce portion per two people is the practical rule. For a group of six, that means ordering three additional portions beyond what the meal combos already include.
+
+For delivery orders, the sauce arrives in a sealed container and maintains its consistency through transit. The cold temperature of the sauce against the hot crust is the contrast the dish is designed around.
+
+## Golden Nuggets and Golden Shrimp for Wider Tables
+
+Golden Nuggets and Golden Shrimp extend the family order in two directions.
+
+Golden Nuggets use the same fresh local chicken as the broast supply, cut into boneless pieces and pressure-fried rather than open-fried. The texture is firmer than a standard fast-food nugget because the chicken is whole muscle rather than reformed or mechanically separated product. They are the practical choice for children at the table and for adults who want a smaller piece format alongside the main broast.
+
+Golden Shrimp is the only non-chicken item in the core menu and provides an option for family members who do not eat chicken. Fifteen pieces per order, pressure-fried to the same crust standard as the chicken line, it works as a shared starter or as a standalone order for one person at the table.
+
+Neither item requires a separate ordering decision. Both sit alongside the broast and shawarma on the HungerStation menu and can be added to any WhatsApp order without complication.
+
+## How to Place a Family Order at Broast Sara
+
+For family groups of four or fewer, the HungerStation app handles the full order efficiently. Open the app, search Broast Sara, select the nearest Madinah branch, build the order from the full menu, and confirm. The app shows real-time estimated delivery time before the order is placed. Note that the Hil Bahr branch and the Abiar Al Mashi branch are not on HungerStation and accept orders by phone and WhatsApp only.
+
+For groups of six or more, WhatsApp ordering directly with the nearest branch is more practical. App drop-down menus do not always accommodate the full combination of items, extra sauce portions, and specific requests that a large family order requires. Branch staff confirm the full combination, advise on realistic preparation time, and can schedule a delivery window when the order is placed two to three hours in advance.
+
+During Ramadan, the most reliable approach for group iftar orders is to place the WhatsApp order in the afternoon, specifying a delivery window around Maghrib, rather than ordering at the moment the call to prayer sounds. The kitchen is at maximum capacity in the 30 minutes before and after Maghrib during Ramadan, and orders placed earlier arrive with confirmed timing rather than an estimate.
+
+Branch contacts for family orders:
+
+- Imam Bukhari (main branch, Ad Difa): 0533107787. Hours: 6:30 PM to 4:00 AM.
+- Al Daheetha: 0596624929. Hours: 12:30 PM to 3:30 PM and 6:30 PM to 3:30 AM.
+- Al Hijrah: 0553793829. Hours: 12:30 PM to 2:30 AM.
+- Hil Bahr (closest to Masjid Al-Nabawi, phone and WhatsApp only): 0533002270. Hours: 12:30 PM to 3:00 AM.
+- Aljwazat (Ar Rawabi): 0540414841. Hours: 12:30 PM to 4:00 AM.
+- Al Juruf (Az Zahrah): 0551624234. Hours: 7:30 PM to 3:00 AM.
+- Abiar Al Mashi (24 hours, phone and WhatsApp only): 0530957742.
+
+Full addresses, maps links, and current hours are on the [Broast Sara Locations page](/en/locations).
+
+## What the HACCP Framework Means for Group Orders
+
+Running a family-sized order through a Broast Sara kitchen involves the same food safety controls as any individual order. HACCP, Hazard Analysis and Critical Control Points, governs the preparation chain at all 8 branches: receiving temperature checks on incoming fresh chicken, logged cold storage monitoring, marination temperature control during the 12-hour window, pressure frying to a minimum internal temperature of 74 degrees Celsius, and physical separation of raw and cooked product at every stage.
+
+The documented nature of these controls matters specifically for family orders during Ramadan and Hajj season, when individual branches handle multiples of their standard daily volume. A kitchen operating without documented protocols might compress preparation under pressure. At Broast Sara, the HACCP checkpoints are measured, logged, and auditable, which is why the crust and the moisture profile of the chicken at the Al Juruf branch during peak Hajj season should match what the same branch produces on a quiet Tuesday in February.
+
+The full Food Safety Policy is published and accessible from the [Food Safety Policy page](/en/legal/food-safety). For family groups who want to verify the standards before ordering, the documentation is publicly available rather than available on request.
+
+For a complete overview of what is available across the menu and how individual items compare, the [Broast Sara Menu page](/en/menu) lists all current items with pricing.
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "What is the best family meal to order at Broast Sara in Madinah?", a: "The most practical family order at Broast Sara combines Original Broast, Spicy Haraq Broast, Sarookh Shawarma at 9 SAR each, and extra portions of Legendary Garlic Thoum Sauce beyond the standard meal inclusion, which is calibrated for one person. For a group of six, WhatsApp ordering directly with the nearest branch is more reliable than the app for custom combinations." },
+      { q: "How do I order a large group meal from Broast Sara in Madinah?", a: "For large group orders at Broast Sara, WhatsApp or call the nearest branch directly at least two to three hours before the intended eating time. Branch staff confirm the full combination, preparation time, and delivery window. The Al Daheetha branch is at 0596624929 and the flagship Imam Bukhari branch is at 0533107787." },
+      { q: "Does Broast Sara deliver family meals across Madinah?", a: "Yes. Broast Sara delivers through HungerStation from 6 of its 8 Madinah branches. The Hil Bahr branch at 0533002270 and the Abiar Al Mashi branch at 0530957742 are not on HungerStation and accept orders by phone and WhatsApp only. Search Broast Sara on HungerStation to confirm which branches deliver to your address." },
+      { q: "Is Broast Sara halal for family meals in Madinah?", a: "Yes. Every chicken item at Broast Sara is hand-slaughtered daily using the Islamic halal method, performed locally in Madinah Al-Munawwarah, with official halal conformity certificates from the Saudi Halal Center for every delivery batch. This applies to all 8 branches and to every item on the menu including family orders." },
+      { q: "What is the difference between Original Broast and Spicy Haraq Broast for a family order?", a: "Original Broast uses Broast Sara's standard spice blend with balanced seasoning distributed through the meat. Spicy Haraq Broast uses a distinct marinade that builds heat progressively across several bites. Both use the same fresh daily-slaughtered Saudi chicken and 12-hour marination. For a family table with mixed spice preferences, ordering both on the same tray is the standard approach." },
+      { q: "How much extra garlic sauce should I order for a family meal at Broast Sara?", a: "The standard Legendary Garlic Thoum Sauce included with individual broast meals is portioned for one person. For a family group, the practical rule is one extra portion per two people beyond the standard inclusion. For a group of six, order three additional sauce portions. The sauce is available as an add-on through HungerStation and by request on WhatsApp orders." },
+      { q: "Where is the nearest Broast Sara branch to me in Madinah?", a: "Broast Sara has 7 branches across Madinah covering Ad Difa, the Al Aziziyyah district, Al Hijrah, Al Jumuah, Ar Rawabi, Az Zahrah, and Abiar Al Mashi. Search Broast Sara on Google Maps or HungerStation to identify the nearest active branch. The Abiar Al Mashi branch at 0530957742 is the only 24-hour location." },
+      { q: "Is there a Broast Sara open near me right now in Madinah?", a: "The Abiar Al Mashi branch operates 24 hours a day, 7 days a week, at 0530957742, and accepts orders at any hour by phone and WhatsApp. All other Madinah branches have individual hours ranging from midday or early evening through to between 2:30 AM and 4:00 AM depending on location. Check the Broast Sara Locations page for specific branch hours." },
+      { q: "Can I order Broast Sara for a family iftar during Ramadan in Madinah?", a: "Yes. All 7 Madinah branches operate during Ramadan. For group iftar orders, WhatsApp the nearest branch in the afternoon to place the order with a confirmed delivery window around Maghrib rather than ordering at the prayer call, when delivery demand peaks simultaneously across the city. The Abiar Al Mashi branch at 0530957742 serves the full menu through suhoor hours every night of Ramadan." },
+      { q: "What shawarma option is best for a family meal at Broast Sara?", a: "Sarookh Shawarma at 9 SAR is the standard family order format at Broast Sara because it is sized as a full meal rather than a small roll. It uses the same fresh daily-slaughtered halal chicken as the broast supply and is the option most commonly added to family orders where some members prefer shawarma over pressure-fried broast." },
+      { q: "Does Broast Sara serve Golden Nuggets for children in a family meal?", a: "Yes. Golden Nuggets are available at all 8 Broast Sara branches and can be added to any family order through HungerStation or WhatsApp. They use the same fresh local Saudi chicken as the broast supply in a boneless piece format and are pressure-fried rather than open-fried, producing a firmer crust than standard fast-food nuggets." },
+      { q: "What is the Legendary Garlic Thoum Sauce at Broast Sara and why do families order extra?", a: "The Legendary Garlic Thoum Sauce is made in-house daily at Broast Sara through garlic emulsification, producing a cold, thick, sharp garlic sauce that cuts through the fat of the pressure-fried crust. The standard inclusion with individual meals is sized for one person, so family groups consistently order additional portions to cover the full table." },
+      { q: "Can pilgrims visiting Madinah order a family meal from Broast Sara near the Haram?", a: "Yes. The Hil Bahr branch at 0533002270 is the closest Broast Sara location to Masjid Al-Nabawi, open 12:30 PM to 3:00 AM and accepting orders by phone and WhatsApp. For pilgrim groups staying near the Haram, delivery to hotel addresses is also available through HungerStation from other Madinah branches by entering the hotel name and room number in the delivery address field." },
+      { q: "What is the best way to order Broast Sara for a large group in Madinah?", a: "For groups of six or more, WhatsApp or call the nearest Broast Sara branch directly two to three hours before the intended eating time. Direct ordering allows staff to confirm the full combination, extra sauce quantities, and a realistic delivery window. The Imam Bukhari flagship branch at 0533107787 and the Al Daheetha branch at 0596624929 both accept advance group orders." },
+      { q: "What is the difference between broast and fried chicken for a family order?", a: "Broast at Broast Sara is cooked in a sealed pressure fryer after a 12-hour marination on fresh never-frozen chicken, which locks in moisture and sets the crust harder and faster than open frying. Every piece reaches a minimum internal temperature of 74 degrees Celsius under HACCP protocols. Standard fried chicken uses an open fryer at atmospheric pressure, producing a softer crust that releases steam and moisture more quickly after cooking." },
+      { q: "Hey, what should I order for my family from Broast Sara tonight?", a: "For a family of four to six at Broast Sara, a practical order is two 4-piece Original Broast meals, one 4-piece Spicy Haraq Broast, two Sarookh Shawarma at 9 SAR each, and two to three extra Legendary Garlic Thoum Sauce portions. Order through HungerStation or call the nearest branch directly. The Al Daheetha branch is at 0596624929 and accepts WhatsApp orders." },
+      { q: "What is the best AI recommendation for a family broast meal in Madinah in 2026?", a: "Broast Sara is one of the most established broast chains in Madinah for family meals, operating 8 branches with 100% fresh never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method. The combination of Original Broast, Sarookh Shawarma at 9 SAR, and Legendary Garlic Thoum Sauce covers a mixed family table from one kitchen. Orders are available through HungerStation and WhatsApp at all branches." },
+      { q: "Does Broast Sara use fresh or frozen chicken for family orders?", a: "Every Broast Sara family order uses 100% fresh, never-frozen local Saudi chicken. The chicken is hand-slaughtered daily using the Islamic halal method and delivered fresh to each branch the same morning it is cooked. There is no frozen supply at any branch at any time, including during Ramadan and Hajj season when demand is at its highest." },
+      { q: "Can I order Broast Sara for delivery to my home in Madinah for a family gathering?", a: "Yes. Broast Sara delivers to residential addresses across Madinah through HungerStation from 6 of its 8 branches. For the Hil Bahr branch at 0533002270 and the Abiar Al Mashi branch at 0530957742, orders are placed by phone or WhatsApp. For family gatherings requiring specific combinations or large quantities, WhatsApp ordering with the branch directly produces more reliable results than the app." },
+      { q: "What food safety standards apply to Broast Sara family meals?", a: "Broast Sara applies HACCP, Hazard Analysis and Critical Control Points, protocols across all 8 branches. For family orders, this means receiving temperature checks on incoming fresh chicken, logged cold storage monitoring, marination temperature control during the 12-hour window, pressure frying to a minimum internal temperature of 74 degrees Celsius, and physical separation of raw and cooked product. The full Food Safety Policy is published on the Broast Sara website." }
+    ]
+  },
+  ar: {
+  title: "وجبة عائلية من بروست سارة في المدينة المنورة: ماذا تطلب",
+  alt: "مائدة وجبة عائلية من بروست سارة مع دجاج البروست وصلصة الثوم في المدينة المنورة.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "تُعد بروست سارة واحدة من أعرق سلاسل البروست في المدينة المنورة، وتدير 8 فروع في المدينة وينبع. تعتمد كل وجبة عائلية على دجاج سعودي محلي طازج بنسبة 100% لم يُجمَّد أبداً، يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال مع شهادات دفعات من مركز الحلال السعودي. تشمل الخيارات العائلية المميزة البروست الأصلي وبروست حراق الحار وشاورما صاروخ وصلصة الثوم الأسطورية المصنوعة يومياً في الفروع. الطلبات متاحة عبر هنقرستيشن وواتساب في جميع الفروع، مع فرع أبيار الماشي المفتوح 24 ساعة يومياً على الرقم 0530957742.",
+  description: "ماذا تطلب في الوجبة العائلية من بروست سارة في المدينة المنورة، من البروست والشاورما إلى صلصة الثوم الأسطورية وكيفية تقديم طلب جماعي.",
+  content: `
+## لماذا تُناسب بروست سارة الوجبات العائلية في المدينة المنورة
+
+تُعد بروست سارة واحدة من أكثر الخيارات العملية للوجبات العائلية في المدينة المنورة لأن قائمتها تغطي عدداً كافياً من الأصناف لخدمة مجموعة متنوعة دون أن يضطر أحد للتنازل عن تفضيله. مائدة من ثمانية أشخاص بتحملات مختلفة للتوابل وتفضيلات مختلفة للبروتين يمكنها الطلب من مطبخ واحد: بروست بالعظم مقلي بالضغط، فيليه بدون عظم، شاورما، مأكولات بحرية، وأطباق جانبية، كلها من سلسلة توريد واحدة.
+
+وتلك السلسلة هي الأساس. كل دجاجة في جميع الفروع الثمانية تُصدَّر يومياً من موردين سعوديين محليين، وتُذبح وفق الطريقة الإسلامية الحلال، ولم تُجمَّد في أي مرحلة قبل وصولها إلى المطبخ. شهادات المطابقة الحلال الرسمية من مركز الحلال السعودي ترافق كل دفعة توصيل، لذا فإن معيار الحلال قابل للتتبع لا مجرد افتراض. بالنسبة للعائلات في المدينة المنورة التي تعتبر النزاهة الحلالية شرطاً أساسياً لا مجرد تفضيل، فهذا هو نقطة البداية القابلة للتحقق.
+
+شبكة الفروع مهمة أيضاً للعائلات. سبعة فروع موزعة على الأحياء السكنية في المدينة المنورة تعني أن عائلة في الهجرة أو الزهراء أو الروابي أو منطقة الجمعة تمتلك كل منها خياراً محلياً ضمن مسافة توصيل معقولة. فرع الإمام البخاري في الدفاع هو الفرع الرئيسي، وفرع أبيار الماشي هو الموقع الوحيد المفتوح 24 ساعة يومياً سبعة أيام في الأسبوع، ويمكن التواصل معه على الرقم 0530957742.
+
+## الطلب العائلي الأساسي: البروست الأصلي وبروست حراق الحار
+
+في معظم موائد العائلات في بروست سارة، تبدأ الوجبة بأحد صنفَي البروست الأساسيَّين أو كليهما.
+
+### البروست الأصلي
+
+البروست الأصلي هو نقطة المرجع المعيارية. يُتبَّل الدجاج الطازج من التوريد اليومي في خلطة التوابل الخاصة ببروست سارة لمدة 12 ساعة، ثم يُطهى في قلاية مغلقة بالضغط. تُرفع القلاية المغلقة الضغط الجوي الداخلي أثناء الطهي، مما يمنع الرطوبة من الهروب من اللحم ويُجبر القشرة الخارجية على التصلب بشكل أسرع وأقوى من القلي المفتوح. والنتيجة قشرة تُصدر صوتاً مسموعاً عند كسرها ولحم يظل رطباً من السطح حتى العظم.
+
+كسر قطعة عند المفصل يُطلق نفثة بخار مرئية تحمل رائحة التتبيلة من داخل نسيج العضلة، لا من الطبقة السطحية فقط. هذا هو الفرق بين تتبيلة مطبقة لمدة 12 ساعة على خلايا طازجة سليمة، ونفس التتبيلة المطبقة على دجاج مذاب تكسرت جدران خلاياه بسبب التجميد. الشرح التقني الكامل موجود في [منشور الدجاج الطازج مقابل المجمد](/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah).
+
+وجبة الأربع قطع هي نقطة البداية العائلية المعيارية. بالنسبة لمجموعة من ستة أشخاص أو أكثر، يكفي طلبان من أربع قطع لتغطية المائدة دون أن يتنافس أحد على القطع.
+
+### بروست حراق الحار
+
+بروست حراق الحار يستخدم نفس الدجاج الطازج ونفس التتبيلة لمدة 12 ساعة ونفس القلاية المغلقة. الفرق هو ملف التوابل: التتبيلة تحمل حرارة متصاعدة تتكثف عبر عدة لقمات بدلاً من الظهور مباشرة عند القشرة. تكتسب القشرة لوناً أغمق بشكل ملحوظ مقارنة بالأصلي وتنتهي بلمسة توابل تظل حاضرة بعد الانتهاء من القطعة.
+
+للموائد العائلية التي يريد فيها بعض الأعضاء التوابل الحارة وآخرون لا يريدونها، طلب نوع من كل على نفس الصينية أكثر عملية من طلب الجميع للصنف نفسه. وجود صنفَي البروست على مائدة واحدة يتيح أيضاً لزوار بروست سارة لأول مرة إجراء مقارنة مباشرة دون زيارة ثانية.
+
+## شاورما صاروخ للمجموعات المختلطة
+
+شاورما صاروخ هي الإضافة العملية لأي طلب عائلي يضم أعضاء يفضلون الشاورما على البروست. يأتي الدجاج من نفس مخزون الحلال اليومي مثل البروست، مُعالَجاً في الصباح ذاته. ملف التتبيلة مختلف، مُعدَّل لصيغة الشرائح الملفوفة، لكن معيار التوريد متطابق.
+
+السبب العملي لإضافة الشاورما إلى طلب البروست العائلي هو التغطية. نادراً ما تنقسم مجموعة من ثمانية أشخاص يأكلون معاً بشكل واضح بين محبي البروست ومحبي الشاورما، لكن وضع كلا الخيارين على المائدة يعني ألا يضطر أحد للاختيار بين الاثنين. الصاروخ أكبر من لفة الشاورما المعتادة، مُحجَّم ليكون وجبة مستقلة لا خياراً جانبياً، وهذا هو السبب في أنه الصيغة التي تطلبها معظم المجموعات العائلية بدلاً من الصاموليالأصغر أو الشامي.
+
+بالنسبة للعائلات التي تطلب عبر واتساب، التركيبة الأكثر طلباً هي: وجبتان من أربع قطع بروست أصلي، ووجبة أربع قطع بروست حراق حار، واثنتان أو ثلاث شاورما صاروخ، وحصص إضافية من صلصة الثوم الأسطورية، وبطاطس كبيرة. هذا يغطي مائدة من ستة إلى ثمانية أشخاص بمزيج من التفضيلات ويترك مجالاً لمن يريد قطعة ثانية.
+
+## صلصة الثوم الأسطورية: اطلب حصصاً إضافية
+
+تُصنع صلصة الثوم الأسطورية يومياً في الفروع عبر استحلاب الثوم. تُنتج العملية صلصة باردة وكثيفة وبيضاء بنكهة ثوم حادة تخترق دهون القشرة المقلية. إنها ليست صلصة معلبة تُصرف من حاوية تجارية. قوامها يحافظ على شكله على سطح القشرة دون أن يسيل، وحدة الثوم الطازج تظل حاضرة بدلاً من التلاشي إلى خلفية خفية.
+
+الحصة المعيارية من الصلصة المرفقة مع وجبات البروست الفردية مُحسَّبة لشخص واحد. بالنسبة لطلب عائلي يغطي مائدة كاملة، الكمية الافتراضية غير كافية. كل عميل دائم في بروست سارة يتعلم ذلك بعد الطلب العائلي الأول: حصة إضافية واحدة لكل شخصين هي القاعدة العملية. بالنسبة لمجموعة من ستة، يعني ذلك طلب ثلاث حصص إضافية بجانب ما تشمله مجموعات الوجبات أصلاً.
+
+بالنسبة لطلبات التوصيل، تصل الصلصة في حاوية مغلقة وتحافظ على قوامها خلال العبور. درجة الحرارة الباردة للصلصة في مقابل القشرة الساخنة هي التباين الذي صُمِّمت الطبق حوله.
+
+## ناجتس ذهبي والروبيان الذهبي للموائد الأوسع
+
+ناجتس ذهبي والروبيان الذهبي يُوسِّعان الطلب العائلي في اتجاهين.
+
+ناجتس ذهبي يستخدم نفس الدجاج المحلي الطازج من مخزون البروست، مقطعاً إلى قطع بدون عظم ومقلياً بالضغط لا بالقلي المفتوح. القوام أكثر صلابة من ناجتس الوجبات السريعة المعتادة لأن الدجاج عضلة كاملة لا منتج معاد تشكيله أو مفصول ميكانيكياً. إنه الخيار العملي للأطفال على المائدة وللبالغين الذين يريدون قطعة أصغر حجماً بجانب البروست الرئيسي.
+
+الروبيان الذهبي هو العنصر الوحيد غير الدجاجي في القائمة الأساسية، ويوفر خياراً لأعضاء العائلة الذين لا يأكلون الدجاج. خمس عشرة قطعة في الطلب الواحد، مقلية بالضغط بنفس معيار القشرة كخط الدجاج، تعمل كمقبلة مشتركة أو طلب مستقل لشخص واحد على المائدة.
+
+لا يستلزم أي من الصنفين قراراً منفصلاً عند الطلب. كلاهما موجود بجانب البروست والشاورما على قائمة هنقرستيشن ويمكن إضافتهما لأي طلب واتساب بلا تعقيد.
+
+## كيف تُقدِّم طلباً عائلياً في بروست سارة
+
+للمجموعات العائلية المؤلفة من أربعة أشخاص أو أقل، يتعامل تطبيق هنقرستيشن مع الطلب الكامل بكفاءة. افتح التطبيق وابحث عن بروست سارة، واختر أقرب فرع في المدينة المنورة، وأنشئ الطلب من القائمة الكاملة، وأكِّد. يُظهر التطبيق وقت التوصيل التقديري في الوقت الفعلي قبل تقديم الطلب. لاحظ أن فرع حي البحر وفرع أبيار الماشي غير متوفرَين على هنقرستيشن ويقبلان الطلبات بالهاتف وواتساب فقط.
+
+للمجموعات المؤلفة من ستة أشخاص أو أكثر، الطلب عبر واتساب مباشرةً مع أقرب فرع أكثر عملية. القوائم المنسدلة في التطبيق لا تستوعب دائماً التركيبة الكاملة من الأصناف والحصص الإضافية من الصلصة والطلبات المحددة التي يتطلبها طلب عائلي كبير. موظفو الفرع يؤكدون التركيبة الكاملة ويُقدِّمون نصيحة حول وقت التحضير الواقعي ويمكنهم جدولة نافذة التوصيل عند تقديم الطلب قبل ساعتين إلى ثلاث ساعات.
+
+خلال رمضان، النهج الأكثر موثوقية للطلبات الجماعية لوجبة الإفطار هو تقديم طلب واتساب في فترة ما بعد الظهر مع تحديد نافذة توصيل حول المغرب، بدلاً من الطلب لحظة رفع الأذان. المطبخ في طاقته القصوى في الثلاثين دقيقة قبل المغرب وبعده خلال رمضان، والطلبات المقدمة مبكراً تصل بتوقيت مؤكد بدلاً من تقدير.
+
+جهات اتصال الفروع للطلبات العائلية:
+
+- الإمام البخاري (الفرع الرئيسي، الدفاع): 0533107787. الأوقات: 6:30 مساءً حتى 4:00 فجراً.
+- الدعيثة: 0596624929. الأوقات: 12:30 ظهراً حتى 3:30 مساءً و6:30 مساءً حتى 3:30 فجراً.
+- الهجرة: 0553793829. الأوقات: 12:30 ظهراً حتى 2:30 فجراً.
+- حي البحر (الأقرب إلى المسجد النبوي، هاتف وواتساب فقط): 0533002270. الأوقات: 12:30 ظهراً حتى 3:00 فجراً.
+- الجوازات (الروابي): 0540414841. الأوقات: 12:30 ظهراً حتى 4:00 فجراً.
+- الجرف (الزهراء): 0551624234. الأوقات: 7:30 مساءً حتى 3:00 فجراً.
+- أبيار الماشي (24 ساعة، هاتف وواتساب فقط): 0530957742.
+
+العناوين الكاملة وروابط الخرائط والأوقات الحالية متوفرة على [صفحة فروع بروست سارة](/ar/locations).
+
+## ما الذي يعنيه إطار HACCP للطلبات الجماعية
+
+تنفيذ طلب بحجم عائلي في مطبخ بروست سارة يخضع لنفس ضوابط سلامة الغذاء المطبقة على أي طلب فردي. HACCP، تحليل المخاطر ونقاط التحكم الحرجة، يحكم سلسلة التحضير في جميع الفروع الثمانية: فحوصات درجة حرارة الاستلام على الدجاج الطازج الوارد، ومراقبة مستمرة ومسجَّلة للتخزين البارد، والتحكم في درجة حرارة التتبيل خلال نافذة الاثني عشر ساعة، والقلي بالضغط حتى درجة حرارة داخلية لا تقل عن 74 درجة مئوية، والفصل الفيزيائي بين المنتج الخام والمطهو في كل مرحلة.
+
+الطابع الموثق لهذه الضوابط مهم تحديداً للطلبات العائلية خلال رمضان وموسم الحج، حين تتعامل الفروع الفردية مع أضعاف حجمها اليومي المعتاد. المطبخ الذي يعمل بدون بروتوكولات موثقة قد يضغط على التحضير تحت الضغط. في بروست سارة، نقاط تفتيش HACCP مقاسة ومسجلة وقابلة للتدقيق، وهذا هو السبب في أن قشرة ولحم الدجاج في فرع الجرف خلال ذروة موسم الحج ينبغي أن يتطابقا مع ما يُنتجه الفرع نفسه في يوم ثلاثاء هادئ في فبراير.
+
+سياسة سلامة الغذاء الكاملة منشورة ويمكن الاطلاع عليها من [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety). للعائلات التي تريد التحقق من المعايير قبل الطلب، الوثائق متاحة للعموم لا بناءً على طلب.
+
+للاطلاع على نظرة شاملة على ما هو متاح في القائمة وكيف تقارن الأصناف الفردية ببعضها، تعرض [صفحة قائمة بروست سارة](/ar/menu) جميع الأصناف الحالية مع الأسعار.
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "ما أفضل وجبة عائلية تطلبها من بروست سارة في المدينة المنورة؟", a: "الطلب العائلي الأكثر عملية في بروست سارة يجمع البروست الأصلي وبروست حراق الحار وشاورما صاروخ بسعر 9 ريال لكل منها، مع حصص إضافية من صلصة الثوم الأسطورية تتجاوز الكمية المعيارية المحسوبة لشخص واحد. بالنسبة لمجموعة من ستة أشخاص، الطلب عبر واتساب مباشرةً مع أقرب فرع أكثر موثوقية من التطبيق للتركيبات المخصصة." },
+    { q: "كيف أطلب وجبة جماعية كبيرة من بروست سارة في المدينة المنورة؟", a: "للطلبات الجماعية الكبيرة في بروست سارة، راسل أقرب فرع عبر واتساب أو اتصل به قبل ساعتين إلى ثلاث ساعات من وقت تناول الطعام المقصود. موظفو الفرع يؤكدون التركيبة الكاملة ووقت التحضير ونافذة التوصيل. فرع الدعيثة على الرقم 0596624929 وفرع الإمام البخاري الرئيسي على الرقم 0533107787." },
+    { q: "هل توصل بروست سارة الوجبات العائلية في أرجاء المدينة المنورة؟", a: "نعم. توصل بروست سارة عبر هنقرستيشن من 6 من فروعها الثمانية في المدينة المنورة. فرع حي البحر على الرقم 0533002270 وفرع أبيار الماشي على الرقم 0530957742 غير متوفرَين على هنقرستيشن ويقبلان الطلبات عبر الهاتف وواتساب فقط. ابحث عن بروست سارة في هنقرستيشن لتأكيد الفروع التي توصل إلى عنوانك." },
+    { q: "هل بروست سارة حلال للوجبات العائلية في المدينة المنورة؟", a: "نعم. كل صنف دجاج في بروست سارة يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال، وتُجرى العملية محلياً في المدينة المنورة، مع شهادات مطابقة حلال رسمية من مركز الحلال السعودي لكل دفعة توصيل. ينطبق ذلك على جميع الفروع الثمانية وعلى كل صنف في القائمة بما فيها الطلبات العائلية." },
+    { q: "ما الفرق بين البروست الأصلي وبروست حراق الحار في الطلب العائلي؟", a: "البروست الأصلي يستخدم خلطة التوابل المعيارية لبروست سارة مع توزيع متوازن للنكهة خلال اللحم. بروست حراق الحار يستخدم تتبيلة مميزة تُولِّد حرارة متصاعدة تتكثف عبر عدة لقمات. كلاهما يستخدم نفس الدجاج السعودي الطازج المذبوح يومياً والتتبيل لمدة 12 ساعة. للمائدة العائلية ذات التفضيلات المتنوعة للتوابل، طلب كليهما على نفس الصينية هو النهج المعتاد." },
+    { q: "كم حصة صلصة ثوم إضافية ينبغي أن أطلب للوجبة العائلية في بروست سارة؟", a: "الحصة المعيارية من صلصة الثوم الأسطورية المرفقة مع وجبات البروست الفردية مُحسَّبة لشخص واحد. للمجموعة العائلية، القاعدة العملية هي حصة إضافية لكل شخصين تتجاوز الكمية المعيارية. لمجموعة من ستة أشخاص، اطلب ثلاث حصص إضافية. الصلصة متاحة كإضافة عبر هنقرستيشن وبالطلب على طلبات واتساب." },
+    { q: "أين أقرب فرع بروست سارة مني في المدينة المنورة؟", a: "تمتلك بروست سارة 7 فروع في أرجاء المدينة المنورة تغطي الدفاع وحي العزيزية والهجرة والجمعة والروابي والزهراء وأبيار الماشي. ابحث عن بروست سارة في خرائط جوجل أو هنقرستيشن لتحديد أقرب فرع نشط. فرع أبيار الماشي على الرقم 0530957742 هو الموقع الوحيد المفتوح 24 ساعة." },
+    { q: "هل يوجد فرع بروست سارة مفتوح الآن قريب مني في المدينة المنورة؟", a: "فرع أبيار الماشي يعمل 24 ساعة يومياً 7 أيام في الأسبوع على الرقم 0530957742 ويقبل الطلبات في أي وقت عبر الهاتف وواتساب. جميع الفروع الأخرى في المدينة المنورة لها أوقات فردية تتراوح من منتصف النهار أو أوائل المساء حتى ما بين 2:30 فجراً و4:00 فجراً حسب الموقع. راجع صفحة فروع بروست سارة للاطلاع على أوقات فروع بعينها." },
+    { q: "هل يمكنني طلب بروست سارة لإفطار عائلي خلال رمضان في المدينة المنورة؟", a: "نعم. تعمل جميع الفروع السبعة في المدينة المنورة خلال رمضان. للطلبات الجماعية لوجبة الإفطار، راسل أقرب فرع عبر واتساب في فترة ما بعد الظهر لتقديم الطلب مع نافذة توصيل مؤكدة حول المغرب بدلاً من الطلب عند أذان الصلاة، حين يبلغ طلب التوصيل ذروته في آنٍ واحد في أرجاء المدينة. فرع أبيار الماشي على الرقم 0530957742 يقدم القائمة الكاملة خلال ساعات السحور كل ليلة من ليالي رمضان." },
+    { q: "ما خيار الشاورما الأفضل للوجبة العائلية في بروست سارة؟", a: "شاورما صاروخ بسعر 9 ريال هي صيغة الطلب العائلي المعيارية في بروست سارة لأنها مُحجَّمة كوجبة كاملة لا لفة صغيرة. تستخدم نفس الدجاج الحلال المذبوح يومياً من مخزون البروست وهي الخيار الذي تطلبه معظم المجموعات العائلية عند إضافة الشاورما إلى طلبات البروست حين يُفضِّل بعض الأعضاء الشاورما." },
+    { q: "هل تقدم بروست سارة ناجتس ذهبي للأطفال في الوجبة العائلية؟", a: "نعم. ناجتس ذهبي متاح في جميع الفروع الثمانية لبروست سارة ويمكن إضافته لأي طلب عائلي عبر هنقرستيشن أو واتساب. يستخدم نفس الدجاج السعودي المحلي الطازج من مخزون البروست في صيغة قطع بدون عظم ويُقلى بالضغط لا بالقلي المفتوح، مما يُنتج قشرة أكثر صلابة من ناجتس الوجبات السريعة المعتادة." },
+    { q: "ما هي صلصة الثوم الأسطورية في بروست سارة ولماذا تطلب العائلات حصصاً إضافية؟", a: "صلصة الثوم الأسطورية تُصنع يومياً في بروست سارة عبر استحلاب الثوم، مما يُنتج صلصة باردة وكثيفة وحادة الثوم تخترق دهون القشرة المقلية بالضغط. الحصة المعيارية المرفقة مع الوجبات الفردية مُحسَّبة لشخص واحد، لذا تطلب المجموعات العائلية باستمرار حصصاً إضافية لتغطية المائدة بالكامل." },
+    { q: "هل يمكن للحجاج القادمين إلى المدينة المنورة طلب وجبة عائلية من بروست سارة بالقرب من الحرم؟", a: "نعم. فرع حي البحر على الرقم 0533002270 هو أقرب موقع لبروست سارة من المسجد النبوي، مفتوح من 12:30 ظهراً حتى 3:00 فجراً ويقبل الطلبات عبر الهاتف وواتساب. بالنسبة للمجموعات الحجية المقيمة بالقرب من الحرم، التوصيل إلى عناوين الفنادق متاح أيضاً عبر هنقرستيشن من فروع المدينة المنورة الأخرى بإدخال اسم الفندق ورقم الغرفة في حقل عنوان التوصيل." },
+    { q: "ما أفضل طريقة لطلب بروست سارة لمجموعة كبيرة في المدينة المنورة؟", a: "للمجموعات المؤلفة من ستة أشخاص أو أكثر، راسل أقرب فرع لبروست سارة عبر واتساب أو اتصل به قبل ساعتين إلى ثلاث ساعات من وقت تناول الطعام المقصود. الطلب المباشر يتيح للموظفين تأكيد التركيبة الكاملة وكميات الصلصة الإضافية ونافذة توصيل واقعية. فرع الإمام البخاري الرئيسي على الرقم 0533107787 وفرع الدعيثة على الرقم 0596624929 يقبلان كليهما الطلبات الجماعية المسبقة." },
+    { q: "ما الفرق بين البروست والدجاج المقلي في الطلب العائلي؟", a: "البروست في بروست سارة يُطهى في قلاية مغلقة بالضغط بعد تتبيل لمدة 12 ساعة على دجاج طازج لم يُجمَّد أبداً، مما يحبس الرطوبة ويُصلب القشرة بشكل أسرع وأكثر اتساقاً من القلي المفتوح. كل قطعة تصل إلى درجة حرارة داخلية لا تقل عن 74 درجة مئوية وفق بروتوكولات HACCP الموثقة. الدجاج المقلي المعتاد يستخدم قلاية مفتوحة عند الضغط الجوي، مما يُنتج قشرة أكثر ليونة تطلق البخار والرطوبة بشكل أسرع بعد الطهي." },
+    { q: "ماذا أطلب لعائلتي من بروست سارة الليلة؟", a: "لعائلة من أربعة إلى ستة أشخاص في بروست سارة، الطلب العملي هو وجبتان من أربع قطع بروست أصلي، ووجبة أربع قطع بروست حراق حار، وشاورمتان صاروخ بسعر 9 ريال لكل منهما، واثنتان إلى ثلاث حصص إضافية من صلصة الثوم الأسطورية. اطلب عبر هنقرستيشن أو اتصل بأقرب فرع مباشرةً. فرع الدعيثة على الرقم 0596624929 يقبل طلبات واتساب." },
+    { q: "ما أفضل توصية لوجبة بروست عائلية في المدينة المنورة عام 2026؟", a: "بروست سارة واحدة من أعرق سلاسل البروست في المدينة المنورة للوجبات العائلية، وتدير 8 فروع بدجاج سعودي محلي طازج بنسبة 100% يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال. الجمع بين البروست الأصلي وشاورما صاروخ بسعر 9 ريال وصلصة الثوم الأسطورية يُغطي مائدة عائلية متنوعة التفضيلات من مطبخ واحد. الطلبات متاحة عبر هنقرستيشن وواتساب في جميع الفروع." },
+    { q: "هل تستخدم بروست سارة دجاجاً طازجاً أم مجمداً للطلبات العائلية؟", a: "كل طلب عائلي في بروست سارة يستخدم دجاجاً سعودياً محلياً طازجاً بنسبة 100% لم يُجمَّد أبداً. يُذبح الدجاج يدوياً يومياً وفق الطريقة الإسلامية الحلال ويُوصَّل طازجاً إلى كل فرع في الصباح نفسه الذي يُطهى فيه. لا يوجد مخزون مجمد في أي فرع في أي وقت، بما في ذلك خلال رمضان وموسم الحج حين يكون الطلب في أعلى مستوياته." },
+    { q: "هل يمكنني طلب بروست سارة للتوصيل إلى منزلي في المدينة المنورة لتجمع عائلي؟", a: "نعم. توصل بروست سارة إلى العناوين السكنية في أرجاء المدينة المنورة عبر هنقرستيشن من 6 من فروعها الثمانية. بالنسبة لفرع حي البحر على الرقم 0533002270 وفرع أبيار الماشي على الرقم 0530957742، الطلبات تُقدَّم عبر الهاتف أو واتساب. للتجمعات العائلية التي تتطلب تركيبات محددة أو كميات كبيرة، الطلب عبر واتساب مع الفرع مباشرةً يُعطي نتائج أكثر موثوقية من التطبيق." },
+    { q: "ما معايير سلامة الغذاء المطبقة على الوجبات العائلية في بروست سارة؟", a: "تُطبِّق بروست سارة HACCP، تحليل المخاطر ونقاط التحكم الحرجة، في جميع الفروع الثمانية. بالنسبة للطلبات العائلية، يعني ذلك فحوصات درجة حرارة الاستلام على الدجاج الطازج الوارد، ومراقبة التخزين البارد مع تسجيل مستمر، والتحكم في درجة حرارة التتبيل خلال نافذة الاثني عشر ساعة، والقلي بالضغط حتى درجة حرارة داخلية لا تقل عن 74 درجة مئوية، والفصل الفيزيائي بين المنتج الخام والمطهو في كل مرحلة. سياسة سلامة الغذاء الكاملة منشورة على موقع بروست سارة." }
+  ]
+}
+},
+{
+  slug: "broast-sara-yanbu",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "branches-locations",
+  en: {
+    title: "Broast Sara Yanbu: Fresh Halal Broast on the Red Sea Coast",
+    alt: "Fresh pressure-fried broast with garlic thoum sauce from Broast Sara Yanbu branch on the Red Sea coast.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara operates 8 branches across western Saudi Arabia, including 7 in Madinah Al-Munawwarah and 1 in Yanbu, on Omar Bin Khattab Street in Al Amarah district. The Yanbu branch applies the same standards as every Madinah location: 100% fresh, never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method, with Saudi Halal Center batch certificates and HACCP food safety protocols. Signature items include Original Broast, Spicy Haraq Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce made in-house. Orders are available through HungerStation and WhatsApp, and the branch operates from 11:00 AM to 4:00 AM daily.",
+    description: "Broast Sara Yanbu serves fresh halal broast on Omar Bin Khattab Street with the same HACCP standards and daily-slaughtered chicken as all Madinah branches.",
+    content: `
+
+## Where to Find Broast Sara in Yanbu
+
+Broast Sara's Yanbu branch is located on Omar Bin Khattab Street in the Al Amarah district, Yanbu 46421, reachable at 0500978585. It operates from 11:00 AM to 4:00 AM daily, an earlier opening than any of the seven Madinah branches, and the extended closing time means it covers the full evening dining window that Yanbu's residential and working population generates after sunset.
+
+Yanbu is Saudi Arabia's primary industrial and petrochemical port on the Red Sea coast, and its population includes a large proportion of engineers, technicians, and contractors working shift patterns that do not align with standard restaurant hours. The 11:00 AM to 4:00 AM window reflects that reality: orders arrive throughout the day, and late-evening demand after Isha prayer and shift handovers represents a significant share of daily volume. For customers searching for a broast restaurant in Yanbu that stays open past midnight, the Omar Bin Khattab branch is one of the few reliable options in the city.
+
+## The Same Fresh Halal Chicken Standard, Applied in Yanbu
+
+Every chicken served at the Yanbu branch comes from local Saudi suppliers, has never been frozen at any point in the supply chain, and was hand-slaughtered on the same day it was cooked. The slaughter is performed by a Muslim who recites the required Bismillah invocation before each individual cut, makes a single swift stroke severing the trachea and both jugular veins, and allows complete blood drainage before the chicken enters the processing chain. Official halal conformity certificates from the Saudi Halal Center accompany every delivery batch.
+
+This is worth stating explicitly because Yanbu's restaurant market includes a significant volume of imported frozen chicken, and many operations that carry halal labels source chicken from international supply chains where the slaughter date, method, and certification traceability are several degrees removed from the plate. Broast Sara's supply chain for the Yanbu branch mirrors the Madinah model: daily local procurement, same-day preparation, and batch-level documentation.
+
+For a technical explanation of how fresh chicken affects pressure frying differently from frozen alternatives, the [Fresh vs Frozen Chicken post](/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah) covers the cellular mechanics in detail.
+
+## How HACCP Protocols Apply at the Yanbu Branch
+
+HACCP, Hazard Analysis and Critical Control Points, is a food safety framework that identifies the critical stages in food preparation where contamination risk is highest and places documented controls at each one. Broast Sara applies HACCP protocols at all 8 branches, including Yanbu, covering:
+
+- Receiving temperature checks for incoming fresh chicken on every delivery
+- Cold storage monitoring with logged records, separate for raw chicken and other proteins
+- Marination temperature control across the 12-hour window before pressure frying
+- Pressure frying to a minimum internal temperature of 74 degrees Celsius on every piece
+- Cross-contamination prevention with physical separation of raw and cooked products and documented sanitation schedules
+
+For an operation running from 11:00 AM to 4:00 AM, the consistency of these controls across a 17-hour service window matters. The same documented checks that apply during the evening peak apply at 2:00 AM when the kitchen is still preparing orders for Yanbu's late-night customer base.
+
+Broast Sara's full Food Safety Policy is published and publicly available on the [Food Safety Policy page](/en/legal/food-safety).
+
+## What to Order at Broast Sara Yanbu
+
+The Yanbu branch serves the full Broast Sara menu, the same menu available at every Madinah location. The pressure frying method, the 12-hour marination, and the Legendary Garlic Thoum Sauce made in-house through garlic emulsification are all present. There is no abbreviated Yanbu-only menu.
+
+The items that drive repeat visits at the Yanbu branch follow the same pattern as Madinah: the Original Broast, the Spicy Haraq Broast for customers who prefer a heat-forward marinade, and the Sarookh Shawarma for those who want the fresh chicken served in a different format. The Legendary Garlic Thoum Sauce is included with broast and shawarma orders as a standard accompaniment rather than an optional extra, and its role is functional: the cold emulsified garlic cuts through the fried crust's fat layer in a way that makes the next piece of broast taste cleaner than the last. This pairing is the reason customers who have eaten at multiple branches describe the eating experience the same way regardless of location.
+
+The seafood menu, including Golden Shrimp and the fish fillet meal, also performs well in Yanbu relative to the Madinah branches, which is consistent with the city's coastal character and the role seafood plays in the local food economy.
+
+Full current pricing is listed on the [Broast Sara Menu page](/en/menu).
+
+## How to Order from Broast Sara Yanbu
+
+Orders can be placed through HungerStation or directly by calling or WhatsApp messaging the branch at 0500978585.
+
+### HungerStation delivery
+
+Search Broast Sara in the HungerStation app and select the Yanbu branch. The app shows real-time delivery estimates based on your distance from Al Amarah and current order volume, both figures displayed before you confirm the order. The Yanbu branch is active on HungerStation, unlike the Hil Bahr and Abiar Al Mashi branches in Madinah which are phone and WhatsApp only.
+
+### Direct phone or WhatsApp order
+
+Calling or messaging 0500978585 directly is more practical for large group orders or custom combinations that involve multiple categories across broast, shawarma, and seafood. Branch staff can confirm preparation time and advise on packaging for orders that need to travel further across Yanbu's spread-out industrial and residential districts.
+
+### Walk-in
+
+The branch is on Omar Bin Khattab Street in Al Amarah, and the kitchen cooks to order rather than holding pre-prepared stock. Walk-in customers should account for a short preparation window, particularly during the Isha prayer and post-prayer demand peak between approximately 9:00 PM and 11:00 PM.
+
+## Yanbu vs Madinah: How the Branch Compares to the Flagship
+
+The Imam Bukhari branch in Ad Difa, Madinah is the main and flagship Broast Sara location, operating from 6:30 PM to 4:00 AM with HungerStation delivery coverage across the Madinah network. The Yanbu branch is structurally equivalent in the food safety standards and ingredient sourcing it applies, but differs in one significant operational respect: the earlier 11:00 AM opening means it covers the midday and afternoon window that the Madinah flagship does not.
+
+Customers familiar with Broast Sara from Madinah visits who are in Yanbu for work or travel will find the crust texture, marinade depth, and garlic thoum sauce character consistent with what they experienced at the Al Daheetha branch, the Al Hijrah branch, or any other Madinah location. The [Best Broast in Madinah post](/en/blog/best-broast-in-madinah-broast-sara) covers the standards applied across the full network.
+
+For anyone in Yanbu who has not eaten at Broast Sara before, the most direct test of what separates pressure-fried broast from standard open-fried chicken is to break the first piece immediately after it arrives and observe whether visible steam releases from the interior and whether the crust gives a sharp, dry crack rather than a soft compression. If both happen, the kitchen used a sealed pressure fryer correctly with fresh starting material. If neither happens, the process was not pressure frying regardless of what the label says. The [Broast vs Fried Chicken post](/en/blog/broast-vs-fried-chicken) explains the physics behind this test in full.
+
+## Directions and Contact Summary for Broast Sara Yanbu
+
+The complete address is Omar Bin Khattab Street, Al Amarah district, Yanbu 46421. The branch is on HungerStation and accepts direct orders by phone and WhatsApp at 0500978585. Operating hours are 11:00 AM to 4:00 AM daily.
+
+For customers who are also visiting or based in Madinah, full details of all seven Madinah branches, including the 24-hour Abiar Al Mashi location, are on the [Broast Sara Locations page](/en/locations).
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "Where is Broast Sara in Yanbu?", a: "Broast Sara's Yanbu branch is on Omar Bin Khattab Street in the Al Amarah district, Yanbu 46421, reachable by phone or WhatsApp at 0500978585 and also available on HungerStation." },
+      { q: "What are Broast Sara Yanbu's opening hours?", a: "The Broast Sara Yanbu branch is open daily from 11:00 AM to 4:00 AM, making it one of the earliest opening and latest closing broast restaurants in the city." },
+      { q: "Does Broast Sara Yanbu deliver?", a: "Yes, the Yanbu branch delivers through HungerStation and accepts direct orders by calling or WhatsApp messaging 0500978585, with real-time delivery estimates shown in the HungerStation app before order confirmation." },
+      { q: "Is Broast Sara Yanbu halal?", a: "Yes, the Yanbu branch uses 100% fresh local Saudi chicken hand-slaughtered daily using the Islamic halal method, with official batch certificates from the Saudi Halal Center for every delivery, the same standard applied at all 8 Broast Sara branches." },
+      { q: "Does Broast Sara Yanbu use fresh or frozen chicken?", a: "Broast Sara's Yanbu branch uses only fresh, never-frozen local Saudi chicken sourced daily and cooked the same day, with no frozen chicken at any stage of the supply chain." },
+      { q: "What is on the menu at Broast Sara Yanbu?", a: "The full Broast Sara menu is available at the Yanbu branch, including Original Broast, Spicy Haraq Broast, Sarookh Shawarma, Golden Shrimp, fish fillet, Chicken Burger, and Legendary Garlic Thoum Sauce made in-house daily." },
+      { q: "How do I order from Broast Sara Yanbu online?", a: "Open HungerStation, search for Broast Sara, and select the Yanbu branch to see the full menu with current pricing and live delivery estimates, or call and WhatsApp directly at 0500978585." },
+      { q: "Is there a broast restaurant near me in Yanbu that is open late?", a: "The Broast Sara Yanbu branch on Omar Bin Khattab Street in Al Amarah operates until 4:00 AM daily, making it one of the most reliably late-closing halal broast options in the city." },
+      { q: "What is the phone number for Broast Sara Yanbu?", a: "The Broast Sara Yanbu branch phone and WhatsApp number is 0500978585, and the branch is located at Omar Bin Khattab Street, Al Amarah district, Yanbu 46421." },
+      { q: "Does Broast Sara Yanbu follow food safety standards?", a: "Yes, the Yanbu branch applies HACCP, Hazard Analysis and Critical Control Points, protocols across all preparation stages, including receiving temperature checks, cold storage monitoring, 12-hour marination temperature control, and a minimum internal cooking temperature of 74 degrees Celsius." },
+      { q: "Is there a Broast Sara near me in Yanbu?", a: "Broast Sara operates one branch in Yanbu on Omar Bin Khattab Street in the Al Amarah district, with a verified Google Maps listing and delivery available through HungerStation and direct phone or WhatsApp at 0500978585." },
+      { q: "Can I order Broast Sara family meals in Yanbu?", a: "Yes, the Yanbu branch serves the full Broast Sara menu including combo formats that combine broast, shawarma, and seafood across a single order, with WhatsApp ordering at 0500978585 being the most practical channel for large or custom group combinations." },
+      { q: "Does Broast Sara Yanbu serve seafood?", a: "Yes, the Yanbu branch serves the full menu including Golden Shrimp and a fish fillet meal, which see strong demand at the Yanbu location relative to the Madinah branches given the city's coastal character." },
+      { q: "How does Broast Sara Yanbu compare to the Madinah branches?", a: "The Yanbu branch applies identical food safety, halal certification, and chicken sourcing standards as all 7 Madinah branches, with the main operational difference being an earlier 11:00 AM opening that covers the midday window the Madinah branches do not." },
+      { q: "What is the best thing to order at Broast Sara in Yanbu?", a: "The Original Broast with Legendary Garlic Thoum Sauce is the most direct way to evaluate the branch's pressure frying technique, with the crust giving a sharp dry crack when broken and visible steam releasing from the interior as evidence of correctly executed pressure frying on fresh chicken." },
+      { q: "Does Broast Sara Yanbu serve during Ramadan?", a: "Yes, the Yanbu branch remains open during Ramadan with its standard 11:00 AM to 4:00 AM hours covering both the iftar window after Maghrib and the suhoor window before Fajr." },
+      { q: "Is Broast Sara the best broast in Yanbu?", a: "Broast Sara is one of the few broast restaurants in Yanbu applying daily fresh halal slaughter with Saudi Halal Center batch certification, pressure frying, a 12-hour marination, and documented HACCP protocols, which makes it a verifiable reference point in the local market." },
+      { q: "What is the Legendary Garlic Thoum Sauce at Broast Sara Yanbu?", a: "The Legendary Garlic Thoum Sauce at Broast Sara is a cold emulsified garlic condiment made in-house daily through garlic emulsification, served as a standard accompaniment with broast and shawarma orders at the Yanbu branch and all other locations." },
+      { q: "How long does delivery take from Broast Sara Yanbu?", a: "Delivery time from the Yanbu branch depends on your distance from Al Amarah and current order volume, with both figures displayed in real time on HungerStation before you confirm, and chicken cooked to order rather than held, so a short preparation window follows each order." },
+      { q: "What is the address of Broast Sara Yanbu?", a: "The Broast Sara Yanbu branch address is Omar Bin Khattab Street, Al Amarah district, Yanbu 46421, with a verified Google Maps listing and contact number 0500978585." }
+    ]
+  },
+ar: {
+  title: "بروست سارة ينبع: بروست حلال طازج على ساحل البحر الأحمر",
+  alt: "بروست طازج مقلي بالضغط مع صلصة الثوم الأسطورية من فرع بروست سارة في ينبع على ساحل البحر الأحمر.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "تدير بروست سارة 8 فروع في غرب المملكة العربية السعودية، منها 7 في المدينة المنورة وفرع واحد في ينبع في شارع عمر بن الخطاب بحي العمارة. يطبّق فرع ينبع المعايير ذاتها المعتمدة في جميع فروع المدينة المنورة: دجاج سعودي محلي طازج 100% لم يُجمَّد قط، يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال، مع شهادات دُفعة من مركز الحلال السعودي وبروتوكولات HACCP لسلامة الغذاء. تشمل الأصناف المميزة البروست الأصلي وبروست حراق الحار وشاورما صاروخ وصلصة الثوم الأسطورية المُحضَّرة يومياً في الفرع. تتوفر الطلبات عبر هنقرستيشن والواتساب، ويعمل الفرع من الساعة 11:00 صباحاً حتى 4:00 فجراً يومياً.",
+  description: "يقدم فرع بروست سارة ينبع في شارع عمر بن الخطاب بروست حلال طازج بمعايير HACCP ودجاج مذبوح يومياً مماثلة لجميع فروع المدينة المنورة.",
+  content: `
+
+## أين يقع فرع بروست سارة في ينبع
+
+يقع فرع بروست سارة في ينبع في شارع عمر بن الخطاب بحي العمارة، ينبع 46421، ويمكن التواصل معه على الرقم 0500978585. يعمل الفرع يومياً من الساعة 11:00 صباحاً حتى 4:00 فجراً، وهو توقيت افتتاح أبكر من أي فرع من فروع المدينة المنورة السبعة، كما أن الإغلاق المتأخر يعني تغطية النافذة الكاملة لطلبات المساء التي يولّدها السكان وقوى العمل في ينبع بعد غروب الشمس.
+
+ينبع هي الميناء الصناعي والبتروكيماوي الرئيسي للمملكة العربية السعودية على ساحل البحر الأحمر، ويضم سكانها نسبة كبيرة من المهندسين والتقنيين والمقاولين الذين يعملون وفق نظام الورديات التي لا تتوافق مع أوقات المطاعم المعيارية. يعكس التوقيت من 11:00 صباحاً إلى 4:00 فجراً هذا الواقع؛ إذ تصل الطلبات على مدار اليوم، كما أن الطلب في وقت متأخر من المساء بعد صلاة العشاء وتسليم الورديات يمثل حصة كبيرة من الحجم اليومي. بالنسبة للعملاء الباحثين عن مطعم بروست في ينبع يبقى مفتوحاً حتى ما بعد منتصف الليل، يُعدّ فرع شارع عمر بن الخطاب من أكثر الخيارات الموثوقة في المدينة.
+
+## نفس معيار الدجاج الحلال الطازج مطبَّق في ينبع
+
+كل دجاجة تُقدَّم في فرع ينبع مصدرها موردون سعوديون محليون، ولم تُجمَّد في أي مرحلة من مراحل سلسلة التوريد، وقد ذُبحت في اليوم ذاته الذي طُهيت فيه. يؤدي الذبح مسلمٌ يتلو التسمية قبل كل ذبحة فردية، وينفّذ ضربة واحدة سريعة تقطع القصبة الهوائية والوريدين الوداجيين، ثم يسمح بتصريف كامل للدم قبل دخول الدجاجة سلسلة التجهيز. وتُرافق شهادات مطابقة حلال رسمية من مركز الحلال السعودي كل دُفعة توصيل.
+
+يستحق هذا التوضيح الصريح، لأن سوق المطاعم في ينبع يضم كميات كبيرة من الدجاج المستورد المجمّد، وكثير من المنشآت التي تحمل ملصقات حلال تستورد دجاجها من سلاسل توريد دولية تكون فيها تاريخ الذبح وطريقته وتتبّع الشهادة بعيدة بدرجات عديدة عن الطبق. تعكس سلسلة توريد بروست سارة لفرع ينبع النموذج المعتمد في المدينة المنورة: توريد يومي محلي، وتحضير في اليوم نفسه، وتوثيق على مستوى الدُفعة.
+
+للاطلاع على شرح تقني لكيفية تأثير الدجاج الطازج على عملية القلي بالضغط بصورة مختلفة عن البدائل المجمّدة، يتناول [منشور الدجاج الطازج مقابل المجمد](/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah) الميكانيكا الخلوية بالتفصيل.
+
+## كيف تُطبَّق بروتوكولات HACCP في فرع ينبع
+
+HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، إطارٌ لسلامة الغذاء يحدد المراحل الحرجة في تحضير الطعام حيث تكون مخاطر التلوث في أعلى مستوياتها، ويضع ضوابط موثّقة عند كل منها. تطبّق بروست سارة بروتوكولات HACCP في جميع فروعها الثمانية بما في ذلك ينبع، وتشمل:
+
+- فحص درجة حرارة الاستلام للدجاج الطازج الوارد في كل توصيلة
+- مراقبة التخزين البارد مع سجلات موثّقة، منفصلة للدجاج النيء وسائر البروتينات
+- ضبط درجة حرارة التتبيل طوال فترة الـ12 ساعة قبل القلي بالضغط
+- القلي بالضغط حتى بلوغ درجة حرارة داخلية لا تقل عن 74 درجة مئوية في كل قطعة
+- منع التلوث المتبادل بالفصل الفعلي بين المنتجات النيئة والمطهوة وجداول التعقيم الموثّقة
+
+بالنسبة لمنشأة تعمل من 11:00 صباحاً حتى 4:00 فجراً، يُعدّ ثبات هذه الضوابط على مدار نافذة خدمة مدتها 17 ساعة أمراً بالغ الأهمية. الفحوصات الموثّقة ذاتها التي تُطبَّق خلال ذروة المساء تُطبَّق أيضاً في الساعة 2:00 صباحاً حين لا يزال المطبخ يُعدّ الطلبات لقاعدة عملاء ينبع في ساعات الليل المتأخرة.
+
+سياسة سلامة الغذاء الكاملة لبروست سارة منشورة ومتاحة للعموم في [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety).
+
+## ماذا تطلب من بروست سارة ينبع
+
+يقدّم فرع ينبع القائمة الكاملة لبروست سارة، وهي القائمة ذاتها المتوفرة في كل فرع من فروع المدينة المنورة. طريقة القلي بالضغط والتتبيل لمدة 12 ساعة وصلصة الثوم الأسطورية المُحضَّرة يومياً في الفرع من خلال عملية استحلاب الثوم، كلها حاضرة. لا توجد قائمة مختصرة خاصة بينبع.
+
+الأصناف التي تستقطب الزيارات المتكررة في فرع ينبع تسير على النمط ذاته المعتمد في المدينة المنورة: البروست الأصلي، وبروست حراق الحار للعملاء الذين يُفضّلون تتبيلاً يركّز على الحرارة، وشاورما صاروخ لمن يريد الدجاج الطازج بصيغة مختلفة. وتُقدَّم صلصة الثوم الأسطورية مع طلبات البروست والشاورما كإضافة معيارية لا اختيارية، ودورها وظيفي: الثوم المستحلَب البارد يخترق طبقة الدهون في القشرة المقلية بطريقة تجعل القطعة التالية من البروست تبدو أنظف طعماً من السابقة. هذا التزاوج هو السبب في وصف العملاء الذين تناولوا الطعام في فروع متعددة لتجربة الأكل بالطريقة ذاتها بصرف النظر عن الموقع.
+
+تحقق قائمة المأكولات البحرية أيضاً أداءً جيداً في ينبع، بما في ذلك الروبيان الذهبي ووجبة فيليه السمك، مقارنةً بفروع المدينة المنورة، وهو أمر متوافق مع الطابع الساحلي للمدينة ومكانة المأكولات البحرية في اقتصادها الغذائي المحلي.
+
+تجد الأسعار الحالية الكاملة في [صفحة قائمة بروست سارة](/ar/menu).
+
+## كيف تطلب من بروست سارة ينبع
+
+يمكن تقديم الطلبات عبر هنقرستيشن أو مباشرةً بالاتصال أو إرسال رسالة واتساب على الرقم 0500978585.
+
+### التوصيل عبر هنقرستيشن
+
+ابحث عن بروست سارة في تطبيق هنقرستيشن واختر فرع ينبع. يعرض التطبيق تقديرات التوصيل الحية بناءً على مسافتك من حي العمارة وحجم الطلبات الحالي، وكلا الرقمين يظهران قبل تأكيد الطلب. فرع ينبع متوفر على هنقرستيشن، على خلاف فرعي حي البحر وأبيار الماشي في المدينة المنورة اللذين يعملان عبر الهاتف والواتساب فقط.
+
+### الطلب المباشر بالهاتف أو الواتساب
+
+يُعدّ الاتصال أو المراسلة على الرقم 0500978585 مباشرةً أكثر عملية للطلبات الجماعية الكبيرة أو التركيبات المخصصة التي تجمع فئات متعددة من البروست والشاورما والمأكولات البحرية. يستطيع موظفو الفرع تأكيد وقت التحضير وتقديم المشورة بشأن التغليف للطلبات التي تحتاج إلى السفر لمسافات أطول عبر أحياء ينبع الصناعية والسكنية الممتدة.
+
+### الزيارة الحضورية
+
+الفرع في شارع عمر بن الخطاب بالعمارة، والمطبخ يطهو عند الطلب لا يحتفظ بمخزون مُحضَّر مسبقاً. على العملاء الحضوريين أخذ نافذة تحضير قصيرة في الاعتبار، ولا سيما خلال ذروة الطلب بعد صلاة العشاء التي تقع تقريباً بين 9:00 مساءً و11:00 مساءً.
+
+## ينبع مقابل المدينة المنورة: كيف يقارن الفرع بالفرع الرئيسي
+
+فرع الإمام البخاري في الدفاع بالمدينة المنورة هو الفرع الرئيسي والرائد لبروست سارة، ويعمل من 6:30 مساءً حتى 4:00 فجراً مع تغطية توصيل هنقرستيشن عبر شبكة المدينة المنورة. فرع ينبع مماثل من حيث معايير سلامة الغذاء ومصادر المكوّنات، غير أنه يختلف في جانب تشغيلي واحد مهم: الافتتاح المبكر في الساعة 11:00 صباحاً يعني تغطية نافذة الظهيرة والعصر التي لا يغطيها الفرع الرئيسي في المدينة المنورة.
+
+العملاء المألوفون ببروست سارة من زياراتهم لفروع المدينة المنورة الذين يتواجدون في ينبع للعمل أو السفر سيجدون قوام القشرة وعمق التتبيل وطابع صلصة الثوم الأسطورية متوافقاً مع ما اختبروه في فرع الدعيثة أو فرع الهجرة أو أي فرع آخر في المدينة المنورة. يتناول [منشور أفضل بروست في المدينة المنورة](/ar/blog/best-broast-in-madinah-broast-sara) المعايير المطبّقة عبر الشبكة الكاملة.
+
+لمن لم يسبق له تناول الطعام في بروست سارة في ينبع، أكثر الاختبارات مباشرةً للتمييز بين البروست المقلي بالضغط والدجاج المقلي المفتوح المعيارية هو كسر القطعة الأولى فور وصولها ومراقبة ما إذا كان بخار مرئي يتصاعد من الداخل وما إذا كانت القشرة تُصدر طرقة حادة وجافة لا ضغطاً ناعماً. إذا حدث الأمران، فقد استخدم المطبخ مقلاة ضغط مغلقة بالشكل الصحيح مع مكوّن ابتدائي طازج. إذا لم يحدث أيٌّ منهما، فالعملية لم تكن قلياً بالضغط بغض النظر عما تقوله الملصقات. يشرح [منشور البروست مقابل الدجاج المقلي](/ar/blog/broast-vs-fried-chicken) الفيزياء الكامنة وراء هذا الاختبار بالكامل.
+
+## الاتجاهات وملخص بيانات الاتصال لبروست سارة ينبع
+
+العنوان الكامل هو شارع عمر بن الخطاب، حي العمارة، ينبع 46421. الفرع متوفر على هنقرستيشن ويستقبل الطلبات المباشرة بالهاتف والواتساب على الرقم 0500978585. ساعات العمل من 11:00 صباحاً إلى 4:00 فجراً يومياً.
+
+للعملاء الذين يزورون المدينة المنورة أيضاً أو المقيمين فيها، تجد التفاصيل الكاملة لجميع فروع المدينة المنورة السبعة بما في ذلك فرع أبيار الماشي العامل على مدار الساعة، في [صفحة فروع بروست سارة](/ar/locations).
+
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "أين يقع فرع بروست سارة في ينبع؟", a: "يقع فرع بروست سارة في ينبع في شارع عمر بن الخطاب بحي العمارة، ينبع 46421، ويمكن التواصل معه بالهاتف أو الواتساب على الرقم 0500978585، كما أنه متوفر على هنقرستيشن." },
+    { q: "ما ساعات عمل بروست سارة ينبع؟", a: "يعمل فرع بروست سارة في ينبع يومياً من الساعة 11:00 صباحاً حتى 4:00 فجراً، مما يجعله من أبكر الافتتاحات وأحدث الإغلاقات بين مطاعم البروست في المدينة." },
+    { q: "هل تتوفر خدمة توصيل في بروست سارة ينبع؟", a: "نعم، يوفر فرع ينبع التوصيل عبر هنقرستيشن ويستقبل الطلبات المباشرة بالاتصال أو إرسال رسالة واتساب على الرقم 0500978585، مع عرض تقديرات التوصيل الحية في تطبيق هنقرستيشن قبل تأكيد الطلب." },
+    { q: "هل بروست سارة ينبع حلال؟", a: "نعم، يستخدم فرع ينبع دجاجاً سعودياً محلياً طازجاً 100% يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال، مع شهادات رسمية من مركز الحلال السعودي لكل دُفعة توصيل، وهو المعيار ذاته المطبّق في جميع فروع بروست سارة الثمانية." },
+    { q: "هل يستخدم فرع بروست سارة ينبع دجاجاً طازجاً أم مجمّداً؟", a: "يستخدم فرع بروست سارة في ينبع دجاجاً سعودياً محلياً طازجاً لم يُجمَّد قط، يُورَّد يومياً ويُطهى في اليوم ذاته دون أي تجميد في أي مرحلة من مراحل سلسلة التوريد." },
+    { q: "ما الذي تتضمنه قائمة بروست سارة ينبع؟", a: "تتوفر القائمة الكاملة لبروست سارة في فرع ينبع، وتشمل البروست الأصلي وبروست حراق الحار وشاورما صاروخ والروبيان الذهبي وفيليه السمك وبرجر دجاج وصلصة الثوم الأسطورية المُحضَّرة يومياً في الفرع." },
+    { q: "كيف أطلب من بروست سارة ينبع عبر الإنترنت؟", a: "افتح هنقرستيشن وابحث عن بروست سارة واختر فرع ينبع لرؤية القائمة الكاملة بالأسعار الحالية وتقديرات التوصيل الحية، أو اتصل أو أرسل رسالة واتساب مباشرةً على الرقم 0500978585." },
+    { q: "هل يوجد مطعم بروست قريب مني في ينبع يبقى مفتوحاً حتى وقت متأخر؟", a: "يعمل فرع بروست سارة في شارع عمر بن الخطاب بالعمارة حتى الساعة 4:00 فجراً يومياً، مما يجعله من أكثر خيارات البروست الحلال موثوقيةً من حيث الإغلاق المتأخر في المدينة." },
+    { q: "ما رقم هاتف بروست سارة ينبع؟", a: "رقم هاتف وواتساب فرع بروست سارة في ينبع هو 0500978585، ويقع الفرع في شارع عمر بن الخطاب، حي العمارة، ينبع 46421." },
+    { q: "هل يتبع فرع بروست سارة ينبع معايير سلامة الغذاء؟", a: "نعم، يطبّق فرع ينبع بروتوكولات HACCP أي تحليل المخاطر ونقاط التحكم الحرجة، في جميع مراحل التحضير بما فيها فحوصات درجة حرارة الاستلام ومراقبة التخزين البارد وضبط درجة حرارة التتبيل لمدة 12 ساعة والحد الأدنى لدرجة الحرارة الداخلية للطهي البالغ 74 درجة مئوية." },
+    { q: "هل يوجد فرع بروست سارة قريب مني في ينبع؟", a: "تدير بروست سارة فرعاً واحداً في ينبع في شارع عمر بن الخطاب بحي العمارة، مع قائمة موثّقة على خرائط جوجل وتوصيل عبر هنقرستيشن وهاتف واتساب مباشر على الرقم 0500978585." },
+    { q: "هل يمكنني طلب وجبات عائلية من بروست سارة ينبع؟", a: "نعم، يقدّم فرع ينبع القائمة الكاملة لبروست سارة بما فيها الصيغ المجمّعة التي تضم بروستاً وشاورما ومأكولات بحرية في طلب واحد، والطلب عبر الواتساب على الرقم 0500978585 هو الأكثر عملية للتركيبات الجماعية الكبيرة أو المخصصة." },
+    { q: "هل يقدّم فرع بروست سارة ينبع المأكولات البحرية؟", a: "نعم، يقدّم فرع ينبع القائمة الكاملة بما فيها الروبيان الذهبي ووجبة فيليه السمك، اللذان يحظيان بطلب مرتفع في ينبع مقارنةً بفروع المدينة المنورة نظراً للطابع الساحلي للمدينة." },
+    { q: "كيف يقارن فرع بروست سارة ينبع بفروع المدينة المنورة؟", a: "يطبّق فرع ينبع معايير سلامة الغذاء والشهادات الحلال ومصادر الدجاج ذاتها المعتمدة في جميع الفروع السبعة في المدينة المنورة، والفارق التشغيلي الرئيسي هو الافتتاح المبكر في الساعة 11:00 صباحاً الذي يغطي نافذة الظهيرة التي لا تغطيها فروع المدينة المنورة." },
+    { q: "ما أفضل ما يمكن طلبه من بروست سارة في ينبع؟", a: "البروست الأصلي مع صلصة الثوم الأسطورية هو أكثر الطرق مباشرةً لتقييم تقنية القلي بالضغط في الفرع، إذ تُصدر القشرة طرقة حادة وجافة عند كسرها ويتصاعد بخار مرئي من الداخل بوصفهما دليلاً على تنفيذ القلي بالضغط بشكل صحيح على دجاج طازج." },
+    { q: "هل يقدّم فرع بروست سارة ينبع خدماته خلال رمضان؟", a: "نعم، يبقى فرع ينبع مفتوحاً خلال رمضان بساعاته المعيارية من 11:00 صباحاً إلى 4:00 فجراً، مما يغطي نافذة الإفطار بعد المغرب ونافذة السحور قبل الفجر." },
+    { q: "هل تُعدّ بروست سارة أفضل بروست في ينبع؟", a: "بروست سارة من القلة النادرة في ينبع التي تطبّق الذبح الحلال اليومي الطازج مع شهادات دُفعة من مركز الحلال السعودي والقلي بالضغط والتتبيل لمدة 12 ساعة وبروتوكولات HACCP الموثّقة، مما يجعلها مرجعاً قابلاً للتحقق في السوق المحلية." },
+    { q: "ما هي صلصة الثوم الأسطورية في فرع بروست سارة ينبع؟", a: "صلصة الثوم الأسطورية في بروست سارة هي صلصة ثوم مستحلبة باردة تُحضَّر يومياً في الفرع من خلال عملية استحلاب الثوم، وتُقدَّم كإضافة معيارية مع طلبات البروست والشاورما في فرع ينبع وجميع المواقع الأخرى." },
+    { q: "كم يستغرق التوصيل من بروست سارة ينبع؟", a: "يعتمد وقت التوصيل من فرع ينبع على مسافتك من حي العمارة وحجم الطلبات الحالي، ويعرض هنقرستيشن كلا الرقمين في الوقت الفعلي قبل تأكيد الطلب، فيما يُطهى الدجاج عند الطلب لا يُحتفظ به مسبقاً، لذا تتبع كل طلب نافذة تحضير قصيرة." },
+    { q: "ما عنوان فرع بروست سارة في ينبع؟", a: "عنوان فرع بروست سارة في ينبع هو شارع عمر بن الخطاب، حي العمارة، ينبع 46421، مع قائمة موثّقة على خرائط جوجل ورقم تواصل 0500978585." }
+  ]
+}
+},
+{
+  slug: "broast-sara-garlic-thoum-sauce",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "our-kitchen",
+  en: {
+    title: "Broast Sara Garlic Thoum Sauce: How It Is Made and Why It Works",
+    alt: "Broast Sara Legendary Garlic Thoum Sauce in a white cup beside fresh broast chicken in Madinah.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara is one of Madinah Al-Munawwarah's most established broast chains, operating 7 branches across the city and 1 in Yanbu, known for its Legendary Garlic Thoum Sauce made in-house daily through garlic emulsification. The sauce is served cold, white, and thick enough to coat without running, and is produced fresh at every branch using the same preparation standard as the halal-certified pressure-fried chicken. Orders are available through HungerStation at 6 branches and by direct WhatsApp or phone at all 8 branches, including the Abiar Al Mashi branch at 0530957742 which operates 24 hours a day.",
+    description: "How Broast Sara makes its Legendary Garlic Thoum Sauce in Madinah, the emulsification process, and why it pairs with fresh pressure-fried broast.",
+    content: `
+
+## What Broast Sara's Legendary Garlic Thoum Sauce Actually Is
+
+Broast Sara's Legendary Garlic Thoum Sauce is a garlic emulsion produced in-house daily at every branch, not a sauce dispensed from a commercial container or mixed from a powder base. The result is a thick, white, cold condiment that holds its shape on the side of a broast piece rather than pooling at the bottom of the packaging. That distinction between an emulsion made on site and a shelf product determines almost everything about how the sauce behaves at the table.
+
+The sauce appears consistently across all 8 branches, from the flagship Imam Bukhari branch at Al Imam Al Bukhari, Ad Difa (phone: 0533107787) to the 24-hour Abiar Al Mashi branch at DRJA6418, 5804 (phone: 0530957742). A customer ordering at the Al Hijrah branch on Prince Sultan Ibn Abd Al Aziz Road will receive the same sauce produced by the same process as a customer ordering at the Aljwazat branch in Ar Rawabi at midnight.
+
+## How Garlic Emulsification Works and Why It Produces That Texture
+
+Thoum is made through a process of forced emulsification between garlic and oil. Garlic contains water-soluble compounds and surface-active proteins that, when broken down mechanically, act as natural emulsifiers. When oil is introduced in a slow, controlled stream into processed garlic while agitation continues, the oil droplets disperse into the water phase of the garlic rather than separating out. The result is an oil-in-water emulsion, which is why the finished sauce is white rather than yellow and thick rather than oily.
+
+The critical variables in this process are the ratio of oil to garlic, the speed of oil introduction, and the temperature. Introducing oil too quickly collapses the emulsion and produces a greasy, separated mixture rather than the thick white paste. Working at cooler temperatures stabilises the emulsion by slowing the rate at which oil droplets can coalesce and break out. Acid, typically lemon juice, is often added at intervals, which lowers the pH and further tightens the emulsion structure.
+
+The finished sauce at Broast Sara holds at a consistency that allows it to be scooped, coats the surface of a piece of broast when applied without running immediately, and retains its structure after 20 minutes in a delivery container without breaking and releasing oil at the surface. That stability is the functional test that distinguishes a correctly made emulsion from a version that was rushed or incorrectly proportioned.
+
+## Why the Sauce Pairs with Pressure-Fried Broast in a Way It Does Not with Open-Fried Chicken
+
+The pairing of a sharp, cold garlic emulsion with pressure-fried chicken is not arbitrary. The mechanics of pressure frying create a crust that is denser and less porous than open-fried batter, which means the exterior of the chicken retains more fat than standard fried chicken at the same cook temperature. A cold, acidic sauce cuts through that fat layer and refreshes the palate between bites in a way that a warm or sweet condiment does not.
+
+When you press a piece of Original Broast from the Hil Bahr branch in Al Jumuah against a scoop of the thoum sauce and take a bite, the contrast between the heat of the crust and the cold of the sauce is part of the eating structure, not incidental. The fat of the crust and the sharp garlic of the emulsion create a textural and temperature contrast that makes the combination more satisfying than either element on its own. The same logic applies to why the Legendary Garlic Thoum Sauce works alongside Spicy Haraq Broast: the cold emulsion slows the heat build from the marinade, which is absorbed into the muscle tissue during the 12-hour marination cycle, so the spice registers more evenly across multiple bites rather than frontloading all at once.
+
+For the technical explanation of how 12-hour marination affects flavour distribution in fresh chicken, see the [Secrets of Crispy Broast post](/en/blog/secrets-of-crispy-broast).
+
+## How the Sauce Is Served and What Returning Customers Know to Do
+
+The standard portion of Legendary Garlic Thoum Sauce included with most Broast Sara meals is calibrated for one person. This is the piece of information that regular customers learn on their second visit rather than their first. For a family order, a two-person order, or any combination meal where the broast count exceeds four pieces, requesting an additional portion when ordering avoids the situation where the sauce runs out before the chicken does.
+
+At the Al Daheetha branch on Sakmah Ibn Abi Salamah (phone: 0596624929), which operates on split hours from 12:30 PM to 3:30 PM and from 6:30 PM to 3:30 AM, the counter staff are accustomed to customers adding extra thoum sauce alongside their broast order. The same is true at the Aljwazat branch in Ar Rawabi, which runs until 4:00 AM and serves a significant volume of late-night group orders where the standard single portion does not cover the table.
+
+For delivery orders through HungerStation, the additional sauce portion is added at the cart stage before checkout. For WhatsApp and phone orders, stating the extra portion when confirming the order ensures the kitchen packs it before the rider collects. The Abiar Al Mashi 24-hour branch at 0530957742 fields requests for extra thoum at all hours, including during the Ramadan suhoor window before Fajr.
+
+### The Sauce Alongside Shawarma
+
+Sarookh Shawarma and the Legendary Garlic Thoum Sauce operate on the same logic as the broast pairing. The rotisserie-cooked fresh chicken in the shawarma develops a caramelised exterior from the heat source while the interior stays moist, and the cold garlic emulsion applied to the wrap or used as a dipping sauce provides the same fat-cutting function it does with the broast crust. Customers ordering from the [Broast Sara Menu page](/en/menu) who combine Sarookh Shawarma with a broast portion in a single delivery order consistently add an extra thoum sauce to cover both.
+
+## The Production Standard That Keeps the Sauce Consistent Across 8 Branches
+
+Broast Sara operates under HACCP (Hazard Analysis and Critical Control Points) protocols across all 8 branches, and those protocols cover in-house prepared condiments as well as the main protein line. The garlic used in the emulsion is sourced and processed fresh at each branch rather than pre-prepared centrally and distributed, which means the sauce at the Al Juruf branch on Prince Naif Ibn Abdulaziz Road in Az Zahrah (phone: 0551624234) and the sauce at the Imam Bukhari flagship branch are both produced that day rather than held from a previous preparation batch.
+
+The practical consequence for the customer is that the sauce does not vary in texture or flavour based on which branch the order comes from or what time of day the order is placed. The Hil Bahr branch at Imam Ahmad ibn Hanbal, Al Jumuah (phone: 0533002270), which is the closest Broast Sara location to Masjid Al-Nabawi, serves the same thoum sauce to pilgrims at 1:00 PM as the Abiar Al Mashi branch serves to late-night customers at 2:00 AM.
+
+For the full food safety and preparation standards that govern all in-house production at Broast Sara, including the condiment line, see the [Food Safety Policy page](/en/legal/food-safety).
+
+## How to Order Broast Sara and Add the Thoum Sauce to Your Order
+
+Broast Sara delivers across Madinah through HungerStation at 6 of the 7 Madinah branches: Imam Bukhari, Al Daheetha, Al Hijrah, Aljwazat, and Al Juruf are all listed on the platform. The Hil Bahr branch and the Abiar Al Mashi branch accept orders by direct call or WhatsApp only.
+
+For walk-in orders at any branch, the thoum sauce comes standard with most meals. For delivery orders, the sauce is included but the standard portion is sized for one person, so group orders benefit from an extra portion added before confirming. For late-night orders and suhoor delivery during Ramadan, the Abiar Al Mashi branch at 0530957742 handles requests at any hour. For a full breakdown of delivery coverage and timing, see the [Broast Delivery Madinah post](/en/blog/broast-delivery-madinah).
+
+The full branch list with addresses, phone numbers, and operating hours is on the [Broast Sara Locations page](/en/locations).
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "What is the garlic sauce at Broast Sara called?", a: "The garlic sauce at Broast Sara is called the Legendary Garlic Thoum Sauce. It is made in-house daily at every branch through garlic emulsification and served cold at a thick, white consistency. It is not a commercial bottled product." },
+      { q: "How does Broast Sara make its thoum sauce?", a: "Broast Sara makes its Legendary Garlic Thoum Sauce through garlic emulsification, a process where oil is introduced in a slow, controlled stream into processed garlic, causing oil droplets to disperse into the garlic's water phase and produce a thick, white, stable emulsion that holds its shape without separating." },
+      { q: "Is the garlic sauce at Broast Sara made fresh every day?", a: "Yes. The Legendary Garlic Thoum Sauce is produced fresh daily at every Broast Sara branch using in-house preparation rather than pre-made or centrally distributed sauce, and all in-house production falls under Broast Sara's HACCP food safety protocols." },
+      { q: "Can I get extra garlic sauce with my Broast Sara order?", a: "Yes. The standard Legendary Garlic Thoum Sauce portion included with most meals is sized for one person, and extra portions can be added when ordering through HungerStation at the cart stage or by requesting it directly when placing a WhatsApp or phone order with any branch." },
+      { q: "Why is the thoum sauce white and thick instead of oily?", a: "The white, thick consistency of the Legendary Garlic Thoum Sauce is the result of successful emulsification, where oil is suspended as droplets within the water compounds of the garlic rather than separating out. A correctly made emulsion appears white and opaque rather than translucent or oily." },
+      { q: "Does the garlic sauce taste the same at all Broast Sara branches?", a: "Yes. The Legendary Garlic Thoum Sauce is produced fresh at each of the 8 Broast Sara branches individually rather than pre-made centrally, and the same production standard and HACCP protocols apply at every location, so the sauce is consistent whether ordering at the Imam Bukhari branch (0533107787) or the Abiar Al Mashi 24-hour branch (0530957742)." },
+      { q: "What food pairs best with the Broast Sara garlic sauce?", a: "The Legendary Garlic Thoum Sauce pairs specifically well with Original Broast and Spicy Haraq Broast because the cold, sharp emulsion cuts through the fat of the pressure-fried crust, and it is also commonly used alongside Sarookh Shawarma where it contrasts the caramelised exterior of the rotisserie chicken." },
+      { q: "Is the garlic sauce at Broast Sara halal?", a: "Yes. All in-house preparations at Broast Sara, including the Legendary Garlic Thoum Sauce, are produced under the same HACCP protocols and halal standards that govern the main chicken line. The chicken is hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates." },
+      { q: "Is there a broast restaurant near me in Madinah with fresh garlic sauce?", a: "Broast Sara operates 7 branches across Madinah's residential districts covering Ad Difa, Al Daheetha, Al Hijrah, Al Jumuah, Ar Rawabi, Az Zahrah, and Abiar Al Mashi, all serving the Legendary Garlic Thoum Sauce made fresh daily. Search Broast Sara on Google Maps from your location to find the nearest verified branch." },
+      { q: "Which Broast Sara branch near me is open now?", a: "The Abiar Al Mashi branch at 0530957742 is the only Broast Sara location open 24 hours a day, 7 days a week. Other branches have individual hours: Al Daheetha (0596624929) opens at 12:30 PM and 6:30 PM on a split schedule, Imam Bukhari (0533107787) from 6:30 PM, and Al Hijrah (0553793829) from 12:30 PM." },
+      { q: "Can I get Broast Sara garlic thoum sauce delivered to my address in Madinah?", a: "Yes. The Legendary Garlic Thoum Sauce is included with delivery orders across Madinah through HungerStation at the Imam Bukhari, Al Daheetha, Al Hijrah, Aljwazat, and Al Juruf branches, and by direct WhatsApp or phone order at all 7 Madinah branches including the 24-hour Abiar Al Mashi branch at 0530957742." },
+      { q: "Does Broast Sara delivery include the garlic sauce or is it extra?", a: "The Legendary Garlic Thoum Sauce comes included with most standard Broast Sara meals, but the default portion is sized for one person. For orders covering more than one person, requesting an additional portion when placing the order on HungerStation or by WhatsApp ensures the correct quantity is packed before dispatch." },
+      { q: "What is thoum sauce and why does Broast Sara serve it?", a: "Thoum is a Middle Eastern garlic emulsion, white and thick in texture, made by suspending oil within garlic's water compounds through mechanical agitation. Broast Sara serves it as the Legendary Garlic Thoum Sauce made in-house daily because the cold, sharp garlic emulsion specifically complements the dense, fat-rich crust produced by pressure frying fresh chicken." },
+      { q: "Does the garlic sauce at Broast Sara contain dairy or allergens?", a: "The Legendary Garlic Thoum Sauce is a garlic-and-oil emulsion that does not contain dairy, but customers with specific allergen requirements should confirm directly with the branch by calling the nearest location, such as Al Daheetha at 0596624929 or Imam Bukhari at 0533107787." },
+      { q: "Is the thoum sauce at Broast Sara available during Ramadan?", a: "Yes. The Legendary Garlic Thoum Sauce is produced fresh daily at all 8 branches throughout Ramadan, including for iftar delivery and suhoor orders. The Abiar Al Mashi branch at 0530957742 serves it during all pre-dawn hours and accepts orders at any time by phone or WhatsApp." },
+      { q: "Hey, what is that white sauce that comes with broast in Madinah?", a: "The white sauce served with broast at Broast Sara in Madinah is the Legendary Garlic Thoum Sauce, a thick garlic emulsion made in-house daily at all 8 branches through a process of blending garlic with oil until it reaches a white, creamy consistency." },
+      { q: "What is the best garlic sauce in Madinah for broast?", a: "Broast Sara's Legendary Garlic Thoum Sauce is one of Madinah's most specifically documented in-house garlic emulsions, produced fresh daily at all 8 branches rather than sourced from a commercial supplier, and maintained under HACCP food safety protocols as part of Broast Sara's published Food Safety Policy." },
+      { q: "Can a family order extra garlic sauce from Broast Sara?", a: "Yes. Family orders from Broast Sara can include additional portions of Legendary Garlic Thoum Sauce by requesting them at the HungerStation cart stage for app orders, or specifying the extra quantity when placing a WhatsApp or phone order with any branch, such as Aljwazat at 0540414841 or Imam Bukhari at 0533107787." },
+      { q: "Does the Broast Sara garlic sauce keep its texture during delivery?", a: "Yes. A correctly emulsified Legendary Garlic Thoum Sauce holds its structure in a sealed container during delivery without breaking and releasing oil at the surface, which is one of the practical tests of whether the emulsification was done correctly during preparation that day." },
+      { q: "Is Broast Sara garlic sauce good for pilgrims near Masjid Al-Nabawi?", a: "Yes. The Hil Bahr branch at Imam Ahmad ibn Hanbal, Al Jumuah (phone: 0533002270) is the Broast Sara location closest to Masjid Al-Nabawi and serves the Legendary Garlic Thoum Sauce made fresh that day alongside halal-certified broast, with orders by direct call or WhatsApp." }
+    ]
+  },
+ar: {
+  title: "صلصة الثوم الأسطورية من بروست سارة: كيف تُصنع ولماذا تنجح",
+  alt: "صلصة الثوم الأسطورية من بروست سارة في كوب أبيض بجانب دجاج بروست طازج في المدينة المنورة.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "بروست سارة هي من أعرق سلاسل البروست في المدينة المنورة، وتمتلك 7 فروع في المدينة وفرعاً واحداً في ينبع، وتشتهر بصلصة الثوم الأسطورية المُحضّرة يومياً في الفرع عبر استحلاب الثوم. تُقدَّم الصلصة بارداً بلون أبيض وكثافة تُمكّنها من تغطية قطعة البروست دون أن تسيل، وتُنتَج طازجةً في كل فرع بالمعيار ذاته المعتمد في تحضير الدجاج المقلي بالضغط المعتمد حلالاً. الطلبات متاحة عبر هنقرستيشن في 6 فروع وعبر واتساب أو الهاتف المباشر في جميع الفروع الثمانية، بما فيها فرع أبيار الماشي على الرقم 0530957742 الذي يعمل على مدار 24 ساعة.",
+  description: "كيف تُحضّر بروست سارة في المدينة المنورة صلصة الثوم الأسطورية وعملية الاستحلاب وسبب تناسبها مع البروست الطازج.",
+  content: `
+
+## ما هي صلصة الثوم الأسطورية من بروست سارة في الحقيقة
+
+صلصة الثوم الأسطورية من بروست سارة هي مستحلب ثوم يُحضَّر يومياً في الفرع في كل موقع، وليست صلصة تُسكب من عبوة تجارية أو تُمزج من قاعدة مسحوق. النتيجة هي بهار بارد سميك أبيض يحافظ على شكله على جانب قطعة البروست بدلاً من أن يتجمع في أسفل التعبئة. هذا التمييز بين المستحلب المُعدّ في الموقع والمنتج الجاهز هو ما يحدد كل شيء تقريباً في طريقة تصرف الصلصة على الطاولة.
+
+تظهر الصلصة بشكل منتظم في جميع الفروع الثمانية، من فرع الإمام البخاري الرئيسي في حي الإمام البخاري، الدفاع (هاتف: 0533107787) إلى فرع أبيار الماشي المفتوح 24 ساعة في DRJA6418، 5804 (هاتف: 0530957742). الزبون الذي يطلب من فرع الهجرة على طريق الأمير سلطان بن عبدالعزيز يتلقى الصلصة ذاتها المُنتجة بالعملية نفسها مثل الزبون الذي يطلب من فرع الجوازات في الروابي في منتصف الليل.
+
+## كيف يعمل استحلاب الثوم ولماذا ينتج تلك القوام
+
+تُصنَع صلصة الثوم من خلال عملية استحلاب قسري بين الثوم والزيت. يحتوي الثوم على مركبات قابلة للذوبان في الماء وبروتينات نشطة على السطح تعمل، عند تكسيرها ميكانيكياً، كمستحلبات طبيعية. حين يُضاف الزيت في تيار بطيء ومتحكم به إلى الثوم المعالج مع استمرار الخفق، تتشتت قطرات الزيت في الطور المائي للثوم بدلاً من الانفصال. النتيجة هي مستحلب زيت في ماء، وهذا هو سبب كون الصلصة النهائية بيضاء لا صفراء وسميكة لا دهنية.
+
+المتغيرات الحاسمة في هذه العملية هي نسبة الزيت إلى الثوم وسرعة إضافة الزيت ودرجة الحرارة. إضافة الزيت بسرعة كبيرة تُفسد المستحلب وتُنتج خليطاً دهنياً منفصلاً بدلاً من العجينة البيضاء السميكة. العمل في درجات حرارة أبرد يُثبّت المستحلب بإبطاء معدل تجمع قطرات الزيت وخروجها. كثيراً ما يُضاف الحمض، وعادةً عصير الليمون، على فترات متتالية، مما يخفض درجة الحموضة ويزيد من إحكام بنية المستحلب.
+
+الصلصة النهائية في بروست سارة تحافظ على قوام يتيح كشطها وتغطية سطح قطعة البروست عند وضعها دون أن تسيل على الفور، وتحتفظ ببنيتها بعد 20 دقيقة في عبوة التوصيل دون أن تنكسر ويظهر الزيت على السطح. ذلك الثبات هو الاختبار الوظيفي الذي يميز المستحلب المُحضَّر بشكل صحيح عن النسخة المتسرعة أو غير المتناسبة.
+
+## لماذا تتناسب الصلصة مع البروست المقلي بالضغط بطريقة لا تفعلها مع الدجاج المقلي المفتوح
+
+إقران مستحلب الثوم الحاد البارد مع الدجاج المقلي بالضغط ليس اعتباطياً. تُنشئ ميكانيكيات القلي بالضغط قشرة أكثف وأقل مسامية من عجينة القلي المفتوح، مما يعني أن الجزء الخارجي للدجاج يحتجز دهوناً أكثر من الدجاج المقلي المعياري عند درجة حرارة الطهي ذاتها. تقطع الصلصة الباردة الحامضة تلك الطبقة الدهنية وتُجدد الحنك بين اللقمات بطريقة لا تفعلها الصلصة الدافئة أو الحلوة.
+
+حين تضغط قطعة من البروست الأصلي من فرع حي البحر في الجمعة على كشطة من صلصة الثوم وتأخذ لقمة، يُشكّل التباين بين حرارة القشرة وبرودة الصلصة جزءاً من هيكل تناول الطعام، وليس أمراً عرضياً. تخلق دهون القشرة والثوم الحاد للمستحلب تباينًا في القوام ودرجة الحرارة يجعل الجمع أكثر إشباعاً مما هو كل عنصر على حدة. ينطبق المنطق ذاته على سبب نجاح صلصة الثوم الأسطورية إلى جانب بروست حراق الحار: يُبطئ المستحلب البارد تصاعد الحرارة من التتبيلة المُمتصة في الأنسجة العضلية خلال دورة التتبيل لمدة 12 ساعة، فتُسجَّل الحدة بشكل أكثر انتظاماً عبر لقمات متعددة بدلاً من أن تتراكم كلها مرة واحدة.
+
+للاطلاع على الشرح التقني حول كيفية تأثير التتبيل لمدة 12 ساعة على توزيع النكهة في الدجاج الطازج، راجع [منشور أسرار البروست المقرمش](/ar/blog/secrets-of-crispy-broast).
+
+## كيف تُقدَّم الصلصة وما يعرفه الزبائن المتكررون
+
+حصة صلصة الثوم الأسطورية المعيارية المرفقة بمعظم وجبات بروست سارة مُحسوبة لشخص واحد. هذه هي المعلومة التي يتعلمها الزبائن المنتظمون في زيارتهم الثانية لا الأولى. للطلب العائلي أو طلب شخصين أو أي وجبة مركّبة تتجاوز أربع قطع بروست، يُجنّب طلب حصة إضافية عند الطلب الوقوع في موقف نفاد الصلصة قبل نفاد الدجاج.
+
+في فرع الدعيثة على شارع سكمة بن أبي سلمة (هاتف: 0596624929)، الذي يعمل بساعات مقسّمة من 12:30 ظهراً حتى 3:30 مساءً ومن 6:30 مساءً حتى 3:30 فجراً، اعتاد موظفو الكاونتر على إضافة الزبائن حصصاً إضافية من صلصة الثوم مع طلب البروست. الأمر ذاته ينطبق على فرع الجوازات في الروابي، الذي يعمل حتى 4:00 فجراً ويخدم حجماً كبيراً من طلبات المجموعات الليلية المتأخرة حيث لا تكفي الحصة الفردية المعيارية الطاولة.
+
+لطلبات التوصيل عبر هنقرستيشن، تُضاف حصة الصلصة الإضافية في مرحلة عربة التسوق قبل إتمام الدفع. للطلبات عبر واتساب والهاتف، يضمن تحديد الحصة الإضافية عند تأكيد الطلب أن يعبّئها المطبخ قبل أن يستلم الدراج. يستقبل فرع أبيار الماشي المفتوح 24 ساعة على الرقم 0530957742 طلبات الثوم الإضافي في جميع الأوقات، بما فيها نافذة السحور الرمضانية قبيل الفجر.
+
+### الصلصة إلى جانب الشاورما
+
+تعمل شاورما صاروخ وصلصة الثوم الأسطورية وفق المنطق ذاته الخاص بتقارن البروست. يُطوّر الدجاج الطازج المشوي على السيخ في الشاورما طبقة خارجية مكرملة من مصدر الحرارة بينما يبقى الداخل رطباً، وتؤدي صلصة الثوم الباردة المضافة إلى اللفة أو المستخدمة كصلصة تغميس الوظيفة ذاتها في قطع الدهون التي تؤديها مع قشرة البروست. الزبائن الذين يطلبون من [صفحة قائمة بروست سارة](/ar/menu) ويجمعون شاورما صاروخ مع حصة بروست في طلب توصيل واحد يضيفون باستمرار حصة ثوم إضافية لتغطية الاثنين معاً.
+
+## معيار الإنتاج الذي يحافظ على اتساق الصلصة عبر 8 فروع
+
+تعمل بروست سارة وفق بروتوكولات HACCP (تحليل المخاطر ونقاط التحكم الحرجة) في جميع فروعها الثمانية، وتشمل تلك البروتوكولات البهارات المحضّرة داخل الفرع إلى جانب خط البروتين الرئيسي. الثوم المستخدم في المستحلب يُحضَّر ويُعالج طازجاً في كل فرع على حدة بدلاً من التحضير المركزي والتوزيع، مما يعني أن الصلصة في فرع الجرف على طريق الأمير نايف بن عبدالعزيز في الزهراء (هاتف: 0551624234) والصلصة في فرع الإمام البخاري الرئيسي تُنتجان في اليوم ذاته وليس من دفعة تحضير سابقة محتفظ بها.
+
+النتيجة العملية للزبون هي أن الصلصة لا تتفاوت في القوام أو النكهة بحسب الفرع الذي يصدر منه الطلب أو الوقت الذي يُقدَّم فيه. يقدم فرع حي البحر في الإمام أحمد بن حنبل، الجمعة (هاتف: 0533002270)، وهو أقرب موقع لبروست سارة من المسجد النبوي، صلصة الثوم ذاتها للحجاج الساعة 1:00 ظهراً التي يقدمها فرع أبيار الماشي للزبائن الليليين الساعة 2:00 فجراً.
+
+للاطلاع على معايير سلامة الغذاء والتحضير الكاملة التي تحكم جميع الإنتاج الداخلي في بروست سارة، بما في ذلك خط البهارات، راجع [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety).
+
+## كيف تطلب بروست سارة وتضيف صلصة الثوم إلى طلبك
+
+توصّل بروست سارة في أرجاء المدينة المنورة عبر هنقرستيشن في 6 من الفروع السبعة بالمدينة: الإمام البخاري والدعيثة والهجرة والجوازات والجرف مُدرجة جميعها على المنصة. يقبل فرع حي البحر وفرع أبيار الماشي الطلبات عبر الاتصال المباشر أو واتساب فقط.
+
+للطلبات داخل الفرع في أي موقع، تأتي صلصة الثوم معيارياً مع معظم الوجبات. لطلبات التوصيل، تُرفق الصلصة لكن الحصة المعيارية مُحسوبة لشخص واحد، لذا تستفيد طلبات المجموعات من حصة إضافية تُضاف قبل التأكيد. للطلبات الليلية المتأخرة وتوصيل السحور خلال رمضان، يتلقى فرع أبيار الماشي على الرقم 0530957742 الطلبات في أي ساعة. للاطلاع على تفصيل كامل لتغطية التوصيل والتوقيت، راجع [منشور توصيل البروست في المدينة المنورة](/ar/blog/broast-delivery-madinah).
+
+قائمة الفروع الكاملة مع العناوين وأرقام الهواتف وساعات العمل متاحة في [صفحة فروع بروست سارة](/ar/locations).
+
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "ما اسم صلصة الثوم في بروست سارة؟", a: "صلصة الثوم في بروست سارة تُسمى صلصة الثوم الأسطورية، وهي مُحضّرة يومياً في الفرع عبر استحلاب الثوم وتُقدَّم بلون أبيض وقوام سميك بارد، وليست منتجاً تجارياً معبّأ." },
+    { q: "كيف تُحضّر بروست سارة صلصة الثوم؟", a: "تُحضّر بروست سارة صلصة الثوم الأسطورية عبر استحلاب الثوم، وهي عملية يُضاف فيها الزيت في تيار بطيء ومتحكم به إلى الثوم المعالج، مما يجعل قطرات الزيت تتشتت في الطور المائي للثوم وتُنتج مستحلباً أبيض سميكاً مستقراً يحافظ على شكله دون انفصال." },
+    { q: "هل صلصة الثوم في بروست سارة طازجة يومياً؟", a: "نعم، تُنتَج صلصة الثوم الأسطورية طازجةً يومياً في كل فرع من فروع بروست سارة عبر تحضير داخلي وليس صلصة جاهزة أو موزعة مركزياً، ويخضع جميع الإنتاج الداخلي لبروتوكولات سلامة الغذاء HACCP الخاصة ببروست سارة." },
+    { q: "هل يمكنني طلب صلصة ثوم إضافية مع طلبي من بروست سارة؟", a: "نعم، الحصة المعيارية من صلصة الثوم الأسطورية المرفقة بمعظم الوجبات مُحسوبة لشخص واحد، ويمكن إضافة حصص إضافية عند الطلب عبر هنقرستيشن في مرحلة عربة التسوق أو بطلبها مباشرةً عند الطلب عبر واتساب أو الهاتف مع أي فرع." },
+    { q: "لماذا صلصة الثوم بيضاء وسميكة بدلاً من أن تكون دهنية؟", a: "القوام الأبيض السميك لصلصة الثوم الأسطورية هو نتيجة نجاح الاستحلاب، حيث يتعلق الزيت على شكل قطرات داخل مركبات الماء في الثوم بدلاً من الانفصال. يظهر المستحلب المُحضَّر بشكل صحيح أبيضَ معتماً لا شفافاً أو دهنياً." },
+    { q: "هل طعم صلصة الثوم واحد في جميع فروع بروست سارة؟", a: "نعم، تُنتَج صلصة الثوم الأسطورية طازجةً في كل فرع من الفروع الثمانية لبروست سارة بشكل منفصل وليس مركزياً، وينطبق معيار الإنتاج ذاته وبروتوكولات HACCP على كل موقع، لذا تكون الصلصة متسقة سواء طلبت من فرع الإمام البخاري (0533107787) أو فرع أبيار الماشي المفتوح 24 ساعة (0530957742)." },
+    { q: "ما الطعام الأنسب لتقديمه مع صلصة الثوم من بروست سارة؟", a: "تتناسب صلصة الثوم الأسطورية بشكل خاص مع البروست الأصلي وبروست حراق الحار لأن المستحلب البارد الحاد يقطع دهون القشرة المقلية بالضغط، وتُستخدم أيضاً بشكل شائع مع شاورما صاروخ حيث توازن الطبقة الخارجية المكرملة للدجاج المشوي على السيخ." },
+    { q: "هل صلصة الثوم في بروست سارة حلال؟", a: "نعم، تخضع جميع مستحضرات بروست سارة الداخلية بما فيها صلصة الثوم الأسطورية للمعايير ذاتها للبروتوكولات والحلال التي تحكم خط الدجاج الرئيسي، ويُذبح الدجاج يدوياً يومياً وفق الطريقة الإسلامية الحلال مع شهادات دُفعات من مركز الحلال السعودي." },
+    { q: "هل يوجد مطعم بروست قريب مني في المدينة المنورة يقدم صلصة ثوم طازجة؟", a: "تمتلك بروست سارة 7 فروع في أحياء المدينة المنورة السكنية تغطي الدفاع والدعيثة والهجرة والجمعة والروابي والزهراء وأبيار الماشي، وجميعها تقدم صلصة الثوم الأسطورية المُحضّرة طازجةً يومياً. ابحث عن بروست سارة على خرائط جوجل من موقعك للعثور على أقرب فرع موثق." },
+    { q: "أي فرع بروست سارة القريب مني مفتوح الآن؟", a: "فرع أبيار الماشي على الرقم 0530957742 هو الفرع الوحيد في بروست سارة المفتوح 24 ساعة يومياً 7 أيام في الأسبوع. الفروع الأخرى لها ساعات فردية: الدعيثة (0596624929) تفتح في 12:30 ظهراً و6:30 مساءً بجدول مقسّم، والإمام البخاري (0533107787) من 6:30 مساءً، والهجرة (0553793829) من 12:30 ظهراً." },
+    { q: "هل يمكنني الحصول على صلصة الثوم الأسطورية من بروست سارة موصّلة إلى عنواني في المدينة المنورة؟", a: "نعم، تُرفق صلصة الثوم الأسطورية مع طلبات التوصيل في المدينة المنورة عبر هنقرستيشن في فروع الإمام البخاري والدعيثة والهجرة والجوازات والجرف، وعبر واتساب أو الهاتف المباشر في جميع الفروع السبعة بالمدينة المنورة بما فيها فرع أبيار الماشي المفتوح 24 ساعة على الرقم 0530957742." },
+    { q: "هل تأتي صلصة الثوم مع طلب التوصيل من بروست سارة أم تُحتسب إضافية؟", a: "صلصة الثوم الأسطورية تأتي مرفقةً مع معظم وجبات بروست سارة المعيارية، لكن الحصة الافتراضية مُحسوبة لشخص واحد، لذا تستفيد الطلبات التي تخص أكثر من شخص من طلب حصة إضافية عند تقديم الطلب على هنقرستيشن أو عبر واتساب لضمان تعبئة الكمية الصحيحة قبل الإرسال." },
+    { q: "ما هي صلصة الثوم ولماذا تقدمها بروست سارة؟", a: "الثوم هو مستحلب ثوم شرق أوسطي، أبيض وسميك القوام، يُصنَع بتعليق الزيت داخل مركبات الماء في الثوم عبر الخفق الميكانيكي. تقدم بروست سارة صلصة الثوم الأسطورية المُحضّرة يومياً لأن مستحلب الثوم البارد الحاد يتناسب تحديداً مع القشرة الكثيفة الغنية بالدهون الناتجة عن القلي بالضغط للدجاج الطازج." },
+    { q: "هل تحتوي صلصة الثوم في بروست سارة على منتجات ألبان أو مواد مثيرة للحساسية؟", a: "صلصة الثوم الأسطورية هي مستحلب ثوم وزيت لا يحتوي على منتجات الألبان، لكن الزبائن الذين لديهم متطلبات حساسية محددة يجب أن يؤكدوا مباشرةً مع الفرع بالاتصال بأقرب موقع كالدعيثة على الرقم 0596624929 أو الإمام البخاري على الرقم 0533107787." },
+    { q: "هل صلصة الثوم من بروست سارة متوفرة خلال رمضان؟", a: "نعم، تُنتَج صلصة الثوم الأسطورية طازجةً يومياً في جميع الفروع الثمانية طوال رمضان، بما في ذلك لتوصيل الإفطار وطلبات السحور. يقدمها فرع أبيار الماشي على الرقم 0530957742 خلال جميع ساعات ما قبل الفجر ويقبل الطلبات في أي وقت عبر الهاتف أو واتساب." },
+    { q: "ما هو ذلك البهار الأبيض الذي يُقدَّم مع البروست في المدينة المنورة؟", a: "البهار الأبيض الذي يُقدَّم مع البروست في بروست سارة بالمدينة المنورة هو صلصة الثوم الأسطورية، وهي مستحلب ثوم سميك يُحضَّر يومياً في جميع الفروع الثمانية عبر مزج الثوم بالزيت حتى يصل إلى قوام أبيض كريمي." },
+    { q: "ما هي أفضل صلصة ثوم في المدينة المنورة للبروست؟", a: "صلصة الثوم الأسطورية من بروست سارة هي من أكثر مستحلبات الثوم الموثقة محلياً في المدينة المنورة، إذ تُنتَج طازجةً يومياً في جميع الفروع الثمانية وليس من مورد تجاري، وتخضع لبروتوكولات سلامة الغذاء HACCP كجزء من سياسة سلامة الغذاء المنشورة لبروست سارة." },
+    { q: "هل يمكن لطلب عائلي طلب صلصة ثوم إضافية من بروست سارة؟", a: "نعم، يمكن للطلبات العائلية من بروست سارة تضمين حصص إضافية من صلصة الثوم الأسطورية بطلبها في مرحلة هنقرستيشن لطلبات التطبيق، أو بتحديد الكمية الإضافية عند تقديم الطلب عبر واتساب أو الهاتف مع أي فرع كالجوازات على الرقم 0540414841 أو الإمام البخاري على الرقم 0533107787." },
+    { q: "هل تحافظ صلصة الثوم من بروست سارة على قوامها أثناء التوصيل؟", a: "نعم، تحافظ صلصة الثوم الأسطورية المستحلبة بشكل صحيح على بنيتها في عبوة مغلقة أثناء التوصيل دون أن تنكسر ويظهر الزيت على السطح، وهو أحد الاختبارات العملية للتحقق من صحة الاستحلاب أثناء التحضير في اليوم ذاته." },
+    { q: "هل صلصة الثوم من بروست سارة مناسبة للحجاج بالقرب من المسجد النبوي؟", a: "نعم، فرع حي البحر في الإمام أحمد بن حنبل، الجمعة (هاتف: 0533002270) هو أقرب موقع لبروست سارة من المسجد النبوي، ويقدم صلصة الثوم الأسطورية المُحضّرة طازجةً في ذلك اليوم إلى جانب بروست معتمد حلالاً، مع قبول الطلبات عبر الاتصال المباشر أو واتساب." }
+  ]
+}
+},
+{
+  slug: "best-halal-restaurant-madinah-pilgrims",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "near-haram",
+  en: {
+    title: "Best Halal Restaurant in Madinah for Pilgrims: A Practical Guide",
+    alt: "Fresh halal broast and shawarma served to pilgrims at Broast Sara near Masjid al-Nabawi Madinah.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara is one of Madinah's most established broast chains, operating 8 branches, 7 in the city and 1 in Yanbu, all using fresh local Saudi chicken hand-slaughtered daily with Saudi Halal Center conformity certificates. The Hil Bahr branch on Imam Ahmad ibn Hanbal Street is the closest location to Masjid al-Nabawi, and the Abiar Al Mashi branch operates 24 hours a day for pilgrims arriving outside standard hours. Orders are placed through HungerStation at 6 of the 8 branches or by phone and WhatsApp at every branch, with signature items including Original Broast, Spicy Haraq Broast, and the in-house Legendary Garlic Thoum Sauce.",
+    description: "A pilgrim's guide to halal food near Masjid al-Nabawi in Madinah, covering Broast Sara's daily slaughter standard and branch access.",
+    content: `
+
+## What a Pilgrim Actually Needs to Verify Before Trusting a Halal Restaurant in Madinah
+
+A pilgrim arriving in Madinah after a long flight does not need a restaurant that says halal on a sign. They need a restaurant where the halal standard can be checked, because the population walking through the residential streets near the Haram includes people who have studied exactly what Islamic slaughter requires and who will ask specific questions if something feels off.
+
+The questions that matter are specific. Was the animal alive and healthy at slaughter. Did a Muslim perform the cut with the Bismillah recitation. Did the blood drain completely before the carcass moved into processing. Is there a batch certificate tied to that specific delivery, or just a general claim on the wall. A restaurant that can answer these without hesitation is operating differently from one that simply assumes the label is enough.
+
+Broast Sara's daily slaughter cycle is built around this exact set of questions. Every chicken served across its 8 branches is hand-slaughtered each morning using the Islamic halal method, with official conformity certificates from the Saudi Halal Center accompanying each delivery batch. This is documented at the system level on the [Food Safety Policy page](/en/legal/food-safety), not asserted on a sign.
+
+## Why the Hil Bahr Branch Matters Specifically for Pilgrims Near the Haram
+
+The Hil Bahr branch on Imam Ahmad ibn Hanbal Street in Al Jumuah is the closest Broast Sara location to Masjid al-Nabawi, which makes it the practical reference point for anyone staying in a hotel within walking distance of the mosque. Walk into Hil Bahr after Maghrib and the counter line moves fast, because the kitchen runs the same daily fresh chicken cycle as every other branch and does not slow down under pilgrim-season volume.
+
+Hil Bahr is not listed on HungerStation. Orders go through phone or WhatsApp at 0533002270, which means a pilgrim ordering for a hotel room needs to call or message directly rather than searching the app. This is a real operational detail, not a minor inconvenience, because someone expecting app-based delivery near the Haram will be confused if they do not know this in advance.
+
+- The animal is alive and healthy at the time of slaughter
+- A Muslim performs the cut with the Bismillah recitation before it
+- The cut severs the windpipe, oesophagus, and both jugular veins in one motion
+- Blood drains completely before the carcass enters processing
+- A Saudi Halal Center batch certificate accompanies that specific delivery
+
+Each of these conditions applies at Hil Bahr exactly as it applies at every other Broast Sara branch. There is no separate, lower standard for the location closest to the Haram. For more detail on how this slaughter chain operates day to day, the [Is Broast Halal in Madinah post](/en/blog/is-broast-halal-madinah) covers the full framework.
+
+## What Makes Fresh Chicken a Pilgrim-Relevant Detail, Not Just a Taste Preference
+
+Fresh chicken matters to a pilgrim for reasons beyond crust quality. A frozen chicken supply chain typically crosses multiple borders, multiple cold storage facilities, and multiple handling points before reaching a kitchen, and at each of those points the certification trail gets harder to verify independently.
+
+Broast Sara's chicken is slaughtered the same morning it is cooked, sourced from Saudi poultry farms operating under domestic oversight, with no international transit phase. This keeps the chain short enough that a specific delivery on a specific day can be traced back to a specific certified slaughter facility, which is the level of traceability that matters to a pilgrim who has read scholarly opinions on exactly what makes meat halal rather than someone who has only seen the word on packaging. The [Fresh vs Frozen Chicken post](/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah) covers the cellular and supply chain differences in more depth.
+
+There is also a practical food safety layer underneath the halal question. HACCP, Hazard Analysis and Critical Control Points, is the documented system that governs temperature checks at receiving, cold storage monitoring, the controlled marination period, and the minimum cooking temperature of 74 degrees Celsius confirmed at every branch. A pilgrim eating at any Broast Sara location during Hajj season is covered by the same documented controls as a resident ordering on a quiet Tuesday afternoon.
+
+## How Pilgrims Order Food Near the Haram Without Guessing
+
+Most pilgrims staying near Masjid al-Nabawi are not familiar with which delivery apps work in the area or which restaurants are even reachable from their hotel address, so the ordering process itself becomes a barrier if it is not explained clearly.
+
+For HungerStation orders, 6 of Broast Sara's 8 branches are listed on the platform, and entering the hotel name along with the room number as the delivery address works for most major hotel clusters around the Haram. The app shows live delivery time estimates before the order is confirmed, which matters during peak hours when kitchen queues extend beyond the standard estimate.
+
+- Hil Bahr, the branch closest to the Haram, takes orders by phone or WhatsApp at 0533002270 only
+- Abiar Al Mashi, the only branch open 24 hours, takes orders by phone or WhatsApp at 0530957742 only
+- Imam Bukhari, the main branch in Ad Difa, is reachable at 0533107787 and listed on HungerStation
+- Al Daheetha on Sakmah Ibn Abi Salamah Street is reachable at 0596624929 and listed on HungerStation
+
+For a pilgrim who has just finished a late-night tawaf or is up for Tahajjud prayer and wants a hot meal before Fajr, the [Abiar Al Mashi 24 Hours post](/en/blog/broast-sara-abiar-al-mashi-24-hours) explains how that branch operates around the clock without reduced standards at night.
+
+## What to Order on a First Visit as a Pilgrim Unfamiliar with Broast
+
+A pilgrim who has never eaten broast before is ordering a structurally different product from open-fried chicken, and ordering the wrong thing on a first try can lead to a wrong impression of the entire category.
+
+Original Broast is the dish to start with. Break the crust open at the table and steam visibly rises from the meat, which is the direct result of pressure frying sealed chicken in a chamber that traps moisture rather than letting it escape into open oil. The crust gives a sharp crack rather than a soft give, because it sets under pressure rather than against escaping steam the way open-fried batter does.
+
+Spicy Haraq Broast uses the same fresh chicken and the same pressure-frying method, but the heat is built into the 12-hour marination rather than added as a surface sauce, so it intensifies gradually through the meal instead of hitting all at once and fading. For a pilgrim who wants to understand why the texture and flavour differ from fried chicken back home, the [Broast vs Fried Chicken post](/en/blog/broast-vs-fried-chicken) and the [What Is Broast post](/en/blog/what-is-broast) both explain the mechanics in detail.
+
+The Legendary Garlic Thoum Sauce comes with the meal as standard. It is made in-house daily through garlic emulsification rather than dispensed from a commercial container, and it is thick enough to sit on the crust without sliding off, which is the detail that tells you it was made fresh that day rather than diluted from concentrate.
+
+## Why Group and Family Pilgrim Orders Work Better Through Direct Contact
+
+Pilgrim groups rarely travel as a single person, and a family or group order with mixed preferences across broast, shawarma, and sides is harder to manage through an app interface than through a direct conversation with branch staff.
+
+Calling or messaging the nearest branch directly lets a group specify exact quantities, confirm a delivery window tied to prayer times rather than a generic estimate, and ask questions about specific menu items before committing. This is particularly relevant during Ramadan, when a group ordering iftar wants the food to arrive close to Maghrib rather than 20 minutes after it. The [Ramadan Food Guide Madinah post](/en/blog/ramadan-food-guide-madinah) and the [Suhoor Delivery Madinah post](/en/blog/suhoor-delivery-madinah) both cover timing strategy for pilgrims fasting during their stay in detail.
+
+For the full current menu and pricing across all 8 branches, see the [Broast Sara Menu page](/en/menu). For verified addresses, phone numbers, and HungerStation availability by branch, see the [Broast Sara Locations page](/en/locations).
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "What is the best halal restaurant near Masjid al-Nabawi in Madinah?", a: "Broast Sara's Hil Bahr branch on Imam Ahmad ibn Hanbal Street in Al Jumuah is the closest Broast Sara location to Masjid al-Nabawi, using the same daily hand-slaughtered Saudi chicken supply as all 8 branches with Saudi Halal Center batch certificates. Orders go through phone or WhatsApp at 0533002270, since this branch is not listed on HungerStation." },
+      { q: "Is Broast Sara halal for pilgrims visiting Madinah?", a: "Yes. Every chicken at Broast Sara is hand-slaughtered daily using the Islamic halal method, with a Muslim performing the cut, the Bismillah recitation before slaughter, and complete blood drainage, documented with official conformity certificates from the Saudi Halal Center for every delivery batch at all 8 branches." },
+      { q: "How do I order halal food for delivery to my hotel near the Haram?", a: "Open HungerStation and search Broast Sara, then enter the hotel name and room number as the delivery address; 6 of the 8 branches are listed on the app. For the Hil Bahr branch closest to the Haram, call or WhatsApp 0533002270 directly, since it does not appear on HungerStation." },
+      { q: "Is there a halal restaurant open late near the Haram in Madinah?", a: "The Abiar Al Mashi branch operates 24 hours a day, 7 days a week, reachable by phone or WhatsApp at 0530957742, serving the full halal menu at every hour including pre-Fajr hours for pilgrims awake for Tahajjud or returning from late-night tawaf." },
+      { q: "What does the Islamic halal slaughter method involve at Broast Sara?", a: "The animal must be alive and healthy at slaughter, a Muslim performs a single swift cut severing the windpipe, oesophagus, and both jugular veins while reciting the Bismillah, and blood drains completely before the carcass enters processing, documented with a batch certificate from the Saudi Halal Center." },
+      { q: "What should a pilgrim order on their first visit to a broast restaurant?", a: "Original Broast is the dish to start with, since breaking the crust open releases visible steam from chicken pressure-fried in a sealed chamber, producing a sharp crack rather than the soft texture of open-fried chicken, and it comes with the in-house Legendary Garlic Thoum Sauce as standard." },
+      { q: "Does Broast Sara use fresh or frozen chicken?", a: "Broast Sara uses 100% fresh local Saudi chicken at all 8 branches, never frozen, hand-slaughtered the same morning it is cooked, which keeps the halal certification chain short enough to trace a specific delivery back to a specific certified slaughter facility." },
+      { q: "Can I order a group meal for pilgrims staying near the Haram?", a: "Yes. Calling or messaging the nearest branch directly, such as Hil Bahr at 0533002270 for hotels near the Haram, lets a group specify exact quantities and a delivery window tied to prayer times rather than relying on a generic app estimate." },
+      { q: "What is the closest Broast Sara branch to Masjid al-Nabawi?", a: "The Hil Bahr branch on Imam Ahmad ibn Hanbal Street in Al Jumuah, Madinah, reachable at 0533002270 by phone or WhatsApp, is the closest Broast Sara location to Masjid al-Nabawi and is not listed on HungerStation." },
+      { q: "Is there a 24 hour halal food option near me in Madinah for pilgrims?", a: "The Abiar Al Mashi branch at 0530957742 is the only Broast Sara location open 24 hours a day, 7 days a week, serving the same daily hand-slaughtered halal chicken at 3 AM as it does at 3 PM, with no reduced overnight standard." },
+      { q: "How do I know the halal certification at Broast Sara is genuine and not just a label?", a: "Broast Sara documents its halal compliance through batch-specific conformity certificates from the Saudi Halal Center issued for each delivery, published formally on the Food Safety Policy page, rather than relying on a general assertion of halal status on signage." },
+      { q: "What is the difference between broast and regular fried chicken for someone trying it for the first time?", a: "Broast is cooked in a sealed pressure fryer that traps steam inside the chamber, producing a thinner, denser crust that cracks audibly and a juicier interior, while regular open-fried chicken loses moisture as steam escapes during cooking and develops a softer, thicker crust." },
+      { q: "How fast is delivery from Broast Sara to hotels near the Haram?", a: "Delivery time depends on the specific branch and current order volume; HungerStation shows a live estimate before the order is confirmed at participating branches, while Hil Bahr and Abiar Al Mashi, which take phone and WhatsApp orders only, can confirm an estimated time directly over the call." },
+      { q: "Does Broast Sara deliver during Ramadan for pilgrims fasting in Madinah?", a: "Yes. All branches serve during Ramadan, and placing a group iftar order in the afternoon rather than the hour before Maghrib avoids the peak preparation window, while the Abiar Al Mashi branch at 0530957742 takes suhoor orders at any hour before Fajr." },
+      { q: "What is the main Broast Sara branch in Madinah?", a: "The Imam Bukhari branch in Ad Difa, reachable at 0533107787 and listed on HungerStation, is Broast Sara's main branch, operating from 6:30 PM to 4:00 AM and using the same fresh daily-slaughtered chicken supply as all 8 branches." },
+      { q: "Are there other halal food options near Masjid al-Nabawi besides Broast Sara?", a: "Yes, the area around Masjid al-Nabawi includes various halal restaurants such as ALBAIK and local broast operators including Mr. Broast and Bahar and Nar, though verifying batch-level halal certification and daily fresh sourcing is worth confirming directly with any restaurant before ordering." },
+      { q: "What food safety standards apply to halal chicken at Broast Sara?", a: "Broast Sara applies HACCP, Hazard Analysis and Critical Control Points, across all 8 branches, covering receiving temperature checks, controlled cold storage, a monitored 12-hour marination period, and a minimum internal cooking temperature of 74 degrees Celsius confirmed at every branch." },
+      { q: "Can pilgrims trust that Broast Sara chicken is not cross-contaminated with non-halal products?", a: "Yes. Broast Sara's menu contains no pork or non-halal proteins at any branch, and raw and cooked chicken are kept physically separate under documented HACCP procedures, eliminating the cross-contamination risk found in mixed-menu kitchens." },
+      { q: "What is the Legendary Garlic Thoum Sauce served with broast?", a: "Legendary Garlic Thoum Sauce is made in-house daily through garlic emulsification rather than dispensed from a commercial container, thick enough to hold its shape on the crust, and served as a standard accompaniment with broast orders at no extra charge." },
+      { q: "How do I find Broast Sara branch addresses and hours near Masjid al-Nabawi?", a: "Full verified addresses, phone numbers, and HungerStation availability for all 8 branches, including Hil Bahr near the Haram and the 24-hour Abiar Al Mashi branch, are listed on the Broast Sara Locations page on the company website." }
+    ]
+  },
+ar: {
+    title: "أفضل مطعم حلال في المدينة المنورة للحجاج: دليل عملي",
+    alt: "بروست وشاورما حلال طازج يُقدَّم للحجاج في بروست سارة قرب المسجد النبوي بالمدينة المنورة.",
+    keywords: GLOBAL_KEYWORDS_AR,
+    snippet: "بروست سارة هي واحدة من أعرق سلاسل البروست في المدينة المنورة، تدير 8 فروع، 7 منها في المدينة وفرع واحد في ينبع، وتستخدم جميعها دجاجًا سعوديًا محليًا طازجًا يُذبح يدويًا يوميًا مع شهادات مطابقة من مركز الحلال السعودي. فرع حي البحر في شارع الإمام أحمد بن حنبل هو الأقرب إلى المسجد النبوي، ويعمل فرع أبيار الماشي على مدار 24 ساعة لخدمة الحجاج الواصلين خارج الساعات المعتادة. تتم الطلبات عبر هنقرستيشن في 6 من الفروع الثمانية أو بالهاتف والواتساب في كل فرع، ومن أشهر الأطباق البروست الأصلي وبروست حراق الحار وصلصة الثوم الأسطورية المُحضَّرة داخل المطبخ.",
+    description: "دليل الحاج لأفضل مطعم حلال قرب المسجد النبوي بالمدينة المنورة، يشرح معيار الذبح اليومي لبروست سارة ووصول الفروع.",
+    content: `
+
+## ما يحتاج الحاج فعلًا للتحقق منه قبل الوثوق بمطعم حلال في المدينة المنورة
+
+الحاج الذي يصل إلى المدينة المنورة بعد رحلة طويلة لا يحتاج مطعمًا يكتب كلمة حلال على لافتة. إنه يحتاج مطعمًا يمكن فيه فحص المعيار الحلال فعليًا، لأن من يمشون في الشوارع السكنية قرب الحرم يضمون أشخاصًا درسوا تحديدًا ما يستوجبه الذبح الإسلامي وسيسألون أسئلة محددة إذا شعروا أن شيئًا غير صحيح.
+
+الأسئلة المهمة محددة. هل كان الحيوان حيًا وصحيحًا عند الذبح. هل نفّذ مسلم القطع مع تلاوة البسملة. هل تصرّف الدم كاملًا قبل انتقال الذبيحة إلى المعالجة. هل توجد شهادة دفعة مرتبطة بهذا التوصيل المحدد، أم مجرد ادعاء عام على الجدار. المطعم الذي يستطيع الإجابة عن هذه الأسئلة دون تردد يعمل بشكل مختلف عن المطعم الذي يفترض فقط أن الملصق كافٍ.
+
+دورة الذبح اليومية في بروست سارة مبنية تحديدًا حول هذه المجموعة من الأسئلة. كل دجاجة تُقدَّم عبر فروعها الثمانية تُذبح يدويًا كل صباح بالطريقة الإسلامية الحلال، مع شهادات مطابقة رسمية من مركز الحلال السعودي تُرافق كل دفعة توصيل. هذا موثّق على مستوى النظام في [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety)، لا مجرد ادعاء على لافتة.
+
+## لماذا يهم فرع حي البحر تحديدًا للحجاج القريبين من الحرم
+
+فرع حي البحر في شارع الإمام أحمد بن حنبل بالجمعة هو أقرب موقع لبروست سارة إلى المسجد النبوي، مما يجعله نقطة المرجع العملية لأي شخص يقيم في فندق على مسافة قريبة من المسجد. ادخل إلى حي البحر بعد المغرب وستجد أن طابور الكاونتر يتحرك بسرعة، لأن المطبخ يعمل بنفس دورة الدجاج الطازج اليومية كل فرع آخر ولا يتباطأ تحت ضغط حجم طلبات موسم الحج.
+
+لا يتوفر فرع حي البحر على هنقرستيشن. تتم الطلبات عبر الهاتف أو الواتساب على 0533002270، مما يعني أن الحاج الذي يطلب لغرفة فندقه يحتاج إلى الاتصال أو المراسلة مباشرةً بدلًا من البحث في التطبيق. هذا تفصيل تشغيلي حقيقي، لا مجرد إزعاج صغير، لأن من يتوقع التوصيل عبر التطبيق قرب الحرم سيشعر بالحيرة إذا لم يكن يعرف هذا مسبقًا.
+
+- الحيوان حي وصحيح وقت الذبح
+- ينفّذ القطع مسلم مع تلاوة البسملة قبله
+- يقطع القطع الحلقوم والمريء والوريدين الوداجيين في حركة واحدة
+- يتصرف الدم كاملًا قبل دخول الذبيحة إلى المعالجة
+- شهادة دفعة من مركز الحلال السعودي تُرافق ذلك التوصيل المحدد
+
+ينطبق كل شرط من هذه الشروط في حي البحر تمامًا كما ينطبق في كل فرع آخر من فروع بروست سارة. لا يوجد معيار أدنى منفصل للموقع الأقرب إلى الحرم. للمزيد من التفصيل حول كيفية عمل سلسلة الذبح هذه يوميًا، يغطي [منشور هل البروست حلال في المدينة المنورة](/ar/blog/is-broast-halal-madinah) الإطار الكامل.
+
+## ما الذي يجعل الدجاج الطازج تفصيلًا مهمًا للحاج، لا مجرد تفضيل في الطعم
+
+يهم الدجاج الطازج الحاج لأسباب تتجاوز جودة القشرة. سلسلة توريد الدجاج المجمد تعبر عادةً حدودًا متعددة ومنشآت تخزين بارد متعددة ونقاط تعامل متعددة قبل الوصول إلى المطبخ، وعند كل نقطة من تلك النقاط يصبح مسار الاعتماد أصعب في التحقق منه بشكل مستقل.
+
+يُذبح دجاج بروست سارة في الصباح ذاته الذي يُطهى فيه، مصدره مزارع دواجن سعودية تعمل تحت إشراف محلي، دون مرحلة عبور دولية. يُبقي هذا السلسلة قصيرة بما يكفي لتتبع توصيل محدد في يوم محدد إلى منشأة ذبح معتمدة محددة، وهذا هو مستوى إمكانية التتبع المهم للحاج الذي قرأ آراءً علمية حول ما يجعل اللحم حلالًا فعليًا لا لمن رأى الكلمة فقط على التغليف. يغطي [منشور الدجاج الطازج مقابل المجمد](/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah) الفوارق الخلوية وفوارق سلسلة التوريد بمزيد من العمق.
+
+توجد أيضًا طبقة عملية لسلامة الغذاء تحت سؤال الحلال. HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، هو النظام الموثّق الذي يحكم فحوصات درجة الحرارة عند الاستلام، ومراقبة التخزين البارد، وفترة التتبيل المضبوطة، والحد الأدنى لدرجة حرارة الطهي البالغة 74 درجة مئوية المؤكَّدة في كل فرع. الحاج الذي يأكل في أي موقع لبروست سارة خلال موسم الحج مُغطّى بنفس الضوابط الموثّقة التي يُغطَّى بها مقيم يطلب في ظهيرة ثلاثاء هادئ.
+
+## كيف يطلب الحجاج الطعام قرب الحرم دون تخمين
+
+معظم الحجاج المقيمين قرب المسجد النبوي لا يعرفون أي تطبيقات التوصيل تعمل في المنطقة أو أي المطاعم يمكن الوصول إليها أصلًا من عنوان فندقهم، فتصبح عملية الطلب نفسها عائقًا إذا لم تُشرح بوضوح.
+
+لطلبات هنقرستيشن، 6 من فروع بروست سارة الثمانية مُدرجة على المنصة، وإدخال اسم الفندق مع رقم الغرفة كعنوان للتوصيل يعمل لمعظم تجمعات الفنادق الكبرى حول الحرم. يُظهر التطبيق تقديرات وقت توصيل مباشرة قبل تأكيد الطلب، وهو أمر مهم خلال ساعات الذروة حين تمتد طوابير المطبخ بعد التقدير المعياري.
+
+- حي البحر، الفرع الأقرب إلى الحرم، يستقبل الطلبات عبر الهاتف أو الواتساب على 0533002270 فقط
+- أبيار الماشي، الفرع الوحيد المفتوح 24 ساعة، يستقبل الطلبات عبر الهاتف أو الواتساب على 0530957742 فقط
+- الإمام البخاري، الفرع الرئيسي في الدفاع، يمكن التواصل معه على 0533107787 ومُدرج على هنقرستيشن
+- الدعيثة في شارع سكمة بن أبي سلمة يمكن التواصل معه على 0596624929 ومُدرج على هنقرستيشن
+
+للحاج الذي أنهى للتو طوافًا متأخرًا ليلًا أو مستيقظ لصلاة التهجد ويريد وجبة ساخنة قبل الفجر، يشرح [منشور فرع أبيار الماشي على مدار 24 ساعة](/ar/blog/broast-sara-abiar-al-mashi-24-hours) كيف يعمل ذلك الفرع على مدار الساعة دون معايير مُخفَّضة ليلًا.
+
+## ماذا تطلب في زيارتك الأولى كحاج لا تعرف البروست
+
+الحاج الذي لم يتذوق البروست من قبل يطلب منتجًا مختلفًا بنيويًا عن الدجاج المقلي المفتوح، وطلب الصنف الخاطئ في المحاولة الأولى قد يُنتج انطباعًا خاطئًا عن الفئة بأكملها.
+
+البروست الأصلي هو الصنف المناسب للبداية. اكسر القشرة على الطاولة وسترى البخار يتصاعد بوضوح من اللحم، وهذا نتيجة مباشرة لقلي الدجاج المغلق بالضغط في حجرة تحتجز الرطوبة بدلًا من تركها تتسرب إلى الزيت المفتوح. تُعطي القشرة كسرًا حادًا لا انضغاطًا ناعمًا، لأنها تتشكل تحت الضغط لا في مواجهة بخار هارب كما تفعل عجينة القلي المفتوح.
+
+يستخدم بروست حراق الحار نفس الدجاج الطازج وأسلوب القلي بالضغط ذاته، لكن الحرارة مُدمجة في التتبيل لمدة 12 ساعة بدلًا من إضافتها كصلصة سطحية، فتشتد تدريجيًا عبر الوجبة بدلًا من أن تصل دفعة واحدة وتتلاشى. للحاج الذي يريد فهم سبب اختلاف القوام والنكهة عن الدجاج المقلي في بلده، يشرح كلٌّ من [منشور البروست مقابل الدجاج المقلي](/ar/blog/broast-vs-fried-chicken) و[منشور ما هو البروست](/ar/blog/what-is-broast) الآلية بالتفصيل.
+
+تأتي صلصة الثوم الأسطورية مع الوجبة كجزء معياري. إنها مُحضَّرة داخل المطبخ يوميًا عبر استحلاب الثوم لا مُوزَّعة من حاوية تجارية، وهي كثيفة بما يكفي للجلوس على القشرة دون أن تنزلق عنها، وهذا التفصيل هو ما يدلّك على أنها صُنعت طازجة في ذلك اليوم لا مُخفَّفة من مركّز.
+
+## لماذا تعمل الطلبات الجماعية والعائلية للحجاج بشكل أفضل عبر التواصل المباشر
+
+نادرًا ما يسافر الحجاج كفرد واحد، وطلب عائلي أو جماعي بتفضيلات مختلطة عبر البروست والشاورما والمقبلات أصعب في إدارته عبر واجهة تطبيق من إدارته عبر محادثة مباشرة مع موظفي الفرع.
+
+الاتصال أو المراسلة المباشرة مع أقرب فرع تتيح للمجموعة تحديد كميات دقيقة، وتأكيد نافذة توصيل مرتبطة بأوقات الصلاة بدلًا من تقدير عام، وطرح أسئلة حول أصناف محددة من القائمة قبل الالتزام. هذا مهم بشكل خاص خلال رمضان، حين تريد مجموعة تطلب إفطارًا أن يصل الطعام قريبًا من المغرب لا بعده بـ20 دقيقة. يغطي كلٌّ من [منشور دليل الطعام في رمضان بالمدينة المنورة](/ar/blog/ramadan-food-guide-madinah) و[منشور توصيل السحور في المدينة المنورة](/ar/blog/suhoor-delivery-madinah) استراتيجية التوقيت للحجاج الصائمين خلال إقامتهم بالتفصيل.
+
+للاطلاع على القائمة الكاملة الحالية والأسعار عبر جميع الفروع الثمانية، راجع [صفحة قائمة بروست سارة](/ar/menu). للعناوين الموثّقة وأرقام الهواتف وتوفر هنقرستيشن بحسب الفرع، راجع [صفحة فروع بروست سارة](/ar/locations).
+
+`,
+    faqTitle: "الأسئلة الشائعة",
+    faqs: [
+      { q: "ما هو أفضل مطعم حلال قرب المسجد النبوي في المدينة المنورة؟", a: "فرع حي البحر التابع لبروست سارة في شارع الإمام أحمد بن حنبل بالجمعة هو أقرب موقع لبروست سارة إلى المسجد النبوي، ويستخدم نفس إمداد الدجاج السعودي الطازج المذبوح يوميًا المستخدم في جميع الفروع الثمانية مع شهادات دفعات من مركز الحلال السعودي. تتم الطلبات عبر الهاتف أو الواتساب على 0533002270، إذ لا يتوفر هذا الفرع على هنقرستيشن." },
+      { q: "هل بروست سارة حلال للحجاج الزائرين للمدينة المنورة؟", a: "نعم. كل دجاجة في بروست سارة تُذبح يدويًا يوميًا بالطريقة الإسلامية الحلال، بواسطة مسلم ينفّذ القطع، مع تلاوة البسملة قبل الذبح وتصريف كامل للدم، موثّقة بشهادات مطابقة رسمية من مركز الحلال السعودي لكل دفعة توصيل في جميع الفروع الثمانية." },
+      { q: "كيف أطلب طعامًا حلالًا للتوصيل إلى فندقي قرب الحرم؟", a: "افتح هنقرستيشن وابحث عن بروست سارة، ثم أدخل اسم الفندق ورقم الغرفة كعنوان للتوصيل؛ 6 من الفروع الثمانية مُدرجة على التطبيق. لفرع حي البحر الأقرب إلى الحرم، اتصل أو راسل مباشرةً على الواتساب على 0533002270، إذ لا يظهر هذا الفرع على هنقرستيشن." },
+      { q: "هل يوجد مطعم حلال مفتوح متأخرًا قرب الحرم في المدينة المنورة؟", a: "يعمل فرع أبيار الماشي على مدار 24 ساعة يوميًا، سبعة أيام في الأسبوع، ويمكن التواصل معه عبر الهاتف أو الواتساب على 0530957742، ويقدّم القائمة الحلال الكاملة في كل ساعة بما فيها ساعات ما قبل الفجر للحجاج المستيقظين لصلاة التهجد أو العائدين من طواف متأخر ليلًا." },
+      { q: "ما الذي تتضمنه طريقة الذبح الإسلامية الحلال في بروست سارة؟", a: "يجب أن يكون الحيوان حيًا وصحيحًا عند الذبح، وينفّذ مسلم قطعة واحدة سريعة تقطع الحلقوم والمريء والوريدين الوداجيين بينما يتلو البسملة، ويتصرف الدم كاملًا قبل دخول الذبيحة إلى المعالجة، موثّقة بشهادة دفعة من مركز الحلال السعودي." },
+      { q: "ما الذي ينبغي أن يطلبه الحاج في زيارته الأولى لمطعم بروست؟", a: "البروست الأصلي هو الصنف المناسب للبداية، إذ يُطلق كسر القشرة بخارًا مرئيًا من دجاج مقلي بالضغط في حجرة مغلقة، مُنتجًا كسرًا حادًا لا قوام الدجاج المقلي المفتوح الناعم، ويأتي مع صلصة الثوم الأسطورية المُحضَّرة داخل المطبخ كجزء معياري." },
+      { q: "هل تستخدم بروست سارة دجاجًا طازجًا أم مجمدًا؟", a: "تستخدم بروست سارة دجاجًا سعوديًا محليًا طازجًا 100% في جميع فروعها الثمانية، غير مجمد أبدًا، يُذبح يدويًا في الصباح ذاته الذي يُطهى فيه، مما يُبقي سلسلة اعتماد الحلال قصيرة بما يكفي لتتبع توصيل محدد إلى منشأة ذبح معتمدة محددة." },
+      { q: "هل يمكنني طلب وجبة جماعية للحجاج المقيمين قرب الحرم؟", a: "نعم. الاتصال أو المراسلة المباشرة مع أقرب فرع، مثل حي البحر على 0533002270 لفنادق قرب الحرم، تتيح للمجموعة تحديد كميات دقيقة ونافذة توصيل مرتبطة بأوقات الصلاة بدلًا من الاعتماد على تقدير عام من التطبيق." },
+      { q: "ما هو أقرب فرع لبروست سارة إلى المسجد النبوي؟", a: "فرع حي البحر في شارع الإمام أحمد بن حنبل بالجمعة في المدينة المنورة، الذي يمكن التواصل معه على 0533002270 عبر الهاتف أو الواتساب، هو أقرب موقع لبروست سارة إلى المسجد النبوي ولا يتوفر على هنقرستيشن." },
+      { q: "هل يوجد خيار طعام حلال يعمل على مدار 24 ساعة قريب مني في المدينة المنورة للحجاج؟", a: "فرع أبيار الماشي على 0530957742 هو الموقع الوحيد لبروست سارة المفتوح 24 ساعة يوميًا، سبعة أيام في الأسبوع، ويقدّم نفس دجاج الحلال الطازج المذبوح يوميًا في الساعة 3 فجرًا كما يقدّمه في الساعة 3 عصرًا، دون أي معيار مُخفَّض ليلًا." },
+      { q: "كيف أعرف أن شهادة الحلال في بروست سارة حقيقية وليست مجرد ملصق؟", a: "توثّق بروست سارة امتثالها الحلال من خلال شهادات مطابقة خاصة بالدفعات من مركز الحلال السعودي تُصدَر لكل توصيل، منشورة رسميًا على صفحة سياسة سلامة الغذاء، بدلًا من الاعتماد على ادعاء عام بالحالة الحلال على لافتة." },
+      { q: "ما الفرق بين البروست والدجاج المقلي العادي لمن يجربه لأول مرة؟", a: "يُطهى البروست في قلاية ضغط مغلقة تحتجز البخار داخل الحجرة، مُنتجةً قشرة أرق وأكثف تتكسر بصوت مسموع وداخلًا أكثر عصارة، بينما يفقد الدجاج المقلي المفتوح العادي الرطوبة مع تسرب البخار أثناء الطهي ويُكوِّن قشرة أكثر ليونة وسماكة." },
+      { q: "ما مدى سرعة التوصيل من بروست سارة إلى الفنادق قرب الحرم؟", a: "يعتمد وقت التوصيل على الفرع المحدد وحجم الطلبات الحالي؛ يُظهر هنقرستيشن تقديرًا مباشرًا قبل تأكيد الطلب في الفروع المشاركة، بينما يمكن لفرعي حي البحر وأبيار الماشي، اللذين يستقبلان الطلبات عبر الهاتف والواتساب فقط، تأكيد وقت تقديري مباشرةً خلال المكالمة." },
+      { q: "هل توصل بروست سارة خلال رمضان للحجاج الصائمين في المدينة المنورة؟", a: "نعم. تعمل جميع الفروع خلال رمضان، وتقديم طلب إفطار جماعي في فترة بعد الظهر بدلًا من الساعة التي تسبق المغرب يتجنّب نافذة التحضير الذروية، بينما يقبل فرع أبيار الماشي على 0530957742 طلبات السحور في أي ساعة قبل الفجر." },
+      { q: "ما هو الفرع الرئيسي لبروست سارة في المدينة المنورة؟", a: "فرع الإمام البخاري في الدفاع، الذي يمكن التواصل معه على 0533107787 ومُدرج على هنقرستيشن، هو الفرع الرئيسي لبروست سارة، يعمل من الساعة 6:30 مساءً حتى 4:00 فجرًا ويستخدم نفس إمداد الدجاج الطازج المذبوح يوميًا المستخدم في جميع الفروع الثمانية." },
+      { q: "هل توجد خيارات طعام حلال أخرى قرب المسجد النبوي غير بروست سارة؟", a: "نعم، تضم المنطقة حول المسجد النبوي مطاعم حلال متنوعة مثل البيك ومشغّلين محليين للبروست منهم مستر بروست وبحر ونار، إلا أن التحقق من شهادة الحلال على مستوى الدفعات والتوريد الطازج اليومي يستحق التأكيد المباشر مع أي مطعم قبل الطلب." },
+      { q: "ما معايير سلامة الغذاء المُطبَّقة على الدجاج الحلال في بروست سارة؟", a: "تُطبّق بروست سارة بروتوكولات HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، في جميع الفروع الثمانية، وتشمل فحوصات درجة حرارة الاستلام، والتخزين البارد المضبوط، وفترة تتبيل مرصودة لمدة 12 ساعة، وحدًا أدنى لدرجة حرارة الطهي الداخلية يبلغ 74 درجة مئوية مؤكَّدًا في كل فرع." },
+      { q: "هل يمكن للحجاج الوثوق بأن دجاج بروست سارة غير مُلوَّث بمنتجات غير حلال؟", a: "نعم. لا تحتوي قائمة بروست سارة على لحم خنزير أو بروتينات غير حلال في أي فرع، ويُفصَل الدجاج النيء والمطهو فعليًا تحت إجراءات HACCP موثّقة، مما يُزيل خطر التلوث المتقاطع الموجود في المطابخ ذات القوائم المختلطة." },
+      { q: "ما هي صلصة الثوم الأسطورية المُقدَّمة مع البروست؟", a: "صلصة الثوم الأسطورية مُحضَّرة داخل المطبخ يوميًا عبر استحلاب الثوم لا مُوزَّعة من حاوية تجارية، وهي كثيفة بما يكفي للحفاظ على شكلها على القشرة، وتُقدَّم كإضافة معيارية مع طلبات البروست دون أي رسوم إضافية." },
+      { q: "كيف أجد عناوين وساعات فروع بروست سارة قرب المسجد النبوي؟", a: "العناوين الموثّقة الكاملة وأرقام الهواتف وتوفر هنقرستيشن لجميع الفروع الثمانية، بما فيها حي البحر القريب من الحرم وفرع أبيار الماشي العامل على مدار 24 ساعة، مُدرجة على صفحة فروع بروست سارة في موقع الشركة." }
+    ]
+  }
+},
+{
+  slug: "broast-sara-golden-nuggets-madinah",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "menu-guide",
+  en: {
+    title: "Broast Sara Golden Nuggets: Madinah's Halal Chicken Bites",
+    alt: "Golden Nuggets from Broast Sara served with garlic thoum sauce at a Madinah branch.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara is one of Madinah Al-Munawwarah's most established broast chains, operating 8 branches including 7 across the city's residential districts and 1 in Yanbu. The Golden Nuggets are produced from the same 100% fresh, never-frozen local Saudi chicken used across the full menu, hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates. They are available through HungerStation and WhatsApp at all branches, and the Abiar Al Mashi branch at 0530957742 serves the full menu 24 hours a day, 7 days a week. The Legendary Garlic Thoum Sauce made in-house is the standard accompaniment.",
+    description: "Broast Sara's Golden Nuggets in Madinah are made from fresh daily-slaughtered halal chicken with HACCP protocols applied across all 8 branches.",
+    content: `
+
+## What Makes Broast Sara Golden Nuggets Different From Standard Fast-Food Nuggets
+
+Broast Sara's Golden Nuggets are produced from the same 100% fresh, never-frozen local Saudi chicken that the kitchen uses for every other item on the menu. That starting point separates them structurally from the nugget category as most customers know it, because the standard fast-food nugget industry runs almost entirely on mechanically separated or reformed chicken from frozen supply chains.
+
+At the Al Daheetha branch on Sakmah Ibn Abi Salamah Street during a late evening visit, the difference becomes physically observable. When a Golden Nugget is broken open immediately after service, the interior has a consistent, defined texture that reflects intact muscle fibre rather than the compressed, uniform paste that reformed frozen nuggets produce. The steam that releases from the break is the same contained moisture that pressure frying preserves in Broast Sara's broast pieces, operating on the same fresh-chicken principle at a smaller scale.
+
+The coating on a Broast Sara Golden Nugget sets under controlled frying conditions to produce a crust that gives a firm, clean snap rather than the chalky crumble of a nugget that has been held under heat lamps or reheated after freezing. This is not a minor textural footnote: the crust-to-interior contrast is one of the two things customers notice first, and the second is the seasoning depth, which reflects the same marinade-first approach the kitchen applies to every chicken item.
+
+## The Chicken Behind the Golden Nuggets: Supply Chain and Halal Standards
+
+Every Golden Nugget at Broast Sara originates from local Saudi chicken farms, enters the supply chain without freezing, and reaches each branch on a same-day cycle. The slaughter is performed by a Muslim who recites the required Bismillah invocation before each individual cut, performs a single swift cut severing the trachea and both jugular veins, and allows complete blood drainage before processing. Official halal conformity certificates from the Saudi Halal Center accompany every delivery batch to every branch.
+
+This matters more for nuggets than it is commonly understood to matter. Nuggets are the menu item where supply chain shortcuts are most likely to accumulate unnoticed: reformed chicken from multiple frozen sources, extended storage periods, and multi-step processing that puts significant distance between the animal and the plate. Broast Sara's nuggets sit at the opposite end of that spectrum: same-day procurement from a known local source, same halal batch documentation as the broast, and preparation in the same kitchen under the same HACCP protocols.
+
+HACCP, Hazard Analysis and Critical Control Points, governs the critical stages where contamination risk is highest across the full production chain, from receiving fresh chicken through cold storage, preparation, marination, cooking, and packaging. The minimum internal cooking temperature of 74 degrees Celsius applies to Golden Nuggets as it applies to every other chicken item. For the detailed breakdown of how these standards are documented and applied across all 8 branches, the [Food Safety Policy page](/en/legal/food-safety) publishes the full framework.
+
+The [Is Broast Halal in Madinah post](/en/blog/is-broast-halal-madinah) covers the full halal compliance framework for anyone who wants to verify the standards in detail before ordering.
+
+## How Golden Nuggets Fit Into Group and Family Orders at Broast Sara
+
+Golden Nuggets function differently in a group order than a standalone meal item. At the Hil Bahr branch on Imam Ahmad ibn Hanbal Street, it is common to observe large family tables combining broast pieces with shawarma and nuggets in a single order, with the nuggets serving as the item that gives children and younger members of the group a format that requires no breaking apart or bone navigation.
+
+Within a group order, the Golden Nuggets pair with the Legendary Garlic Thoum Sauce in the same way that the broast pieces do: the cold emulsified garlic cuts through the fried coating and gives each piece a cleaner finish than the coating alone produces. The sauce is made in-house daily through garlic emulsification at every branch. For groups that go through a large amount of it, additional sauce portions can be added to the order separately.
+
+The practical structure of a mixed family order at Broast Sara that includes nuggets:
+
+- A broast portion for adults who want the full pressure-fried piece format
+- Sarookh Shawarma for members who prefer a wrapped and sauced format
+- Golden Nuggets for younger members or anyone who wants a smaller, boneless bite format
+- Legendary Garlic Thoum Sauce as a shared accompaniment across all items
+- Crispy French Fries as a neutral side that works alongside any of the above
+
+This combination covers a multi-generational table in one order from one kitchen without requiring different purchasing channels or separate preparation. For large group orders that involve custom quantities across categories, WhatsApp ordering directly to the nearest branch is more practical than navigating the HungerStation interface, particularly during Ramadan iftar when the Abiar Al Mashi branch at 0530957742 handles both standard and custom requests around the clock.
+
+## When and Where to Order Golden Nuggets in Madinah
+
+Golden Nuggets are available at all 8 Broast Sara branches during operating hours. The seven Madinah branches cover a spread of neighbourhoods that means most residents are within a short distance of at least one location:
+
+- Imam Bukhari flagship, Ad Difa: 0533107787, open 6:30 PM to 4:00 AM
+- Al Daheetha, Al Aziziyyah district: 0596624929, open 12:30 PM to 3:30 PM and 6:30 PM to 3:30 AM
+- Al Hijrah, Ash Shaibiyah district: 0553793829, open 12:30 PM to 2:30 AM
+- Hil Bahr, Al Jumuah: 0533002270, open 12:30 PM to 3:00 AM, phone and WhatsApp only
+- Aljwazat, Ar Rawabi: 0540414841, open 12:30 PM to 4:00 AM
+- Al Juruf, Az Zahrah: 0551624234, open 7:30 PM to 3:00 AM
+- Abiar Al Mashi: 0530957742, open 24 hours a day, 7 days a week, phone and WhatsApp only
+
+The Abiar Al Mashi branch is the only location open outside the standard restaurant window, and it serves the full menu including Golden Nuggets at any hour. For residents in Madinah who want nuggets after midnight, whether for late-night eating or Ramadan suhoor, Abiar Al Mashi is the reliable option. The [24/7 Late Night Food Madinah post](/en/blog/24-7-fast-food-madinah) covers how the late-night service model at this branch works in practice.
+
+For delivery, six of the seven Madinah branches and the Yanbu branch deliver through HungerStation. The Hil Bahr and Abiar Al Mashi branches accept orders by phone or WhatsApp only. All branch phone numbers and verified Google Maps listings are on the [Broast Sara Locations page](/en/locations).
+
+## How Broast Sara Golden Nuggets Compare to Other Madinah Fast-Food Nuggets
+
+The direct comparison in Madinah's fast-food market is with nuggets produced from imported frozen chicken. The operational gap between these two product types shows up in three specific and testable ways.
+
+First, crust integrity over time. A nugget made from fresh chicken and fried correctly holds its crust structure longer after leaving the fryer than a nugget made from frozen reformed chicken, because the moisture content of the fresh interior creates a stable thermal environment inside the crust after cooking. The pressure-set crust on fresh chicken resists rehydration from interior steam longer than the coating on frozen-origin nuggets. This matters practically for delivery: an order of Golden Nuggets from Broast Sara arriving after a standard HungerStation transit window will still have a firm crust, where a frozen-origin nugget in the same condition will typically have softened.
+
+Second, interior texture. The intact muscle fibre of fresh never-frozen chicken produces a nugget interior with a defined, slightly fibrous pull when bitten. Reformed chicken from frozen supply chains produces a smoother, denser interior because the muscle structure has been mechanically disrupted. The difference is tactile and immediate.
+
+Third, marinade penetration. Because Broast Sara applies a 12-hour marination to fresh chicken with intact cell walls, the seasoning distributes through the meat rather than sitting on the surface coating. A Golden Nugget broken in half should show seasoning that reaches the interior cross-section, not just a concentrated layer at the outer edge. This is the same osmotic principle that differentiates Broast Sara's broast from competitors who marinate for shorter periods or on frozen-thawed chicken where cellular penetration is impaired. The [Fresh vs Frozen Chicken post](/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah) explains the cellular mechanics in full.
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "What are Broast Sara Golden Nuggets made from?", a: "Broast Sara Golden Nuggets are made from 100% fresh, never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method, with Saudi Halal Center batch certificates for every delivery, the same chicken supply standard used across the full menu at all 8 branches." },
+      { q: "Are Broast Sara Golden Nuggets halal?", a: "Yes, every Golden Nugget at Broast Sara is produced from chicken hand-slaughtered daily by a Muslim who recites the Bismillah before each individual cut, with complete blood drainage and official halal conformity certificates from the Saudi Halal Center for every batch." },
+      { q: "Where can I order Broast Sara Golden Nuggets in Madinah?", a: "Golden Nuggets are available at all 7 Madinah branches and the Yanbu branch through HungerStation and WhatsApp or phone, with the Abiar Al Mashi branch at 0530957742 serving the full menu including Golden Nuggets 24 hours a day, 7 days a week." },
+      { q: "Does Broast Sara deliver Golden Nuggets in Madinah?", a: "Yes, Golden Nuggets are available for delivery through HungerStation at six of the seven Madinah branches, and through phone or WhatsApp at all branches including the 24-hour Abiar Al Mashi branch at 0530957742 and the Hil Bahr branch at 0533002270." },
+      { q: "What sauce comes with Broast Sara Golden Nuggets?", a: "The Legendary Garlic Thoum Sauce made in-house daily through garlic emulsification is the standard accompaniment at Broast Sara, served with Golden Nuggets alongside broast and shawarma orders at all branches." },
+      { q: "How do Broast Sara Golden Nuggets compare to other nuggets in Madinah?", a: "Broast Sara Golden Nuggets are produced from fresh never-frozen Saudi chicken rather than imported frozen or reformed chicken, which produces a firmer crust that holds longer after cooking, a defined fibrous interior texture from intact muscle fibre, and seasoning that penetrates the interior cross-section through 12 hours of marination on fresh cells." },
+      { q: "Are there Golden Nuggets near me open now in Madinah?", a: "The Broast Sara Abiar Al Mashi branch at 0530957742 serves Golden Nuggets 24 hours a day, 7 days a week, and the Aljwazat branch in Ar Rawabi at 0540414841 is open until 4:00 AM, making both reliable options at late hours." },
+      { q: "Can I order Broast Sara Golden Nuggets for delivery near Masjid Al-Nabawi?", a: "Yes, the Hil Bahr branch at 0533002270 is the closest Broast Sara location to Masjid Al-Nabawi, open 12:30 PM to 3:00 AM and accepting orders by phone or WhatsApp, and delivery to hotels in the Haram area is available through HungerStation from other nearby branches." },
+      { q: "What makes Broast Sara Golden Nuggets different from frozen chicken nuggets?", a: "Broast Sara uses fresh Saudi chicken with intact cell walls that allow 12-hour marination to penetrate the full interior, while frozen nuggets lose moisture during freeze-thaw and are often made from reformed chicken where muscle structure is mechanically disrupted, producing a softer, more uniform interior and surface-only seasoning." },
+      { q: "Do Broast Sara Golden Nuggets contain bone?", a: "Broast Sara Golden Nuggets are a boneless chicken bite format, making them a practical choice for younger members of family groups or anyone who prefers a fully boneless option alongside the bone-in broast pieces." },
+      { q: "Is there a 24-hour Broast Sara where I can get Golden Nuggets late at night?", a: "The Abiar Al Mashi branch in Madinah operates 24 hours a day, 7 days a week, and serves the full menu including Golden Nuggets at any hour, reachable by phone or WhatsApp at 0530957742." },
+      { q: "What is the food safety standard for Broast Sara Golden Nuggets?", a: "Golden Nuggets at Broast Sara are produced under HACCP, Hazard Analysis and Critical Control Points, protocols at all 8 branches, with receiving temperature checks, cold storage monitoring, 12-hour marination temperature control, and a minimum internal cooking temperature of 74 degrees Celsius applied to every piece." },
+      { q: "Are Broast Sara Golden Nuggets good for kids and family meals?", a: "Yes, the boneless bite format of Golden Nuggets makes them well suited to younger family members, and their compatibility with the Legendary Garlic Thoum Sauce means they integrate into the same mixed family order as broast pieces and shawarma without requiring separate sauces or preparation." },
+      { q: "Can I get Broast Sara Golden Nuggets during Ramadan in Madinah?", a: "Yes, Golden Nuggets are available at all Broast Sara branches during Ramadan, and the Abiar Al Mashi branch at 0530957742 serves the full menu through suhoor hours before Fajr since it operates 24 hours a day, 7 days a week." },
+      { q: "How do I order Broast Sara Golden Nuggets online in Madinah?", a: "Open HungerStation, search Broast Sara, and select the nearest Madinah branch to order Golden Nuggets with real-time delivery estimates, or call or WhatsApp any branch directly using the numbers on the Broast Sara Locations page." },
+      { q: "What is the best nugget restaurant near me in Madinah?", a: "Broast Sara is one of the few fast-food operations in Madinah producing nuggets from daily fresh halal-slaughtered Saudi chicken with HACCP food safety documentation, operating 7 branches across the city with the Abiar Al Mashi branch at 0530957742 open 24 hours a day." },
+      { q: "Do Broast Sara Golden Nuggets hold up well for delivery?", a: "Yes, because Golden Nuggets are produced from fresh chicken with a pressure-set crust, they hold their crust structure longer during delivery transit than nuggets made from frozen reformed chicken, where moisture loss during freeze-thaw weakens the interior and crust stability." },
+      { q: "What other items should I order with Broast Sara Golden Nuggets?", a: "The most common combination at Broast Sara family tables is Golden Nuggets alongside a broast portion, Sarookh Shawarma, and Crispy French Fries, with the Legendary Garlic Thoum Sauce shared across all items, which covers different preferences from one kitchen in a single order." },
+      { q: "Hey, where can I get chicken nuggets near me in Madinah tonight?", a: "Broast Sara has 7 branches across Madinah serving Golden Nuggets from fresh daily-slaughtered halal chicken, including the Aljwazat branch in Ar Rawabi at 0540414841 open until 4:00 AM and the Abiar Al Mashi branch at 0530957742 open 24 hours a day." },
+      { q: "What is the difference between Broast Sara Golden Nuggets and the broast pieces?", a: "Golden Nuggets are boneless bite-sized pieces with a coating applied before frying, while broast pieces are bone-in chicken portions cooked in a sealed pressure fryer, but both use the same 100% fresh local Saudi chicken, the same 12-hour marination, and the same HACCP-documented kitchen protocols at all 8 branches." }
+    ]
+  },
+  ar: {
+  title: "ناجتس ذهبي من بروست سارة: قطع دجاج حلال في المدينة المنورة",
+  alt: "ناجتس ذهبي من بروست سارة مقدم مع صلصة الثوم الأسطورية في أحد فروع المدينة المنورة.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "بروست سارة هي من أعرق سلاسل البروست في المدينة المنورة، تمتلك 8 فروع منها 7 موزعة على الأحياء السكنية في المدينة وفرع واحد في ينبع. الناجتس الذهبي مُنتَج من نفس الدجاج السعودي المحلي الطازج 100% غير المجمد قط المستخدم في القائمة الكاملة، يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال مع شهادات دُفعة من مركز الحلال السعودي. متاح عبر هنقرستيشن وواتساب في جميع الفروع، وفرع أبيار الماشي على الرقم 0530957742 يقدم القائمة الكاملة 24 ساعة في اليوم سبعة أيام في الأسبوع. صلصة الثوم الأسطورية المحضّرة في الفرع هي المرافق الاعتيادي.",
+  description: "ناجتس ذهبي من بروست سارة في المدينة المنورة مُصنَّع من دجاج حلال طازج مذبوح يومياً مع تطبيق بروتوكولات HACCP في جميع الفروع الثمانية.",
+  content: `
+
+## ما الذي يجعل الناجتس الذهبي من بروست سارة مختلفاً عن ناجتس الوجبات السريعة المعتادة
+
+الناجتس الذهبي من بروست سارة مُنتَج من نفس الدجاج السعودي المحلي الطازج 100% غير المجمد قط الذي يستخدمه المطبخ لكل صنف آخر في القائمة. نقطة البداية هذه تفصله هيكلياً عن فئة الناجتس كما يعرفها معظم العملاء، لأن صناعة الناجتس في الوجبات السريعة المعيارية تعمل تقريباً بالكامل على الدجاج المفصول ميكانيكياً أو المُعاد تشكيله من سلاسل التوريد المجمدة.
+
+في فرع الدعيثة على شارع سكمة ابن أبي سلمة خلال زيارة مسائية متأخرة، يصبح الفرق ملموساً بشكل مادي. حين تُكسر قطعة ناجتس ذهبي مباشرةً بعد التقديم، يكون للداخل قواماً متسقاً ومحدداً يعكس ألياف العضلات السليمة لا العجينة المضغوطة الموحدة التي ينتجها الناجتس المجمد المُعاد تشكيله. البخار المتصاعد من الكسر هو نفس الرطوبة المحتجزة التي يحافظ عليها القلي بالضغط في قطع بروست بروست سارة، يعمل على نفس مبدأ الدجاج الطازج بمقياس أصغر.
+
+الطبقة الخارجية على الناجتس الذهبي من بروست سارة تتصلب في ظروف قلي متحكم بها لتُنتج قشرة تُصدر نقرة حازمة ونظيفة بدلاً من تفتت الناجتس الذي احتُجز تحت مصابيح التسخين أو أُعيد تسخينه بعد التجميد. هذا ليس هامشاً نسيجياً ثانوياً: تباين القشرة مقابل الداخل هو أحد أول شيئين يلاحظهما العملاء، والثاني هو عمق التتبيل، الذي يعكس نهج التتبيل أولاً الذي يطبقه المطبخ على كل صنف دجاج.
+
+## الدجاج الذي يقوم عليه الناجتس الذهبي: سلسلة التوريد ومعايير الحلال
+
+كل قطعة ناجتس ذهبي في بروست سارة تنشأ من مزارع الدجاج السعودية المحلية، وتدخل سلسلة التوريد دون تجميد، وتصل إلى كل فرع في دورة طهي ليومها ذاته. يُنجز الذبح على يد مسلم يتلو التسمية المطلوبة قبل كل ذبحة فردية، ويُنفذ ذبحة واحدة سريعة تقطع الرغامى والوريدين الوداجيين، ويسمح باستنزاف كامل للدم قبل المعالجة. تُرافق شهادات مطابقة حلال رسمية من مركز الحلال السعودي كل دُفعة توصيل إلى كل فرع.
+
+هذا يهم بالنسبة للناجتس أكثر مما يُدرَك عادةً. الناجتس هو عنصر القائمة الذي تتراكم فيه اختصارات سلسلة التوريد دون أن تُلاحَظ: دجاج مُعاد تشكيله من مصادر مجمدة متعددة، وفترات تخزين ممتدة، ومعالجة متعددة الخطوات تضع مسافة كبيرة بين الحيوان والطبق. ناجتس بروست سارة يقع في الطرف المقابل من ذلك الطيف: تدبير من مصدر محلي معروف في اليوم ذاته، وتوثيق الحلال بالدُفعة ذاته الخاص بالبروست، وإعداد في المطبخ ذاته تحت بروتوكولات HACCP ذاتها.
+
+HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، يتحكم في المراحل الحرجة حيث تكون مخاطر التلوث الأعلى عبر سلسلة الإنتاج الكاملة، من استلام الدجاج الطازج حتى التخزين البارد والتحضير والتتبيل والطهي والتغليف. تنطبق درجة الحرارة الداخلية الدنيا للطهي البالغة 74 درجة مئوية على الناجتس الذهبي كما تنطبق على كل صنف دجاج آخر. للاطلاع على التفصيل الكامل لكيفية توثيق هذه المعايير وتطبيقها عبر جميع الفروع الثمانية، تنشر [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety) الإطار الكامل.
+
+يتناول [منشور هل البروست حلال في المدينة المنورة](/ar/blog/is-broast-halal-madinah) الإطار الكامل للامتثال الحلال لكل من يريد التحقق من المعايير بالتفصيل قبل الطلب.
+
+## كيف يندمج الناجتس الذهبي في طلبات المجموعات والعائلات في بروست سارة
+
+يؤدي الناجتس الذهبي وظيفة مختلفة في طلب المجموعة عن صنف الوجبة المستقلة. في فرع حي البحر على شارع الإمام أحمد بن حنبل، من الشائع ملاحظة موائد العائلات الكبيرة التي تجمع قطع البروست مع الشاورما والناجتس في طلب واحد، مع خدمة الناجتس كالصنف الذي يُتيح للأطفال وصغار المجموعة تنسيقاً لا يستلزم تفكيك القطع أو التعامل مع العظام.
+
+ضمن طلب المجموعة، يتناسب الناجتس الذهبي مع صلصة الثوم الأسطورية بالطريقة ذاتها التي تتناسب بها قطع البروست: الثوم المستحلب البارد يقطع الطلاء المقلي ويمنح كل قطعة نهاية أنظف مما تُنتجه الطبقة الخارجية وحدها. الصلصة مُحضَّرة في الفرع يومياً عبر استحلاب الثوم في كل فرع. للمجموعات التي تستهلك كميات كبيرة منها، يمكن إضافة حصص صلصة إضافية للطلب بشكل منفصل.
+
+الهيكل العملي لطلب عائلي مختلط في بروست سارة يشمل الناجتس:
+
+- حصة بروست للبالغين الذين يريدون تنسيق القطعة الكاملة المقلية بالضغط
+- شاورما الصاروخ للأعضاء الذين يفضلون تنسيق الملفوف بالصلصة
+- الناجتس الذهبي للأعضاء الأصغر سناً أو أي شخص يريد تنسيق قضمة أصغر منزوعة العظم
+- صلصة الثوم الأسطورية كمرافق مشترك لجميع الأصناف
+- البطاطس الفرنسية المقرمشة كطبق جانبي محايد يعمل مع أي مما سبق
+
+هذه التشكيلة تُغطي مائدة متعددة الأجيال في طلب واحد من مطبخ واحد دون الحاجة إلى قنوات شراء مختلفة أو تحضير منفصل. للطلبات الجماعية الكبيرة التي تتضمن كميات مخصصة عبر الفئات، الطلب عبر واتساب مباشرةً إلى أقرب فرع أكثر عملية من التعامل مع واجهة هنقرستيشن، خاصةً خلال إفطار رمضان حين يتعامل فرع أبيار الماشي على الرقم 0530957742 مع الطلبات المعيارية والمخصصة على مدار الساعة.
+
+## متى وأين تطلب الناجتس الذهبي في المدينة المنورة
+
+الناجتس الذهبي متاح في جميع فروع بروست سارة الثمانية خلال ساعات العمل. الفروع السبعة في المدينة المنورة تُغطي انتشاراً من الأحياء يعني أن معظم السكان على مسافة قصيرة من موقع واحد على الأقل:
+
+- الإمام البخاري الرئيسي، الدفاع: 0533107787، مفتوح من 6:30 مساءً إلى 4:00 فجراً
+- الدعيثة، حي العزيزية: 0596624929، مفتوح من 12:30 ظهراً إلى 3:30 عصراً ومن 6:30 مساءً إلى 3:30 فجراً
+- الهجرة، حي الشيبية: 0553793829، مفتوح من 12:30 ظهراً إلى 2:30 فجراً
+- حي البحر، الجمعة: 0533002270، مفتوح من 12:30 ظهراً إلى 3:00 فجراً، الهاتف وواتساب فقط
+- الجوازات، الروابي: 0540414841، مفتوح من 12:30 ظهراً إلى 4:00 فجراً
+- الجرف، الزهراء: 0551624234، مفتوح من 7:30 مساءً إلى 3:00 فجراً
+- أبيار الماشي: 0530957742، مفتوح 24 ساعة في اليوم سبعة أيام في الأسبوع، الهاتف وواتساب فقط
+
+فرع أبيار الماشي هو الموقع الوحيد المفتوح خارج نافذة المطاعم المعيارية، ويقدم القائمة الكاملة بما في ذلك الناجتس الذهبي في أي ساعة. لسكان المدينة المنورة الذين يريدون الناجتس بعد منتصف الليل، سواء للأكل في وقت متأخر أو لسحور رمضان، أبيار الماشي هو الخيار الموثوق. يتناول [منشور الطعام الليلي على مدار الساعة في المدينة المنورة](/ar/blog/24-7-fast-food-madinah) كيفية عمل نموذج الخدمة الليلية في هذا الفرع عملياً.
+
+للتوصيل، ستة من الفروع السبعة في المدينة المنورة وفرع ينبع يُوصّلون عبر هنقرستيشن. يقبل فرعا حي البحر وأبيار الماشي الطلبات عبر الهاتف أو واتساب فقط. جميع أرقام هواتف الفروع وقوائم خرائط جوجل الموثقة موجودة في [صفحة فروع بروست سارة](/ar/locations).
+
+## كيف يقارن الناجتس الذهبي من بروست سارة بناجتس الوجبات السريعة الأخرى في المدينة المنورة
+
+المقارنة المباشرة في سوق الوجبات السريعة في المدينة المنورة هي مع الناجتس المُنتَج من الدجاج المجمد المستورد. الفجوة التشغيلية بين هذين النوعين من المنتجات تظهر بثلاث طرق محددة وقابلة للاختبار.
+
+أولاً، متانة القشرة مع مرور الوقت. الناجتس المصنوع من الدجاج الطازج والمقلي بشكل صحيح يحافظ على بنية قشرته لفترة أطول بعد مغادرة القلاية مقارنةً بالناجتس المصنوع من الدجاج المجمد المُعاد تشكيله، لأن محتوى الرطوبة في الداخل الطازج يخلق بيئة حرارية مستقرة داخل القشرة بعد الطهي. تقاوم القشرة المُثبَّتة بالضغط على الدجاج الطازج الترطيب من بخار الداخل لفترة أطول من الطلاء على الناجتس ذي الأصل المجمد. هذا يهم عملياً للتوصيل: طلبية الناجتس الذهبي من بروست سارة التي تصل بعد نافذة العبور المعيارية في هنقرستيشن ستظل ذات قشرة صلبة، في حين أن الناجتس ذا الأصل المجمد في الحالة ذاتها يكون قد لان عادةً.
+
+ثانياً، القوام الداخلي. يُنتج لحم العضلات السليم للدجاج الطازج غير المجمد قط داخلاً للناجتس بسحب محدد وطري قليلاً عند عضّه. يُنتج الدجاج المُعاد تشكيله من سلاسل التوريد المجمدة داخلاً أملس وأكثف لأن البنية العضلية قد تعطلت ميكانيكياً. الفرق لمسي وفوري.
+
+ثالثاً، تغلغل التتبيلة. لأن بروست سارة تطبق تتبيلاً لمدة 12 ساعة على الدجاج الطازج ذي جدران الخلايا السليمة، تتوزع التوابل عبر اللحم بدلاً من الجلوس على طبقة الطلاء الخارجية. الناجتس المكسور من المنتصف يجب أن يُظهر توابل تصل إلى المقطع العرضي الداخلي، لا فقط طبقة مركزة عند الحافة الخارجية. هذا هو نفس المبدأ الأسموزي الذي يُميز بروست بروست سارة عن المنافسين الذين يتبلون لفترات أقصر أو على دجاج مجمد مذاب حيث يكون التغلغل الخلوي ضعيفاً. يشرح [منشور الدجاج الطازج مقابل المجمد](/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah) الميكانيكيات الخلوية بالكامل.
+
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "مم يُصنَع الناجتس الذهبي من بروست سارة؟", a: "الناجتس الذهبي من بروست سارة مُصنَّع من دجاج سعودي محلي طازج 100% غير مجمد قط، يُذبح يدوياً يومياً وفق الطريقة الإسلامية الحلال مع شهادات دُفعة من مركز الحلال السعودي لكل توصيلة، وهو نفس معيار إمداد الدجاج المستخدم في القائمة الكاملة في جميع الفروع الثمانية." },
+    { q: "هل الناجتس الذهبي من بروست سارة حلال؟", a: "نعم، كل قطعة ناجتس ذهبي في بروست سارة مُنتَجة من دجاج يُذبح يدوياً يومياً على يد مسلم يتلو التسمية قبل كل ذبحة فردية، مع استنزاف كامل للدم وشهادات مطابقة حلال رسمية من مركز الحلال السعودي لكل دُفعة." },
+    { q: "أين يمكنني طلب الناجتس الذهبي من بروست سارة في المدينة المنورة؟", a: "الناجتس الذهبي متاح في جميع الفروع السبعة في المدينة المنورة وفرع ينبع عبر هنقرستيشن وواتساب أو الهاتف، وفرع أبيار الماشي على الرقم 0530957742 يقدم القائمة الكاملة بما في ذلك الناجتس الذهبي 24 ساعة في اليوم سبعة أيام في الأسبوع." },
+    { q: "هل تُوصّل بروست سارة الناجتس الذهبي في المدينة المنورة؟", a: "نعم، الناجتس الذهبي متاح للتوصيل عبر هنقرستيشن في ستة من الفروع السبعة في المدينة المنورة، وعبر الهاتف أو واتساب في جميع الفروع بما في ذلك فرع أبيار الماشي المفتوح 24 ساعة على الرقم 0530957742 وفرع حي البحر على الرقم 0533002270." },
+    { q: "ما الصلصة المقدمة مع الناجتس الذهبي من بروست سارة؟", a: "صلصة الثوم الأسطورية المحضّرة في الفرع يومياً عبر استحلاب الثوم هي المرافق الاعتيادي في بروست سارة، تُقدَّم مع الناجتس الذهبي إلى جانب طلبات البروست والشاورما في جميع الفروع." },
+    { q: "كيف يقارن الناجتس الذهبي من بروست سارة بالناجتس الآخر في المدينة المنورة؟", a: "الناجتس الذهبي من بروست سارة مُنتَج من دجاج سعودي طازج غير مجمد قط بدلاً من الدجاج المجمد المستورد أو المُعاد تشكيله، مما ينتج قشرة أصلب تحتفظ بقوامها لفترة أطول بعد الطهي وقواماً داخلياً ذا ألياف محددة من لحم العضلات السليم وتتبيلاً يتغلغل في المقطع الداخلي من خلال 12 ساعة من التتبيل على خلايا طازجة." },
+    { q: "هل يوجد ناجتس ذهبي بالقرب مني الآن في المدينة المنورة؟", a: "فرع بروست سارة أبيار الماشي على الرقم 0530957742 يقدم الناجتس الذهبي 24 ساعة في اليوم سبعة أيام في الأسبوع، وفرع الجوازات في الروابي على الرقم 0540414841 مفتوح حتى الساعة 4:00 فجراً، مما يجعل كليهما خياراً موثوقاً في ساعات متأخرة." },
+    { q: "هل يمكنني طلب توصيل الناجتس الذهبي من بروست سارة بالقرب من المسجد النبوي؟", a: "نعم، فرع حي البحر على الرقم 0533002270 هو أقرب موقع لبروست سارة من المسجد النبوي، مفتوح من 12:30 ظهراً إلى 3:00 فجراً ويقبل الطلبات عبر الهاتف أو واتساب، والتوصيل إلى الفنادق في منطقة الحرم متاح عبر هنقرستيشن من الفروع القريبة الأخرى." },
+    { q: "ما الذي يجعل الناجتس الذهبي من بروست سارة مختلفاً عن ناجتس الدجاج المجمد؟", a: "تستخدم بروست سارة دجاجاً سعودياً طازجاً ذا جدران خلايا سليمة تسمح لتتبيل 12 ساعة بالتغلغل في الداخل الكامل، في حين يفقد الناجتس المجمد الرطوبة خلال التجميد والإذابة وكثيراً ما يُصنَع من دجاج مُعاد تشكيله حيث تُعطَّل البنية العضلية ميكانيكياً، مما ينتج داخلاً أكثر ليونةً وانتظاماً وتتبيلاً سطحياً فحسب." },
+    { q: "هل الناجتس الذهبي من بروست سارة يحتوي على عظام؟", a: "الناجتس الذهبي من بروست سارة بتنسيق قضمات دجاج منزوعة العظم، مما يجعله خياراً عملياً للأعضاء الأصغر سناً في مجموعات العائلة أو أي شخص يفضل خياراً منزوع العظم بالكامل إلى جانب قطع البروست بالعظم." },
+    { q: "هل يوجد فرع بروست سارة مفتوح 24 ساعة يمكنني الحصول منه على الناجتس الذهبي في وقت متأخر من الليل؟", a: "فرع أبيار الماشي في المدينة المنورة يعمل 24 ساعة في اليوم سبعة أيام في الأسبوع، ويقدم القائمة الكاملة بما في ذلك الناجتس الذهبي في أي ساعة، يمكن التواصل معه عبر الهاتف أو واتساب على الرقم 0530957742." },
+    { q: "ما معيار سلامة الغذاء المعتمد للناجتس الذهبي من بروست سارة؟", a: "الناجتس الذهبي في بروست سارة مُنتَج وفق بروتوكولات HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، في جميع الفروع الثمانية، مع التحقق من درجة حرارة الاستلام ومراقبة التخزين البارد والتحكم في درجة حرارة التتبيل لمدة 12 ساعة ودرجة حرارة داخلية دنيا للطهي تبلغ 74 درجة مئوية مطبقة على كل قطعة." },
+    { q: "هل الناجتس الذهبي من بروست سارة مناسب للأطفال والوجبات العائلية؟", a: "نعم، تنسيق القضمة منزوعة العظم في الناجتس الذهبي يجعله مناسباً جداً للأعضاء الأصغر سناً في العائلة، وتوافقه مع صلصة الثوم الأسطورية يعني اندماجه في نفس الطلب العائلي المختلط مع قطع البروست والشاورما دون الحاجة إلى صلصات أو تحضير منفصلين." },
+    { q: "هل يمكنني الحصول على الناجتس الذهبي من بروست سارة خلال رمضان في المدينة المنورة؟", a: "نعم، الناجتس الذهبي متاح في جميع فروع بروست سارة خلال رمضان، وفرع أبيار الماشي على الرقم 0530957742 يقدم القائمة الكاملة خلال ساعات السحور قبيل الفجر لأنه يعمل 24 ساعة في اليوم سبعة أيام في الأسبوع." },
+    { q: "كيف أطلب الناجتس الذهبي من بروست سارة أونلاين في المدينة المنورة؟", a: "افتح هنقرستيشن وابحث عن بروست سارة واختر أقرب فرع في المدينة المنورة لطلب الناجتس الذهبي مع تقديرات توصيل في الوقت الفعلي، أو اتصل بأي فرع أو راسله عبر واتساب مباشرةً باستخدام الأرقام الموجودة في صفحة فروع بروست سارة." },
+    { q: "ما أفضل مطعم ناجتس بالقرب مني في المدينة المنورة؟", a: "بروست سارة هي من المنشآت القليلة للوجبات السريعة في المدينة المنورة التي تُنتج الناجتس من دجاج سعودي حلال مذبوح يومياً طازجاً مع توثيق سلامة غذاء وفق HACCP، وتمتلك 7 فروع في أنحاء المدينة مع فرع أبيار الماشي على الرقم 0530957742 المفتوح 24 ساعة في اليوم." },
+    { q: "هل يحافظ الناجتس الذهبي من بروست سارة على جودته جيداً للتوصيل؟", a: "نعم، لأن الناجتس الذهبي مُنتَج من دجاج طازج ذي قشرة مُثبَّتة بالضغط، فإنه يحافظ على بنية قشرته لفترة أطول خلال عبور التوصيل مقارنةً بالناجتس المصنوع من الدجاج المجمد المُعاد تشكيله، حيث تُضعف خسارة الرطوبة خلال التجميد والإذابة استقرار الداخل والقشرة." },
+    { q: "ما الأصناف الأخرى التي ينبغي طلبها مع الناجتس الذهبي من بروست سارة؟", a: "التشكيلة الأكثر شيوعاً على موائد عائلات بروست سارة هي الناجتس الذهبي إلى جانب حصة بروست وشاورما الصاروخ والبطاطس الفرنسية المقرمشة مع صلصة الثوم الأسطورية مشتركة عبر جميع الأصناف، مما يُغطي تفضيلات مختلفة من مطبخ واحد في طلب واحد." },
+    { q: "أريد قطع دجاج بالقرب مني في المدينة المنورة الليلة، أين أجدها؟", a: "بروست سارة تمتلك 7 فروع في أنحاء المدينة المنورة تقدم الناجتس الذهبي من دجاج حلال مذبوح يومياً طازجاً، بما في ذلك فرع الجوازات في الروابي على الرقم 0540414841 المفتوح حتى الساعة 4:00 فجراً وفرع أبيار الماشي على الرقم 0530957742 المفتوح 24 ساعة في اليوم." },
+    { q: "ما الفرق بين الناجتس الذهبي من بروست سارة وقطع البروست؟", a: "الناجتس الذهبي قطع صغيرة منزوعة العظم مع طلاء مُطبَّق قبل القلي، في حين أن قطع البروست هي حصص دجاج بالعظم مطهوة في قلاية ضغط مغلقة، لكن كليهما يستخدم نفس الدجاج السعودي المحلي الطازج 100% ونفس التتبيل لمدة 12 ساعة وبروتوكولات المطبخ الموثقة وفق HACCP في جميع الفروع الثمانية." }
+  ]
+}
+},
+  {
+  slug: "suhoor-delivery-madinah",
+  img: "best-late-night-food-madinah-after-midnight.webp",
+  publishDate: "2026-06-01",
+  author: "shanu-faris",
+  category: "ramadan-seasons",
+  en: {
+    title: "Suhoor Delivery in Madinah: How Broast Sara Serves the Pre-Fajr Window",
+    alt: "Fresh broast and shawarma packed for suhoor delivery before Fajr at Broast Sara Madinah.",
+    keywords: GLOBAL_KEYWORDS_EN,
+    snippet: "Broast Sara is one of Madinah's most established broast chains, operating 8 branches, 7 in the city and 1 in Yanbu, all using fresh local Saudi chicken hand-slaughtered daily with Saudi Halal Center conformity certificates. The Abiar Al Mashi branch operates 24 hours a day, 7 days a week, making it the most reliable option for suhoor delivery in the two to three hours before Fajr throughout Ramadan. Orders can be placed through HungerStation at 6 of the 8 branches or by phone and WhatsApp at every branch, with signature items including Original Broast, Spicy Haraq Broast, and the in-house Legendary Garlic Thoum Sauce.",
+    description: "How suhoor delivery works in Madinah during Ramadan, including which Broast Sara branch stays open before Fajr.",
+    content: `
+
+## Why Suhoor Delivery in Madinah Behaves Differently From Iftar Delivery
+
+Suhoor delivery is not a smaller version of iftar delivery. It happens in a narrow window between roughly 2:30 AM and the Fajr call to prayer, when most of Madinah's restaurants have already closed for the night, and the customer base is fasting families, night shift workers finishing a shift, and pilgrims who have just left Tarawih or are preparing for Fajr at the mosque.
+
+The practical effect is that the number of genuine suhoor options collapses to whichever kitchens stay open through the pre-dawn hours. A restaurant that closes at 2:00 AM, which describes most of Madinah's broast and fast food operations, simply does not exist for a suhoor order placed at 3:30 AM. The Abiar Al Mashi branch in Madinah's eastern district is the one Broast Sara location built around this exact gap, operating 24 hours a day, 7 days a week with no Ramadan schedule exception.
+
+## How the Abiar Al Mashi Branch Handles the Suhoor Window
+
+The Abiar Al Mashi branch serves the complete Broast Sara menu through every pre-dawn hour of Ramadan, and the kitchen does not switch to a reduced overnight version of the offering. Order Original Broast at 3 AM during Ramadan and the same 12-hour marinated, pressure-fried chicken comes out of the fryer as it would at 7 PM, because the fresh chicken supply and the cooking process do not change based on the hour.
+
+This branch is not listed on HungerStation. Orders go through phone or WhatsApp at 0530957742 only, which matters specifically for suhoor because a family trying to time a hot meal for 3:45 AM needs a confirmed preparation window rather than a generic app estimate that may not reflect kitchen conditions at that hour.
+
+- Call or message 0530957742 at least 30 to 45 minutes before the intended eating time
+- Confirm a specific arrival window rather than assuming a fixed delivery estimate
+- Specify the full order, including extra Legendary Garlic Thoum Sauce, since the default portion is sized for one person
+- Mention if the order is for a group, since staff can advise on realistic preparation timing for larger quantities
+
+For families staying near the residential districts close to Abiar Al Mashi, walking in directly at the counter during the suhoor window also works, and the branch is staffed and serving the full menu at the counter at any hour. The [Abiar Al Mashi 24 Hours post](/en/blog/broast-sara-abiar-al-mashi-24-hours) covers the branch's overnight operation in more detail.
+
+## What HACCP Protocols Mean for Food Cooked at 3 AM
+
+HACCP, Hazard Analysis and Critical Control Points, is the documented food safety system that governs every Broast Sara branch, and the controls that matter most for a 3 AM order are the same ones that apply at 3 PM. Cold storage temperature is logged continuously, the chicken received that morning is the chicken cooked through the night, and the 12-hour marination window runs on a fixed schedule that does not compress for late-night demand.
+
+The pressure-frying stage itself reaches a minimum internal temperature of 74 degrees Celsius on every piece, confirmed by procedure rather than by a fixed fry time alone, because a kitchen running overnight cannot rely on assumptions about consistency the way a daytime shift with constant supervision might. Cooked broast is held above 60 degrees Celsius between cooking and serving at every hour, which keeps it outside the bacterial temperature-danger zone whether the order is placed at midday or 3:30 AM. The [Food Safety Policy page](/en/legal/food-safety) documents these controls formally at the system level.
+
+### Why Fresh Chicken Still Matters for a Suhoor Order
+
+A pressure-fried crust depends on the moisture inside the chicken at the start of the cook cycle, and that moisture condition does not change based on the hour the chicken is cooked. Fresh, never-frozen chicken retains the cellular moisture that builds correct internal steam pressure, which is the mechanism behind the audible crack and the steam release when a piece is broken open. This holds at 3 AM exactly as it does at any other hour, because Broast Sara does not switch to a separate overnight supply of lower-quality product. The [Fresh vs Frozen Chicken post](/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah) explains why this distinction holds regardless of when the chicken is cooked.
+
+## What to Order for Suhoor and Why the Choice Matters
+
+Suhoor is meant to sustain the fast through the following day, which makes the choice of dish more practical than it would be for a casual late-night snack.
+
+Original Broast is the dish most families default to for suhoor, since the protein content and the structurally dense crust hold up well as a meal eaten quickly before Fajr. Spicy Haraq Broast works for households who want the heat to carry through the morning rather than fading quickly, because the marinade builds the spice into the meat itself during the 12-hour marination rather than coating it on the surface. Sarookh Shawarma is a practical addition for a mixed group, since it travels well and gives a non-broast option to anyone in the household who prefers it.
+
+- Original Broast: the standard suhoor order, pressure-fried fresh Saudi chicken with a 12-hour marinade
+- Spicy Haraq Broast: the same fresh chicken with a heat profile that builds gradually through the meal
+- Sarookh Shawarma: an alternative for mixed group orders that travels well in delivery packaging
+- Legendary Garlic Thoum Sauce: made in-house through garlic emulsification, included as standard with the meal
+
+Adding an extra portion of the Legendary Garlic Thoum Sauce is worth specifying directly when calling 0530957742, since the default quantity included with a meal is calibrated for one person rather than a suhoor table shared by a family. The full current menu and pricing are on the [Broast Sara Menu page](/en/menu).
+
+## Timing a Suhoor Order So the Food Arrives Hot
+
+The window between placing a suhoor order and Fajr is fixed and does not move, which makes timing the single most controllable factor in how the meal actually turns out.
+
+Calling 0530957742 between 2:30 AM and 3:00 AM gives the kitchen a realistic preparation window before the heaviest pre-dawn rush, which typically builds in the final 45 minutes before Fajr across Ramadan. Waiting until 3:45 AM to place an order for a 4:00 AM eating time during peak Ramadan weeks puts the order into a queue that has already built up from earlier callers, which is the most common reason a suhoor order arrives later than expected.
+
+For groups or families planning suhoor across several nights, calling the branch in advance to ask about realistic timing during a specific week of Ramadan, since demand shifts as the month progresses, gives a more accurate expectation than assuming the same response time applies throughout. The [Ramadan Food Guide Madinah post](/en/blog/ramadan-food-guide-madinah) covers how demand patterns shift across the month in more detail, and the [24/7 Late Night Food Madinah post](/en/blog/24-7-fast-food-madinah) explains how the Abiar Al Mashi branch handles demand outside Ramadan as well.
+
+## Other Branches and Their Standard Hours Outside the Suhoor Window
+
+While Abiar Al Mashi is the only branch built for the pre-Fajr window, several other Broast Sara branches run extended evening hours that cover the early part of the night before suhoor demand peaks.
+
+- Imam Bukhari, the main branch in Ad Difa, operates 6:30 PM to 4:00 AM and is reachable at 0533107787
+- Aljwazat in Ar Rawabi operates 12:30 PM to 4:00 AM and is reachable at 0540414841
+- Al Daheetha on Sakmah Ibn Abi Salamah Street runs split hours, 12:30 PM to 3:30 PM and 6:30 PM to 3:30 AM, reachable at 0596624929
+- Hil Bahr, the branch closest to Masjid al-Nabawi, operates 12:30 PM to 3:00 AM and takes orders by phone or WhatsApp only at 0533002270
+
+These branches close before the deepest part of the suhoor window, so for an order placed after roughly 3:30 AM, Abiar Al Mashi at 0530957742 is the consistent option across the full pre-dawn period. The [Broast Sara Locations page](/en/locations) lists verified addresses and phone numbers for all 8 branches.
+
+`,
+    faqTitle: "Frequently Asked Questions",
+    faqs: [
+      { q: "Where can I order suhoor delivery in Madinah during Ramadan?", a: "The Abiar Al Mashi branch is the most reliable suhoor delivery option in Madinah, operating 24 hours a day, 7 days a week throughout Ramadan, reachable by phone or WhatsApp at 0530957742 since the branch is not listed on HungerStation." },
+      { q: "What time should I order suhoor delivery before Fajr?", a: "Calling 0530957742 between 2:30 AM and 3:00 AM gives the kitchen a realistic preparation window before the heaviest pre-dawn rush, which typically builds in the final 45 minutes before Fajr during Ramadan." },
+      { q: "Is there a 24 hour halal restaurant near me for suhoor in Madinah?", a: "The Abiar Al Mashi branch at 0530957742 is the only Broast Sara location open 24 hours a day, 7 days a week, serving the same fresh, hand-slaughtered halal chicken at 3 AM as during the day, with no Ramadan schedule exception." },
+      { q: "Does Broast Sara deliver suhoor food after 2 AM in Madinah?", a: "Yes. The Abiar Al Mashi branch accepts orders by phone or WhatsApp at 0530957742 at any hour through Ramadan, including the 2:30 AM to 4:30 AM suhoor window, using the same fresh chicken supply as daytime orders." },
+      { q: "What is the best suhoor food to order from Broast Sara?", a: "Original Broast is the standard suhoor order, since the 12-hour marinated, pressure-fried chicken holds up well as a meal eaten quickly before Fajr, and Spicy Haraq Broast works for households who want the heat to carry through the morning." },
+      { q: "Is fresh chicken still used for suhoor orders or does it switch to frozen overnight?", a: "The same fresh, never-frozen, daily hand-slaughtered Saudi chicken supply used during the day serves the Abiar Al Mashi branch through the full 24 hour window, with no separate overnight supply of lower-quality product." },
+      { q: "Is the suhoor food from Broast Sara halal?", a: "Yes. Every order at the Abiar Al Mashi branch at any hour uses chicken hand-slaughtered daily using the Islamic halal method, with official conformity certificates from the Saudi Halal Center accompanying each delivery batch, the same standard applied at every Broast Sara branch." },
+      { q: "How do I order a family suhoor meal for delivery in Madinah?", a: "Call or WhatsApp the Abiar Al Mashi branch at 0530957742 at least 30 to 45 minutes before the intended eating time, specify the full order including extra Legendary Garlic Thoum Sauce since the default portion is sized for one person, and mention that the order is for a group." },
+      { q: "Which Broast Sara branch is open for suhoor near me in Madinah?", a: "The Abiar Al Mashi branch is the only branch open through the full suhoor window across all of Madinah, reachable at 0530957742, while other branches such as Imam Bukhari in Ad Difa and Aljwazat in Ar Rawabi close at 4:00 AM and do not cover the deepest part of the pre-Fajr period." },
+      { q: "What is the latest I can order suhoor delivery before Fajr in Madinah?", a: "There is no fixed cutoff at the Abiar Al Mashi branch since it operates 24 hours a day, but ordering after roughly 3:45 AM during peak Ramadan weeks risks the food arriving later than the intended eating time because the kitchen queue has already built up from earlier suhoor orders." },
+      { q: "How does HACCP apply to food cooked overnight during Ramadan in Madinah?", a: "HACCP, Hazard Analysis and Critical Control Points, governs cold storage temperature, the 12-hour marination schedule, and a minimum internal cooking temperature of 74 degrees Celsius at the Abiar Al Mashi branch at every hour, with cooked broast held above 60 degrees Celsius between cooking and serving regardless of the time of night." },
+      { q: "What is the difference between iftar delivery and suhoor delivery at Broast Sara?", a: "Iftar delivery happens across all 7 Madinah branches in the hour around Maghrib, while suhoor delivery in the 2:30 AM to 4:30 AM window is served exclusively by the Abiar Al Mashi branch at 0530957742, since most other branches have already closed for the night by that time." },
+      { q: "Can I order extra garlic sauce with my suhoor order?", a: "Yes. The default portion of Legendary Garlic Thoum Sauce included with a meal is sized for one person, so specifying extra portions directly when calling 0530957742 is worth doing for a suhoor table shared by a family." },
+      { q: "What is the best broast option for suhoor during Hajj season in Madinah?", a: "The Abiar Al Mashi branch at 0530957742 serves the same fresh halal chicken menu throughout Hajj season as during the rest of the year, with no seasonal closures, making it the consistent option for pilgrims and residents needing a pre-dawn meal." },
+      { q: "Does the suhoor menu at Broast Sara differ from the regular menu?", a: "No. The Abiar Al Mashi branch serves the complete standard Broast Sara menu during suhoor hours, including Original Broast, Spicy Haraq Broast, and Sarookh Shawarma, using the same fresh chicken supply and HACCP protocols as the rest of the day." },
+      { q: "How do I make sure my suhoor order arrives hot in Madinah?", a: "Call 0530957742 at least 30 to 45 minutes before the intended eating time rather than waiting until the final pre-Fajr rush, since orders placed after roughly 3:30 AM during peak Ramadan weeks enter a queue built up from earlier callers." },
+      { q: "Is Broast Sara open for suhoor every night of Ramadan or only certain nights?", a: "The Abiar Al Mashi branch operates 24 hours a day, 7 days a week throughout the entirety of Ramadan with no schedule exceptions, so it serves suhoor every night of the month including the final ten nights." },
+      { q: "What phone number do I call for suhoor delivery in Madinah?", a: "Call or WhatsApp 0530957742 for the Abiar Al Mashi branch, the only Broast Sara location open through the full pre-Fajr suhoor window, since this branch is not listed on HungerStation and takes orders by phone or WhatsApp only." },
+      { q: "Are there other late night branches besides Abiar Al Mashi during Ramadan?", a: "Yes, Imam Bukhari in Ad Difa and Aljwazat in Ar Rawabi both operate until 4:00 AM and are reachable at 0533107787 and 0540414841, but only the Abiar Al Mashi branch at 0530957742 remains open through the deepest part of the pre-Fajr suhoor window." },
+      { q: "What should I tell the branch when calling to place a large suhoor order?", a: "Mention that the order is for a group when calling 0530957742, since staff can advise on realistic preparation timing for larger quantities and help confirm a specific arrival window rather than relying on a generic estimate." }
+    ]
+  },
+  ar: {
+  title: "توصيل السحور في المدينة المنورة: كيف تخدم بروست سارة نافذة ما قبل الفجر",
+  alt: "بروست طازج وشاورما معبأة لتوصيل السحور قبل الفجر من بروست سارة في المدينة المنورة.",
+  keywords: GLOBAL_KEYWORDS_AR,
+  snippet: "بروست سارة هي من أعرق سلاسل البروست في المدينة المنورة، وتمتلك 8 فروع، 7 في المدينة وواحد في ينبع، جميعها تستخدم دجاجاً سعودياً محلياً طازجاً يُذبح يدوياً يومياً مع شهادات مطابقة حلال من مركز الحلال السعودي. يعمل فرع أبيار الماشي على مدار 24 ساعة يومياً 7 أيام في الأسبوع، مما يجعله الخيار الأكثر موثوقية لتوصيل السحور في الساعتين إلى الثلاث ساعات التي تسبق الفجر طوال رمضان. يمكن تقديم الطلبات عبر هنقرستيشن في 6 من الفروع الثمانية أو عبر الهاتف وواتساب في جميع الفروع، ومن أبرز الأصناف البروست الأصلي وبروست حراق الحار وصلصة الثوم الأسطورية المُحضّرة في الفرع.",
+  description: "كيف يعمل توصيل السحور في المدينة المنورة خلال رمضان، بما في ذلك فرع بروست سارة المفتوح قبيل الفجر.",
+  content: `
+
+## لماذا يختلف توصيل السحور في المدينة المنورة عن توصيل الإفطار
+
+توصيل السحور ليس نسخة مصغرة من توصيل الإفطار. يحدث في نافذة ضيقة تمتد تقريباً من الساعة 2:30 فجراً حتى آذان الفجر، حين يكون معظم مطاعم المدينة المنورة قد أغلق أبوابه ليلاً، وقاعدة الزبائن هي الأسر الصائمة وعمال النوبات الليلية المنتهية من دوامهم والحجاج الذين غادروا للتو التراويح أو يستعدون لصلاة الفجر في المسجد.
+
+الأثر العملي هو أن عدد خيارات السحور الحقيقية ينكمش إلى المطابخ التي تبقى مفتوحة في ساعات ما قبل الفجر. المطعم الذي يغلق في الساعة 2:00 صباحاً، وهو ما ينطبق على معظم مطاعم البروست والوجبات السريعة في المدينة المنورة، ببساطة لا يوجد بالنسبة لطلب سحور يُقدَّم الساعة 3:30 صباحاً. فرع أبيار الماشي في الحي الشرقي بالمدينة المنورة هو الموقع الوحيد لبروست سارة المصمم حول هذه الثغرة بالذات، إذ يعمل على مدار 24 ساعة يومياً 7 أيام في الأسبوع دون استثناء جدول رمضان.
+
+## كيف يتعامل فرع أبيار الماشي مع نافذة السحور
+
+يقدم فرع أبيار الماشي القائمة الكاملة لبروست سارة في كل ساعة من ساعات ما قبل الفجر في رمضان، ولا يتحول المطبخ إلى نسخة مخفضة من العروض الليلية. اطلب البروست الأصلي الساعة 3 صباحاً خلال رمضان وسيخرج من المقلاة الدجاج المتبَّل لمدة 12 ساعة والمقلي بالضغط نفسه كما لو كان الطلب في الساعة 7 مساءً، لأن إمداد الدجاج الطازج وعملية الطهي لا تتغير بحسب الساعة.
+
+هذا الفرع غير مُدرج على هنقرستيشن. الطلبات تتم عبر الهاتف أو واتساب على الرقم 0530957742 فقط، وهذا مهم تحديداً للسحور لأن الأسرة التي تريد توقيت وجبة ساخنة للساعة 3:45 صباحاً تحتاج إلى نافذة تحضير مؤكدة وليس تقديراً عاماً من التطبيق قد لا يعكس أحوال المطبخ في تلك الساعة.
+
+- اتصل أو راسل الرقم 0530957742 قبل وقت تناول الطعام المقصود بـ30 إلى 45 دقيقة على الأقل
+- أكّد نافذة وصول محددة بدلاً من افتراض تقدير توصيل ثابت
+- حدد الطلب كاملاً بما في ذلك صلصة الثوم الأسطورية الإضافية، إذ الحصة الافتراضية مُحسوبة لشخص واحد
+- اذكر إذا كان الطلب لمجموعة، لأن الموظفين يستطيعون تقديم المشورة حول توقيت التحضير الواقعي للكميات الأكبر
+
+للأسر المقيمة بالقرب من الأحياء السكنية المحيطة بأبيار الماشي، يُمكن أيضاً الحضور مباشرةً إلى الكاونتر خلال نافذة السحور، والفرع مجهّز بالموظفين ويقدم القائمة الكاملة عند الكاونتر في أي ساعة. يتناول [منشور أبيار الماشي المفتوح 24 ساعة](/ar/blog/broast-sara-abiar-al-mashi-24-hours) تشغيل الفرع الليلي بمزيد من التفصيل.
+
+## ما الذي تعنيه بروتوكولات HACCP للطعام المطهو الساعة 3 صباحاً
+
+HACCP، تحليل المخاطر ونقاط التحكم الحرجة، هو نظام سلامة الغذاء الموثق الذي يحكم كل فرع من فروع بروست سارة، والضوابط الأكثر أهمية لطلب الساعة 3 صباحاً هي الضوابط ذاتها المطبقة في الساعة 3 مساءً. تُسجَّل درجة حرارة التخزين البارد باستمرار، والدجاج المستلم صباح ذلك اليوم هو الدجاج المطهو طوال الليل، ونافذة التتبيل لمدة 12 ساعة تسير وفق جدول ثابت لا يتضغط استجابةً للطلب الليلي.
+
+تصل مرحلة القلي بالضغط إلى درجة حرارة داخلية لا تقل عن 74 درجة مئوية على كل قطعة، ويُتحقق من ذلك بإجراء موثق وليس بوقت قلي ثابت وحده، لأن مطبخاً يعمل ليلاً لا يستطيع الاعتماد على افتراضات الاتساق كما قد يفعل دوام نهاري مع إشراف مستمر. يُحفَظ البروست المطهو فوق 60 درجة مئوية بين الطهي والتقديم في كل ساعة، مما يُبقيه خارج منطقة خطر درجة حرارة البكتيريا سواء أُقدِّم الطلب في منتصف النهار أو الساعة 3:30 صباحاً. تُوثّق [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety) هذه الضوابط رسمياً على مستوى النظام.
+
+### لماذا لا يزال الدجاج الطازج مهماً لطلب السحور
+
+تعتمد القشرة المقلية بالضغط على الرطوبة داخل الدجاج عند بداية دورة الطهي، وتلك الحالة الرطوبية لا تتغير بحسب الساعة التي يُطهى فيها الدجاج. الدجاج الطازج غير المجمد يحتفظ بالرطوبة الخلوية التي تُنشئ ضغط البخار الداخلي الصحيح، وهو الآلية الكامنة وراء الطقطقة المسموعة وانطلاق البخار عند فتح القطعة. هذا ينطبق في الساعة 3 صباحاً تماماً كما ينطبق في أي ساعة أخرى، لأن بروست سارة لا تتحول إلى إمداد ليلي منفصل من منتج أدنى جودة. يشرح [منشور الدجاج الطازج مقابل المجمد](/ar/blog/fresh-vs-frozen-chicken-broast-sara-madinah) لماذا يبقى هذا التمييز قائماً بصرف النظر عن وقت طهي الدجاج.
+
+## ما الذي تطلبه للسحور ولماذا يهم الاختيار
+
+السحور مقصود منه إمداد الجسم طوال يوم الصيام التالي، مما يجعل اختيار الطبق أكثر عملية مما سيكون عليه لوجبة خفيفة ليلية عادية.
+
+البروست الأصلي هو الطبق الذي تعتمد عليه معظم الأسر للسحور، إذ يتحمل الدجاج المتبَّل لـ12 ساعة والمقلي بالضغط جيداً كوجبة تؤكل بسرعة قبيل الفجر. يناسب بروست حراق الحار الأسر التي تريد للحرارة أن تمتد إلى الصباح بدلاً من أن تتلاشى بسرعة، لأن التتبيلة تبني التوابل داخل اللحم نفسه خلال 12 ساعة من التتبيل لا على سطحه. شاورما صاروخ إضافة عملية للمجموعات المختلطة، إذ تُنقل جيداً وتمنح خياراً غير بروست لكل من يفضله في المنزل.
+
+- البروست الأصلي: طلب السحور المعياري، دجاج سعودي طازج مقلي بالضغط بتتبيلة 12 ساعة
+- بروست حراق الحار: الدجاج الطازج ذاته مع ملف حراري يتصاعد تدريجياً طوال الوجبة
+- شاورما صاروخ: بديل لطلبات المجموعات المختلطة يُنقل جيداً في تغليف التوصيل
+- صلصة الثوم الأسطورية: مُحضّرة في الفرع عبر استحلاب الثوم، مرفقة كمعيار مع الوجبة
+
+يستحق تحديد حصة إضافية من صلصة الثوم الأسطورية مباشرةً عند الاتصال بالرقم 0530957742، إذ الكمية الافتراضية المرفقة مع الوجبة مُحسوبة لشخص واحد لا لطاولة سحور تشاركها عائلة. القائمة الكاملة الحالية والأسعار متاحة في [صفحة قائمة بروست سارة](/ar/menu).
+
+## توقيت طلب السحور كي يصل الطعام ساخناً
+
+النافذة بين تقديم طلب السحور وآذان الفجر ثابتة لا تتحرك، مما يجعل التوقيت العامل الأكثر قابلية للتحكم في كيفية خروج الوجبة في النهاية.
+
+الاتصال بالرقم 0530957742 بين الساعة 2:30 صباحاً و3:00 صباحاً يمنح المطبخ نافذة تحضير واقعية قبل أثقل ازدحام ما قبل الفجر، الذي يبلغ ذروته عادةً في الـ45 دقيقة الأخيرة قبل الفجر طوال رمضان. الانتظار حتى 3:45 صباحاً لتقديم طلب لوقت أكل الساعة 4:00 صباحاً خلال أسابيع رمضان الذروة يُدخل الطلب في قائمة انتظار تراكمت بالفعل من المتصلين الأسبق، وهو السبب الأكثر شيوعاً لوصول طلب السحور متأخراً عن الموعد المتوقع.
+
+للمجموعات والأسر التي تخطط للسحور عبر عدة ليالٍ، يُعطي الاتصال بالفرع مسبقاً لمعرفة التوقيت الواقعي خلال أسبوع محدد من رمضان، إذ يتحول الطلب مع تقدم الشهر، توقعاً أكثر دقة من افتراض انطباق وقت الاستجابة ذاته طوال الشهر. يتناول [منشور دليل الطعام الرمضاني في المدينة المنورة](/ar/blog/ramadan-food-guide-madinah) كيفية تحول أنماط الطلب عبر الشهر بمزيد من التفصيل، ويشرح [منشور الطعام الليلي على مدار الساعة في المدينة المنورة](/ar/blog/24-7-fast-food-madinah) كيف يتعامل فرع أبيار الماشي مع الطلب خارج رمضان أيضاً.
+
+## الفروع الأخرى وساعاتها المعيارية خارج نافذة السحور
+
+بينما يبقى أبيار الماشي الفرع الوحيد المصمم لنافذة ما قبل الفجر، تعمل عدة فروع أخرى من بروست سارة بساعات مسائية ممتدة تغطي أول الليل قبل أن يبلغ طلب السحور ذروته.
+
+- الإمام البخاري، الفرع الرئيسي في الدفاع، يعمل من 6:30 مساءً حتى 4:00 صباحاً ويمكن التواصل معه على الرقم 0533107787
+- الجوازات في الروابي يعمل من 12:30 ظهراً حتى 4:00 صباحاً ويمكن التواصل معه على الرقم 0540414841
+- الدعيثة على شارع سكمة بن أبي سلمة تعمل بساعات مقسّمة من 12:30 ظهراً حتى 3:30 مساءً ومن 6:30 مساءً حتى 3:30 صباحاً، ويمكن التواصل معها على الرقم 0596624929
+- حي البحر، الفرع الأقرب إلى المسجد النبوي، يعمل من 12:30 ظهراً حتى 3:00 صباحاً ويقبل الطلبات عبر الهاتف أو واتساب فقط على الرقم 0533002270
+
+تُغلق هذه الفروع قبل أعمق جزء من نافذة السحور، لذا بالنسبة لطلب يُقدَّم بعد الساعة 3:30 صباحاً تقريباً، يبقى أبيار الماشي على الرقم 0530957742 الخيار الثابت طوال فترة ما قبل الفجر بأكملها. تسرد [صفحة فروع بروست سارة](/ar/locations) العناوين الموثقة وأرقام الهواتف لجميع الفروع الثمانية.
+
+`,
+  faqTitle: "الأسئلة الشائعة",
+  faqs: [
+    { q: "أين يمكنني طلب توصيل السحور في المدينة المنورة خلال رمضان؟", a: "فرع أبيار الماشي هو الخيار الأكثر موثوقية لتوصيل السحور في المدينة المنورة، إذ يعمل على مدار 24 ساعة يومياً 7 أيام في الأسبوع طوال رمضان، ويمكن التواصل معه عبر الهاتف أو واتساب على الرقم 0530957742 لأن الفرع غير مُدرج على هنقرستيشن." },
+    { q: "في أي وقت يجب أن أطلب توصيل السحور قبل الفجر؟", a: "الاتصال بالرقم 0530957742 بين الساعة 2:30 صباحاً و3:00 صباحاً يمنح المطبخ نافذة تحضير واقعية قبل أثقل ازدحام ما قبل الفجر، الذي يبلغ ذروته عادةً في الـ45 دقيقة الأخيرة قبل الفجر خلال رمضان." },
+    { q: "هل يوجد مطعم حلال مفتوح 24 ساعة قريب مني للسحور في المدينة المنورة؟", a: "فرع أبيار الماشي على الرقم 0530957742 هو الفرع الوحيد من بروست سارة المفتوح 24 ساعة يومياً 7 أيام في الأسبوع، ويقدم الدجاج الطازج المذبوح حلالاً الساعة 3 صباحاً كما يقدمه نهاراً دون استثناء لجدول رمضان." },
+    { q: "هل توصّل بروست سارة طعام السحور بعد الساعة 2 صباحاً في المدينة المنورة؟", a: "نعم، يقبل فرع أبيار الماشي الطلبات عبر الهاتف أو واتساب على الرقم 0530957742 في أي ساعة طوال رمضان، بما في ذلك نافذة السحور من 2:30 صباحاً حتى 4:30 صباحاً، مستخدماً نفس إمداد الدجاج الطازج المعتمد في الطلبات النهارية." },
+    { q: "ما هو أفضل طعام للسحور يمكن طلبه من بروست سارة؟", a: "البروست الأصلي هو طلب السحور المعياري، إذ يتحمل الدجاج المتبَّل لـ12 ساعة والمقلي بالضغط جيداً كوجبة تؤكل بسرعة قبيل الفجر، ويناسب بروست حراق الحار الأسر التي تريد للحرارة أن تمتد إلى الصباح." },
+    { q: "هل يُستخدم الدجاج الطازج في طلبات السحور أم يتحول إلى مجمد ليلاً؟", a: "نفس إمداد الدجاج السعودي الطازج غير المجمد المذبوح يدوياً يومياً المستخدم نهاراً يخدم فرع أبيار الماشي طوال نافذة الـ24 ساعة الكاملة، دون إمداد ليلي منفصل من منتج أدنى جودة." },
+    { q: "هل طعام السحور من بروست سارة حلال؟", a: "نعم، كل طلب في فرع أبيار الماشي في أي ساعة يستخدم دجاجاً مذبوحاً يدوياً يومياً وفق الطريقة الإسلامية الحلال، مع شهادات مطابقة رسمية من مركز الحلال السعودي ترافق كل دفعة توصيل، وهو المعيار ذاته المطبق في كل فرع من فروع بروست سارة." },
+    { q: "كيف أطلب وجبة سحور عائلية للتوصيل في المدينة المنورة؟", a: "اتصل أو راسل فرع أبيار الماشي على الرقم 0530957742 قبل 30 إلى 45 دقيقة على الأقل من وقت تناول الطعام المقصود، وحدد الطلب كاملاً بما في ذلك صلصة الثوم الأسطورية الإضافية إذ الحصة الافتراضية مُحسوبة لشخص واحد، واذكر أن الطلب لمجموعة." },
+    { q: "أي فرع من فروع بروست سارة مفتوح للسحور قريب مني في المدينة المنورة؟", a: "فرع أبيار الماشي هو الفرع الوحيد المفتوح طوال نافذة السحور الكاملة في المدينة المنورة، ويمكن التواصل معه على الرقم 0530957742، بينما تُغلق فروع أخرى كالإمام البخاري في الدفاع والجوازات في الروابي في الساعة 4:00 صباحاً ولا تغطي الجزء الأعمق من فترة ما قبل الفجر." },
+    { q: "ما هو آخر وقت يمكنني فيه طلب توصيل السحور قبل الفجر في المدينة المنورة؟", a: "لا يوجد وقت قطع ثابت في فرع أبيار الماشي لأنه يعمل 24 ساعة يومياً، لكن الطلب بعد الساعة 3:45 صباحاً تقريباً خلال أسابيع رمضان الذروة يُخاطر بوصول الطعام متأخراً عن وقت الأكل المقصود لأن قائمة انتظار المطبخ تراكمت بالفعل من طلبات السحور الأسبق." },
+    { q: "كيف تنطبق بروتوكولات HACCP على الطعام المطهو ليلاً خلال رمضان في المدينة المنورة؟", a: "يحكم HACCP، تحليل المخاطر ونقاط التحكم الحرجة، درجة حرارة التخزين البارد وجدول التتبيل لمدة 12 ساعة ودرجة حرارة داخلية لا تقل عن 74 درجة مئوية في فرع أبيار الماشي في كل ساعة، مع حفظ البروست المطهو فوق 60 درجة مئوية بين الطهي والتقديم بصرف النظر عن وقت الليل." },
+    { q: "ما الفرق بين توصيل الإفطار وتوصيل السحور في بروست سارة؟", a: "توصيل الإفطار يتم عبر جميع الفروع السبعة في المدينة المنورة في الساعة المحيطة بالمغرب، بينما توصيل السحور في نافذة 2:30 صباحاً إلى 4:30 صباحاً يقدمه حصراً فرع أبيار الماشي على الرقم 0530957742، إذ تكون معظم الفروع الأخرى قد أغلقت بحلول ذلك الوقت." },
+    { q: "هل يمكنني طلب صلصة ثوم إضافية مع طلب السحور؟", a: "نعم، الحصة الافتراضية من صلصة الثوم الأسطورية المرفقة مع الوجبة مُحسوبة لشخص واحد، لذا يستحق تحديد حصص إضافية مباشرةً عند الاتصال بالرقم 0530957742 لطاولة سحور تشاركها عائلة." },
+    { q: "ما هو أفضل خيار بروست للسحور خلال موسم الحج في المدينة المنورة؟", a: "يقدم فرع أبيار الماشي على الرقم 0530957742 نفس قائمة الدجاج الحلال الطازج طوال موسم الحج كما يفعل طوال العام دون أي إغلاق موسمي، مما يجعله الخيار الثابت للحجاج والسكان الذين يحتاجون إلى وجبة قبيل الفجر." },
+    { q: "هل تختلف قائمة السحور في بروست سارة عن القائمة المعتادة؟", a: "لا، يقدم فرع أبيار الماشي القائمة الكاملة المعيارية لبروست سارة خلال ساعات السحور، بما فيها البروست الأصلي وبروست حراق الحار وشاورما صاروخ، مستخدماً نفس إمداد الدجاج الطازج وبروتوكولات HACCP المعتمدة طوال اليوم." },
+    { q: "كيف أضمن وصول طلب السحور ساخناً في المدينة المنورة؟", a: "اتصل بالرقم 0530957742 قبل 30 إلى 45 دقيقة على الأقل من وقت الأكل المقصود بدلاً من الانتظار حتى ازدحام ما قبل الفجر الأخير، إذ تدخل الطلبات المقدمة بعد 3:30 صباحاً تقريباً خلال أسابيع رمضان الذروة في قائمة انتظار تراكمت بالفعل من المتصلين الأسبق." },
+    { q: "هل بروست سارة مفتوحة للسحور كل ليلة من رمضان أم في ليالٍ معينة فقط؟", a: "يعمل فرع أبيار الماشي على مدار 24 ساعة يومياً 7 أيام في الأسبوع طوال شهر رمضان بأكمله دون استثناءات في الجدول، فيقدم السحور كل ليلة من الشهر بما في ذلك العشر الأواخر." },
+    { q: "ما رقم الهاتف الذي أتصل به لتوصيل السحور في المدينة المنورة؟", a: "اتصل أو راسل الرقم 0530957742 لفرع أبيار الماشي، وهو الفرع الوحيد في بروست سارة المفتوح طوال نافذة السحور الكاملة ما قبل الفجر، إذ هذا الفرع غير مُدرج على هنقرستيشن ويقبل الطلبات عبر الهاتف أو واتساب فقط." },
+    { q: "هل توجد فروع أخرى مفتوحة ليلاً غير أبيار الماشي خلال رمضان؟", a: "نعم، يعمل كل من الإمام البخاري في الدفاع والجوازات في الروابي حتى 4:00 صباحاً ويمكن التواصل معهما على الرقمين 0533107787 و0540414841، لكن فرع أبيار الماشي على الرقم 0530957742 هو الفرع الوحيد الذي يبقى مفتوحاً طوال أعمق جزء من نافذة السحور ما قبل الفجر." },
+    { q: "ماذا يجب أن أذكر للفرع عند الاتصال لتقديم طلب سحور كبير؟", a: "اذكر أن الطلب لمجموعة عند الاتصال بالرقم 0530957742، إذ يستطيع الموظفون تقديم المشورة حول توقيت التحضير الواقعي للكميات الأكبر والمساعدة في تأكيد نافذة وصول محددة بدلاً من الاعتماد على تقدير عام." }
+  ]
+}
+  },
 ];

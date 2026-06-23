@@ -9,7 +9,14 @@ export async function generateMetadata({ params }) {
     description: isEn
       ? "Broast Sara's food safety policy explains the HACCP protocols, daily halal sourcing, and hygiene standards behind every meal served in Madinah."
       : "تشرح سياسة سلامة الغذاء في Broast Sara بروتوكولات HACCP والمصادر الحلال اليومية ومعايير النظافة خلف كل وجبة تُقدَّم في المدينة المنورة.",
-    alternates: { canonical: `https://broastsara.com/${lang}/legal/food-safety` }
+    alternates: { canonical: `https://broastsara.com/${lang}/legal/food-safety` },
+       openGraph: {
+     title: isEn ? "Food Safety Policy — Broast Sara" : "سياسة سلامة الغذاء — بروست سارة",
+     description: isEn ? "Broast Sara's food safety policy explains the HACCP protocols, daily halal sourcing, and hygiene standards behind every meal served in Madinah." : "تشرح سياسة سلامة الغذاء في Broast Sara بروتوكولات HACCP والمصادر الحلال اليومية ومعايير النظافة.",
+     url: `https://broastsara.com/${lang}/legal/food-safety`,
+    type: 'website',
+     images: [{ url: '/broast-sara-logo.webp', width: 1080, height: 1350, alt: isEn ? 'Broast Sara Food Safety' : 'سلامة غذاء بروست سارة' }],
+   },
   };
 }
 

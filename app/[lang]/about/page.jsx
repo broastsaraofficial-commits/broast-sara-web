@@ -206,6 +206,8 @@ export async function generateMetadata({ params }) {
       description: d.description,
       url,
       images: ['/broast-sara-logo.webp'],
+      type: 'website',
+
     }
   };
 }
@@ -239,7 +241,6 @@ export default async function AboutPage({ params }) {
         "addressCountry": "SA"
       },
       "areaServed": isEn ? "Madinah Al-Munawwarah, Saudi Arabia" : "المدينة المنورة، المملكة العربية السعودية",
-      "numberOfLocations": 8,
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.1",
@@ -273,6 +274,9 @@ export default async function AboutPage({ params }) {
         <div className="animate-premium-in flex flex-col w-full text-start p-6 md:p-16">
 
           {/* Snippet / Quick Answer block */}
+          <h1 className="text-4xl md:text-6xl font-bold text-white font-instrument mb-8 text-start">
+          {d.title}
+          </h1>
           <div className="mb-10 p-6 bg-white/5 border border-[#FFD700]/30 rounded-2xl italic text-white/90 text-lg md:text-xl leading-relaxed font-helvetica tracking-[-0.05em]">
             {d.snippet}
           </div>

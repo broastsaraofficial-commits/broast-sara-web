@@ -15,6 +15,7 @@ export default function sitemap() {
     languages: {
       'ar-SA': `${baseUrl}/ar${path}`,
       'en-US': `${baseUrl}/en${path}`,
+      'x-default': `${baseUrl}/ar${path}`,
     },
   });
 

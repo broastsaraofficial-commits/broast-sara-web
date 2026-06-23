@@ -9,6 +9,22 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // ── Arabic default: redirect no-lang URLs to /ar ──
+      { source: '/', destination: '/ar', permanent: false },
+      { source: '/en', destination: '/ar', permanent: false },
+      { source: '/about', destination: '/ar/about', permanent: true },
+      { source: '/menu', destination: '/ar/menu', permanent: true },
+      { source: '/locations', destination: '/ar/locations', permanent: true },
+      { source: '/faq', destination: '/ar/faq', permanent: true },
+      { source: '/order', destination: '/ar/order', permanent: true },
+      { source: '/blog', destination: '/ar/blog', permanent: true },
+      { source: '/legal', destination: '/ar/legal', permanent: true },
+      { source: '/legal/food-safety', destination: '/ar/legal/food-safety', permanent: true },
+      { source: '/legal/privacy', destination: '/ar/legal/privacy', permanent: true },
+      { source: '/legal/terms', destination: '/ar/legal/terms', permanent: true },
+      { source: '/legal/refund', destination: '/ar/legal/refund', permanent: true },
+      { source: '/locations/:slug*', destination: '/ar/locations/:slug*', permanent: true },
+
       // ── Consolidated posts (old slug → surviving post) ──
       { source: '/en/blog/halal-safe-food-madinah', destination: '/en/blog/is-broast-halal-madinah', permanent: true },
       { source: '/ar/blog/halal-safe-food-madinah', destination: '/ar/blog/is-broast-halal-madinah', permanent: true },
@@ -25,7 +41,7 @@ const nextConfig = {
       { source: '/en/blog/broast-sara-branches-madinah', destination: '/en/blog/madinah-neighborhoods-branches', permanent: true },
       { source: '/ar/blog/broast-sara-branches-madinah', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
 
-      // ── Orphaned URLs from old structure (no current post matches these slugs) ──
+      // ── Orphaned URLs ──
       { source: '/blog/why-choose-broast-sara', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
       { source: '/en/blog/why-choose-broast-sara', destination: '/en/blog/best-broast-in-madinah-broast-sara', permanent: true },
       { source: '/ar/blog/why-choose-broast-sara', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
@@ -49,15 +65,11 @@ const nextConfig = {
       { source: '/en/blog/fresh-vs-frozen-chicken', destination: '/en/blog/fresh-vs-frozen-chicken-broast-sara-madinah', permanent: true },
 
       { source: '/blog/secrets-of-crispy-broast', destination: '/ar/blog/secrets-of-crispy-broast', permanent: true },
-
       { source: '/blog/food-safety-haccp', destination: '/ar/blog/food-safety-haccp', permanent: true },
-
       { source: '/blog/madinah-neighborhoods-branches', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
-
       { source: '/blog/ramadan-meals-iftar', destination: '/ar/blog/ramadan-meals-iftar', permanent: true },
 
-      // ── Generic catch-all: any remaining /blog/:slug without a locale prefix → /ar/blog/:slug ──
-      // This must stay LAST so the specific rules above take priority.
+      // ── Generic catch-all: must stay LAST ──
       { source: '/blog/:slug*', destination: '/ar/blog/:slug*', permanent: true },
     ];
   },

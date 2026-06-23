@@ -18,6 +18,8 @@ export async function generateMetadata({ params }) {
       title,
       description,
       url,
+      type: 'website',
+      images: [{ url: '/broast-sara-logo.webp', width: 1080, height: 1350, alt: isEn ? 'Order Broast Sara' : 'اطلب بروست سارة' }],
     }
   };
 }
@@ -69,6 +71,7 @@ export default async function OrderPage({ params }) {
   const itemListJsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
+    "numberOfItems": branchData.length,
     "itemListElement": branchData.map((branch, index) => {
       const b = isEn ? branch.en : branch.ar;
       return {
@@ -77,6 +80,7 @@ export default async function OrderPage({ params }) {
         "item": {
           "@type": "Restaurant",
           "name": isEn ? `Broast Sara ${b.name}` : `بروست سارة ${b.name}`,
+          "@id": `https://broastsara.com/${lang}/locations/${branch.slug}`,
           "telephone": `+966${branch.phone.substring(1)}`,
           "url": `https://broastsara.com/${lang}/locations/${branch.slug}`,
           "hasMenu": `https://broastsara.com/${lang}/menu`

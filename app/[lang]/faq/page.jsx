@@ -9,7 +9,14 @@ export async function generateMetadata({ params }) {
   return {
     title: isEn ? "Frequently Asked Questions | Broast Sara" : "الأسئلة الشائعة | بروست سارة",
     description: isEn ? "Your comprehensive guide to Broast Sara branches in Madinah, opening hours, menu, and food safety standards." : "دليلك الشامل لجميع الأسئلة حول فروع بروست سارة في المدينة المنورة، أوقات العمل، قائمة الطعام، ومعايير سلامة الغذاء.",
-    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/faq` }
+    alternates: { canonical: `https://broastsara.com/${resolvedParams.lang}/faq` },
+    openGraph: {
+     title: isEn ? "Frequently Asked Questions | Broast Sara" : "الأسئلة الشائعة | بروست سارة",
+     description: isEn ? "Your comprehensive guide to Broast Sara branches in Madinah, opening hours, menu, and food safety standards." : "دليلك الشامل لجميع الأسئلة حول فروع بروست سارة في المدينة المنورة، أوقات العمل، قائمة الطعام، ومعايير سلامة الغذاء.",
+     url: `https://broastsara.com/${resolvedParams.lang}/faq`,
+     type: 'website',
+     images: [{ url: '/broast-sara-logo.webp', width: 1080, height: 1350, alt: isEn ? 'Broast Sara' : 'بروست سارة' }],
+   },
   };
 }
 
