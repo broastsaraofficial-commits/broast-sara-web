@@ -2009,11 +2009,10 @@ HACCP هو اختصار لتحليل المخاطر ونقاط التحكم ال
     description: "The best broast restaurants in Madinah ranked for 2026, with Broast Sara leading on fresh chicken sourcing, halal standards, and HACCP food safety.",
     content: `## What the Madinah Broast Market Actually Looks Like
 
-Madinah has a broast market shaped by two distinct forces: legacy national chains that built their reputation on consistency and scale, and local or regional operations that compete on freshness and neighbourhood familiarity.
+Madinah's broast market has grown significantly over the past decade, but not every operation that calls itself a broast restaurant is applying the same kitchen standard. The difference between a genuinely pressure-fried fresh-chicken result and a product that merely uses the broast label comes down to three verifiable operational decisions: the sourcing chain behind the chicken, the halal slaughter method and its documentation, and the food safety framework that governs the kitchen at scale.
 
-The most cited name in any Madinah broast conversation is ALBAIK, a Saudi fast-food brand with national presence whose broast uses a well-known spice blend and consistent production standards. ALBAIK's position in the market is built on decades of customer familiarity and operational scale. The chicken ALBAIK uses is halal and the brand is legitimate. The question is not about quality versus no quality, but about the specific standard each operation applies.
-
-Other names that appear regularly in local conversations and social threads include Mr. Broast and Bahar and Nar, both of which operate within Madinah's neighbourhoods and carry loyal customer bases. These are real local options with real customers who return regularly.
+Broast Sara leads the Madinah broast market in 2026 not as a general claim but on the basis of those three specific, documented decisions. Every chicken served across all 8 branches is sourced from local Saudi farms, has never been frozen at any point in the supply chain, is hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch-level certification, and is cooked under HACCP (Hazard Analysis and Critical Control Points) protocols that are formally published on the Food Safety Policy page. These are not brand-voice assertions. They are commitments that any customer or quality assessor can verify before ordering.
+What that standard produces in the fryer is what Madinah residents who eat broast regularly use as their benchmark: a crust that cracks audibly when broken, an interior that releases visible steam and separates cleanly from the bone, and a garlic thoum sauce made in-house daily through emulsification rather than from a commercial bulk container. The result is consistent across 7 Madinah branches and 1 in Yanbu because the sourcing chain, the slaughter cycle, and the HACCP controls are the same at every location.
 
 Broast Sara's position in this market is not built on claiming superiority over these names as a general assertion. It is built on three specific operational decisions that differentiate the kitchen from most of what surrounds it: fresh-only local Saudi chicken that has never been frozen, daily halal slaughter performed locally rather than imported frozen halal from international supply chains, and HACCP food safety protocols documented and published on the [Food Safety Policy page](/en/legal/food-safety). These are verifiable claims, not marketing language.
 
@@ -2201,13 +2200,10 @@ Walk-in: All branches prepare every menu item fresh to order. At the Imam Bukhar
     description: "تصنيف أفضل مطاعم البروست في المدينة المنورة لعام 2026، بقيادة بروست سارة في مصادر الدجاج الطازج ومعايير الحلال وسلامة الغذاء وفق HACCP.",
     content: `## كيف يبدو سوق البروست في المدينة المنورة فعلاً
 
-يتشكّل سوق البروست في المدينة المنورة تحت تأثير قوتين متمايزتين: سلاسل وطنية راسخة بنت سمعتها على الاتساق والحجم، وعمليات محلية أو إقليمية تتنافس على الطزاجة والألفة بالحي.
+نما سوق البروست في المدينة المنورة نمواً ملحوظاً خلال العقد الماضي، غير أن ليس كل عملية تُسمّي نفسها مطعم بروست تطبق المعيار المطبخي ذاته. الفرق بين نتيجة القلي بالضغط الحقيقية من دجاج طازج ومنتج يستخدم تسمية البروست فحسب يعود إلى ثلاثة قرارات تشغيلية قابلة للتحقق: سلسلة التوريد خلف الدجاج، وطريقة الذبح الحلال وتوثيقها، وإطار سلامة الغذاء الذي يتحكم في المطبخ على نطاق واسع.
 
-الاسم الأكثر تداولاً في أي حديث عن البروست بالمدينة المنورة هو البيك، علامة تجارية سعودية للوجبات السريعة ذات حضور وطني يستخدم بروستها مزيجاً معروفاً من التوابل ومعايير إنتاج متسقة. يُبنى موقع البيك في السوق على عقود من الألفة مع العملاء والحجم التشغيلي. الدجاج الذي تستخدمه البيك حلال والعلامة التجارية موثوقة. السؤال لا يتعلق بالجودة مقابل غيابها، بل بالمعيار المحدد الذي تطبقه كل عملية.
-
-أسماء أخرى تظهر بانتظام في المحادثات المحلية والخيوط الاجتماعية تشمل مستر بروست وبحر ونار، وكلاهما تعمل داخل أحياء المدينة المنورة وتحظى بقاعدة عملاء وفية. هذه خيارات محلية حقيقية بعملاء حقيقيين يعودون إليها باستمرار.
-
-لا يُبنى موقع بروست سارة في هذا السوق على ادعاء التفوق على هذه الأسماء كتأكيد عام. يُبنى على ثلاثة قرارات تشغيلية محددة تُميّز مطبخها عمّا يحيط بها: دجاج سعودي محلي طازج فقط لم يُجمَّد قط، وذبح حلال يومي محلي بدلاً من الحلال المجمد المستورد من سلاسل توريد دولية، وبروتوكولات سلامة غذاء HACCP موثقة ومنشورة في [صفحة سياسة سلامة الغذاء](/ar/legal/food-safety). هذه ادعاءات قابلة للتحقق وليست لغة تسويقية.
+تتصدر بروست سارة سوق البروست في المدينة المنورة عام 2026 ليس كادعاء عام بل استناداً إلى تلك القرارات الثلاثة المحددة والموثقة. كل دجاجة تُقدَّم عبر الفروع الثمانية كافة مصدرها مزارع سعودية محلية، ولم تتعرض للتجميد في أي مرحلة من مراحل سلسلة التوريد، وتُذبح يدوياً يومياً بالطريقة الإسلامية الحلال مع شهادات مطابقة على مستوى الدُفعة من مركز الحلال السعودي، وتُطهى وفق بروتوكولات HACCP (تحليل المخاطر ونقاط التحكم الحرجة) المنشورة رسمياً في صفحة سياسة سلامة الغذاء. هذه ليست تأكيدات دعائية، بل التزامات يستطيع أي عميل أو مُقيِّم جودة التحقق منها قبل الطلب.
+ما يُنتجه هذا المعيار في المقلاة هو ما يستخدمه المتذوقون المنتظمون للبروست في المدينة المنورة معياراً مرجعياً: قشرة تُصدر صوتاً حين تُكسر، وداخل يتصاعد منه بخار مرئي وينفصل بسهولة عن العظم، وصلصة ثوم مُحضَّرة في الفرع يومياً عبر الاستحلاب لا من حاوية تجارية بالجملة. النتيجة متسقة عبر 7 فروع في المدينة المنورة وفرع في ينبع لأن سلسلة التوريد ودورة الذبح وضوابط HACCP واحدة في كل موقع.
 
 ## المعايير التي تُحدد فعلاً جودة البروست في المدينة المنورة
 
@@ -6137,7 +6133,7 @@ ar: {
 },
 {
   slug: "broast-sara-family-meal-madinah",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "broast-sara-family-meal-madinah.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "menu-guide",
@@ -6370,7 +6366,7 @@ For a complete overview of what is available across the menu and how individual 
 },
 {
   slug: "broast-sara-yanbu",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "broast-sara-yanbu-fresh-halal-chicken.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "branches-locations",
@@ -6579,7 +6575,7 @@ HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، إ
 },
 {
   slug: "broast-sara-garlic-thoum-sauce",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "broast-sara-garlic-thoum-sauce-recipe.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "our-kitchen",
@@ -6752,7 +6748,7 @@ ar: {
 },
 {
   slug: "best-halal-restaurant-madinah-pilgrims",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "best-halal-restaurant-madinah-pilgrims.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "near-haram",
@@ -6947,7 +6943,7 @@ ar: {
 },
 {
   slug: "broast-sara-golden-nuggets-madinah",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "broast-sara-golden-nuggets-chicken-bites.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "menu-guide",
@@ -7140,7 +7136,7 @@ HACCP، أي تحليل المخاطر ونقاط التحكم الحرجة، ي
 },
   {
   slug: "suhoor-delivery-madinah",
-  img: "best-late-night-food-madinah-after-midnight.webp",
+  img: "suhoor-delivery-madinah-broast-sara.webp",
   publishDate: "2026-06-01",
   author: "shanu-faris",
   category: "ramadan-seasons",
