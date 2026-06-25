@@ -45,6 +45,10 @@ const nextConfig = {
       { source: '/en/blog/why-choose-broast-sara', destination: '/en/blog/best-broast-in-madinah-broast-sara', permanent: true },
       { source: '/ar/blog/why-choose-broast-sara', destination: '/ar/blog/best-broast-in-madinah-broast-sara', permanent: true },
 
+      { source: '/en/blog/best-halal-food-near-masjid-al-nabawi-madinah', destination: '/en/blog/restaurants-near-masjid-al-nabawi', permanent: true },
+      { source: '/ar/blog/best-halal-food-near-masjid-al-nabawi-madinah', destination: '/ar/blog/restaurants-near-masjid-al-nabawi', permanent: true },
+      { source: '/blog/best-halal-food-near-masjid-al-nabawi-madinah', destination: '/ar/blog/restaurants-near-masjid-al-nabawi', permanent: true },
+
       { source: '/blog/madinah-foods-must-try', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
       { source: '/en/blog/madinah-foods-must-try', destination: '/en/blog/madinah-neighborhoods-branches', permanent: true },
       { source: '/ar/blog/madinah-foods-must-try', destination: '/ar/blog/madinah-neighborhoods-branches', permanent: true },
