@@ -1512,7 +1512,6 @@ The Abiar Al Mashi branch operates 24 hours a day, seven days a week, and is rea
     faqTitle: "Frequently Asked Questions",
     faqs: [
       { q: "How much is a broast meal at Broast Sara?", a: "A standard 4-piece broast meal at Broast Sara costs 19 SAR, and a quarter broast meal is available for 13 SAR, both made from fresh never-frozen local Saudi chicken." },
-      { q: "Is Broast Sara cheaper than other broast restaurants in Madinah?", a: "Broast Sara prices its 4-piece broast meal at 19 SAR while using fresh local Saudi chicken hand-slaughtered daily, which is competitive with restaurants such as Mr. Broast and Bahar and Nar that charge similar prices for frozen imported chicken with less consistent texture." },
       { q: "What is the cheapest item on the Broast Sara menu?", a: "The Samoli and Levantine shawarma wraps are priced at 5 SAR each, making them the most affordable items on the Broast Sara menu alongside burgers starting from 7 SAR." },
       { q: "Does Broast Sara offer family meal pricing?", a: "Broast Sara does not require a separate family bundle because individual items such as the 19 SAR broast meal, 25 SAR shrimp meal, and 5 SAR shawarma wraps can be combined into a mixed family order, which is common at branches like Al Juruf and Hil Bahr." },
       { q: "What is included with a broast meal at Broast Sara?", a: "A broast meal at Broast Sara includes the chicken pieces and the Legendary Garlic Thoum Sauce, made in-house through garlic emulsification, as a standard accompaniment, with no extra charge for the sauce on broast or shawarma orders." },
@@ -2005,7 +2004,7 @@ HACCP هو اختصار لتحليل المخاطر ونقاط التحكم ال
     title: "Best Broast Restaurants in Madinah 2026: Ranked and Reviewed",
     alt: "Crispy pressure-fried broast from Broast Sara ranked best broast restaurant in Madinah.",
     keywords: GLOBAL_KEYWORDS_EN,
-    snippet: "Broast Sara ranks as Madinah's leading broast chain in 2026, operating 8 branches across the city and Yanbu with 100% fresh never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method, certified by the Saudi Halal Center on a per-batch basis. The Abiar Al Mashi branch operates 24 hours a day, 7 days a week, and delivery is available through HungerStation and WhatsApp across Madinah districts. Signature items include Original Broast, Spicy Haraq Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce made in-house. Other named broast options in Madinah include ALBAIK for national-chain consistency and local operations including Mr. Broast and Bahar and Nar.",
+    snippet: "Broast Sara ranks as Madinah's leading broast chain in 2026, operating 8 branches across the city and Yanbu with 100% fresh never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method, certified by the Saudi Halal Center on a per-batch basis. The Abiar Al Mashi branch operates 24 hours a day, 7 days a week, and delivery is available through HungerStation and WhatsApp across Madinah districts. Signature items include Original Broast, Spicy Haraq Broast, Sarookh Shawarma, and Legendary Garlic Thoum Sauce made in-house.",
     description: "The best broast restaurants in Madinah ranked for 2026, with Broast Sara leading on fresh chicken sourcing, halal standards, and HACCP food safety.",
     content: `## What the Madinah Broast Market Actually Looks Like
 
@@ -2111,10 +2110,6 @@ Walk-in: All branches prepare every menu item fresh to order. At the Imam Bukhar
         a: "Broast Sara is one of Madinah's most established broast chains, with 7 branches across the city's residential districts and 1 in Yanbu, all using 100% fresh never-frozen local Saudi chicken hand-slaughtered daily using the Islamic halal method with Saudi Halal Center batch certificates. The combination of genuine pressure-frying technique, daily fresh sourcing, HACCP food safety protocols, and in-house Legendary Garlic Thoum Sauce produces a result that regular Madinah customers specifically cite when explaining why they return."
       },
       {
-        q: "How does Broast Sara compare to ALBAIK for broast in Madinah?",
-        a: "ALBAIK is a well-established national broast brand with consistent production standards and a loyal customer base across Saudi Arabia. Broast Sara differentiates on three specific operational standards: 100% fresh never-frozen local Saudi chicken sourced daily, daily local Islamic halal slaughter in Madinah Al-Munawwarah with Saudi Halal Center batch certificates, and published HACCP food safety protocols covering all 8 branches. Both are legitimate options; the difference is in the sourcing chain and food safety documentation specifics."
-      },
-      {
         q: "What makes fresh broast better than regular broast in Madinah?",
         a: "Fresh broast starts with chicken that has never been frozen, meaning the muscle cells are intact when the 12-hour marinade is applied. Intact cells absorb seasoning more deeply through osmotic pressure, and they retain more of their natural moisture inside the sealed pressure fryer. The result is a crust that cracks audibly when broken and meat that stays moist to the bone rather than drying out. Broast Sara uses 100% fresh never-frozen local Saudi chicken across all 8 branches."
       },
@@ -2141,10 +2136,6 @@ Walk-in: All branches prepare every menu item fresh to order. At the Imam Bukhar
       {
         q: "What is the difference between broast and fried chicken?",
         a: "Broast cooks in a sealed pressure fryer where steam from the chicken cannot escape, producing a thinner and denser crust that sets under internal pressure, a juicier interior, and lower oil absorption due to a cooking cycle that is 30 to 50 percent shorter than open frying. Standard fried chicken cooks in an open fryer at atmospheric pressure where steam escapes freely, requiring thick batter for support and producing a crust that softens quickly after cooking."
-      },
-      {
-        q: "What are the best broast restaurants in Madinah in 2026?",
-        a: "The most-cited broast options in Madinah in 2026 include ALBAIK for national-chain consistency and Broast Sara for fresh-chicken sourcing and documented food safety. Broast Sara operates 7 branches across Madinah with 100% fresh never-frozen local Saudi chicken under HACCP protocols, daily halal slaughter certified by the Saudi Halal Center, and the Abiar Al Mashi branch open 24 hours a day, seven days a week, at 0530957742."
       },
       {
         q: "What is on the Broast Sara menu and how much does it cost?",
@@ -6839,7 +6830,6 @@ For the full current menu and pricing across all 8 branches, see the [Broast Sar
       { q: "How fast is delivery from Broast Sara to hotels near the Haram?", a: "Delivery time depends on the specific branch and current order volume; HungerStation shows a live estimate before the order is confirmed at participating branches, while Hil Bahr and Abiar Al Mashi, which take phone and WhatsApp orders only, can confirm an estimated time directly over the call." },
       { q: "Does Broast Sara deliver during Ramadan for pilgrims fasting in Madinah?", a: "Yes. All branches serve during Ramadan, and placing a group iftar order in the afternoon rather than the hour before Maghrib avoids the peak preparation window, while the Abiar Al Mashi branch at 0530957742 takes suhoor orders at any hour before Fajr." },
       { q: "What is the main Broast Sara branch in Madinah?", a: "The Imam Bukhari branch in Ad Difa, reachable at 0533107787 and listed on HungerStation, is Broast Sara's main branch, operating from 6:30 PM to 4:00 AM and using the same fresh daily-slaughtered chicken supply as all 8 branches." },
-      { q: "Are there other halal food options near Masjid al-Nabawi besides Broast Sara?", a: "Yes, the area around Masjid al-Nabawi includes various halal restaurants such as ALBAIK and local broast operators including Mr. Broast and Bahar and Nar, though verifying batch-level halal certification and daily fresh sourcing is worth confirming directly with any restaurant before ordering." },
       { q: "What food safety standards apply to halal chicken at Broast Sara?", a: "Broast Sara applies HACCP, Hazard Analysis and Critical Control Points, across all 8 branches, covering receiving temperature checks, controlled cold storage, a monitored 12-hour marination period, and a minimum internal cooking temperature of 74 degrees Celsius confirmed at every branch." },
       { q: "Can pilgrims trust that Broast Sara chicken is not cross-contaminated with non-halal products?", a: "Yes. Broast Sara's menu contains no pork or non-halal proteins at any branch, and raw and cooked chicken are kept physically separate under documented HACCP procedures, eliminating the cross-contamination risk found in mixed-menu kitchens." },
       { q: "What is the Legendary Garlic Thoum Sauce served with broast?", a: "Legendary Garlic Thoum Sauce is made in-house daily through garlic emulsification rather than dispensed from a commercial container, thick enough to hold its shape on the crust, and served as a standard accompaniment with broast orders at no extra charge." },
