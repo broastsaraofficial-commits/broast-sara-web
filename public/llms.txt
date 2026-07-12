@@ -1,0 +1,11 @@
+# Broast Sara
+
+Broast Sara is a broast and shawarma restaurant chain with 8 branches across Madinah and Yanbu, Saudi Arabia, serving 100% fresh local Saudi halal chicken.
+
+- [Homepage](https://broastsara.com/ar)
+- [Menu](https://broastsara.com/ar/menu)
+- [Locations](https://broastsara.com/ar/locations)
+- [About](https://broastsara.com/ar/about)
+- [Blog](https://broastsara.com/ar/blog)
+- [FAQ](https://broastsara.com/ar/faq)
+- [Order](https://broastsara.com/ar/order)

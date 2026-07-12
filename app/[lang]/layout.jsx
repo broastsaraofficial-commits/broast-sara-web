@@ -4,9 +4,10 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import MetaPixelTracker from "@/components/MetaPixelTracker";
 import Image from "next/image";
 import Script from "next/script";
-import Link from "next/link"; // ADDED for the global sticky footer
+import Link from "next/link";
 
 const cairo = Cairo({ subsets: ["arabic"], weight: ["400", "700", "900"], variable: "--font-cairo", display: "swap" });
 const instrument = Instrument_Serif({ subsets: ["latin"], weight: ["400"], style: ["italic", "normal"], variable: "--font-instrument", display: "swap" });
@@ -60,7 +61,7 @@ export default async function RootLayout({ children, params }) {
         {/* Intentionally left blank to protect the critical rendering path */}
         
         {/* Google Tag Manager - Script Tag added safely */}
-        <Script id="google-tag-manager" strategy="afterInteractive">
+        <Script id="google-tag-manager" strategy="lazyOnload">
           {`
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -69,10 +70,35 @@ export default async function RootLayout({ children, params }) {
             })(window,document,'script','dataLayer','GTM-KQVFFFTQ');
           `}
         </Script>
+        {/* Snap Pixel */}
+<Script id="snap-pixel" strategy="lazyOnload">
+{`(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
+{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
+a.queue=[];var s='script';var r=t.createElement(s);r.async=!0;
+r.src=n;var u=t.getElementsByTagName(s)[0];
+u.parentNode.insertBefore(r,u);})(window,document,
+'https://sc-static.net/scevent.min.js');
+snaptr('init', '1234567890123456');
+snaptr('track', 'PAGE_VIEW');`}
+</Script>
+
+        {/* Meta Pixel */}
+<Script id="meta-pixel" strategy="lazyOnload">
+{`!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1465672615448804');
+fbq('track', 'PageView');`}
+</Script>
       </head>
       <body className={`${cairo.variable} ${instrument.variable} bg-black antialiased text-white min-h-screen flex flex-col relative`}>
 
-        {/* Google Tag Manager (noscript) - Placed immediately after body open */}
+        {/* Google Tag Manager (noscript) */}
         <noscript>
           <iframe 
             src="https://www.googletagmanager.com/ns.html?id=GTM-KQVFFFTQ"
@@ -81,6 +107,20 @@ export default async function RootLayout({ children, params }) {
             style={{ display: "none", visibility: "hidden" }}
           ></iframe>
         </noscript>
+
+        {/* Meta Pixel (noscript) */}
+<noscript>
+  <img
+    height="1"
+    width="1"
+    style={{ display: "none" }}
+    src="https://www.facebook.com/tr?id=1465672615448804&ev=PageView&noscript=1"
+    alt=""
+  />
+</noscript>
+
+        {/* Meta Pixel SPA route tracking */}
+        <MetaPixelTracker />
 
         <div className="fixed top-0 left-0 w-full h-[100vh] h-[100dvh] z-[-2] pointer-events-none bg-black">
           <div className="hidden md:block w-full h-full relative">
@@ -114,7 +154,6 @@ export default async function RootLayout({ children, params }) {
           <Footer />
           <WhatsAppButton />
           
-          {/* ADDED: Global Sticky Footer for Mobile. Z-index 100. Pointer-events-none on wrapper so it doesn't block clicks beneath it. */}
           <div className="fixed bottom-6 left-0 w-full z-[100] px-4 flex gap-3 md:hidden pointer-events-none" dir={isEn ? "ltr" : "rtl"}>
             <Link href={isEn ? "/en/order" : "/ar/order"} className="flex-1 bg-[#E31837] text-white py-4 rounded-full flex items-center justify-center gap-2 font-instrument text-lg shadow-[0_4px_20px_rgba(227,24,55,0.5)] pointer-events-auto no-underline">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg>
