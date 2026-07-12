@@ -1,8 +1,8 @@
 "use client";
 import { usePathname, useSearchParams } from "next/navigation";
-import { useEffect } from "react";
+import { useEffect, Suspense } from "react";
 
-export default function MetaPixelTracker() {
+function TrackerInner() {
   const pathname = usePathname();
   const searchParams = useSearchParams();
 
@@ -16,4 +16,12 @@ export default function MetaPixelTracker() {
   }, [pathname, searchParams]);
 
   return null;
+}
+
+export default function MetaPixelTracker() {
+  return (
+    <Suspense fallback={null}>
+      <TrackerInner />
+    </Suspense>
+  );
 }
