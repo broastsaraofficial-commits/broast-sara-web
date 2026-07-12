@@ -13,6 +13,9 @@ function TrackerInner() {
     if (typeof window.snaptr === "function") {
       window.snaptr("track", "PAGE_VIEW");
     }
+    if (typeof window.ttq === "object" && typeof window.ttq.page === "function") {
+      window.ttq.page();
+    }
   }, [pathname, searchParams]);
 
   return null;
