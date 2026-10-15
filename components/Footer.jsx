@@ -54,9 +54,9 @@ export default function Footer() {
           <h3 className="text-2xl text-[#FFD700] font-bold font-instrument mt-6 mb-3">{isEn ? 'Follow Us' : 'تابعنا'}</h3>
           <div className="flex gap-4 justify-center md:justify-start">
             {/* UPDATED: Attached social media links with target="_blank" for safe external opening */}
-            <a href="https://www.instagram.com/broastsara_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" className="hover:text-[#FFD700] text-lg text-white no-underline">Instagram</a>
+            <a href="https://www.instagram.com/broast_sara" target="_blank" rel="noopener noreferrer" className="hover:text-[#FFD700] text-lg text-white no-underline">Instagram</a>
             <a href="https://www.snapchat.com/add/broast_sara" target="_blank" rel="noopener noreferrer" className="hover:text-[#FFD700] text-lg text-white no-underline">Snapchat</a>
-            <a href="https://www.tiktok.com/@broastsara?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer" className="hover:text-[#FFD700] text-lg text-white no-underline">TikTok</a>
+            <a href="https://www.tiktok.com/@broastsara" target="_blank" rel="noopener noreferrer" className="hover:text-[#FFD700] text-lg text-white no-underline">TikTok</a>
           </div>
         </div>
 
